@@ -1,0 +1,6267 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q206221",
+    "span": "Languedoc",
+    "label": "Languedoc",
+    "description": "historical province of France",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q19520525",
+    "span": "Lucifer",
+    "label": "Lucifer",
+    "description": "American television series",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q206678",
+    "span": "ote",
+    "label": "OTE",
+    "description": "Greek telecommunication company",
+    "type": "ORG"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q2978700",
+    "span": "I3",
+    "label": "straight-three",
+    "description": "inline piston engine with three cylinders",
+    "type": "ORG"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q3375567",
+    "span": "Perrache",
+    "label": "Perrache",
+    "description": "quarter of the 2nd arrondissement of Lyon, in the south of the Presqu'\u00eele",
+    "type": "LOC"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q215174",
+    "span": "Sanctus",
+    "label": "Sanctus",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q39",
+    "span": "suisse",
+    "label": "Switzerland",
+    "description": "federal republic in Central Europe",
+    "type": "LOC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q5273943",
+    "span": "dictee",
+    "label": "Dictee",
+    "description": "book by Theresa Hak Kyung Cha",
+    "type": "LOC"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q11005",
+    "span": "MP",
+    "label": "House of Commons",
+    "description": "lower house in the Parliament of the United Kingdom",
+    "type": "MISC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q1657041",
+    "span": "Finet",
+    "label": "Achille Eug\u00e8ne Finet",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q1657041",
+    "span": "Finet",
+    "label": "Achille Eug\u00e8ne Finet",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q18373",
+    "span": "G",
+    "label": "gravitational constant",
+    "description": "empirical physical constant relating the gravitational force between objects to their mass and distance",
+    "type": "MISC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q117934",
+    "span": "Tour",
+    "label": "The Tour",
+    "description": "2008 film by Goran Markovi\u0107",
+    "type": "MISC"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q38120567",
+    "span": "Peyrol",
+    "label": "Juliette Bonheur",
+    "description": "French painter, 1830-1891",
+    "type": "PER"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q958603",
+    "span": "perche",
+    "label": "Perche",
+    "description": "region in France",
+    "type": "PER"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q842462",
+    "span": "vilaine",
+    "label": "Vilaine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q4690138",
+    "span": "Afrique",
+    "label": "Afrique",
+    "description": "album by Count Basie",
+    "type": "LOC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q295711",
+    "span": "ANI",
+    "label": "Windows Animated Cursor",
+    "description": "animation file format",
+    "type": "ORG"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q4654021",
+    "span": "as4",
+    "label": "AS4",
+    "description": "open standard",
+    "type": "PER"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q6480008",
+    "span": "lal",
+    "label": "Lal",
+    "description": "Indian actor and director",
+    "type": "ORG"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q17103976",
+    "span": "Mirabeau",
+    "label": "Mirabeau",
+    "description": "company",
+    "type": "PER"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q2565",
+    "span": "Titan",
+    "label": "Titan",
+    "description": "sixth moon of Saturn",
+    "type": "LOC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q762286",
+    "span": "Condillac",
+    "label": "Condillac",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "PER"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q2439573",
+    "span": "ellel",
+    "label": "Ellel",
+    "description": "village and civil parish in Lancashire, UK",
+    "type": "MISC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q126661",
+    "span": "metairie",
+    "label": "Metairie",
+    "description": "census designated place",
+    "type": "LOC"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q5155503",
+    "span": "Compagnie",
+    "label": "Company",
+    "description": "short novel by Samuel Beckett",
+    "type": "ORG"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q2422019",
+    "span": "College",
+    "label": "College",
+    "description": "episode of The Sopranos (S1 E5)",
+    "type": "LOC"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q5273943",
+    "span": "dictee",
+    "label": "Dictee",
+    "description": "book by Theresa Hak Kyung Cha",
+    "type": "LOC"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q5273943",
+    "span": "dictee",
+    "label": "Dictee",
+    "description": "book by Theresa Hak Kyung Cha",
+    "type": "LOC"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q58199",
+    "span": "IM",
+    "label": "instant messaging",
+    "description": "form of communication over the Internet",
+    "type": "LOC"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q5155503",
+    "span": "Compagnie",
+    "label": "Company",
+    "description": "short novel by Samuel Beckett",
+    "type": "ORG"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q635155",
+    "span": "creator",
+    "label": "creator deity",
+    "description": "deity or god responsible for the creation of the universe",
+    "type": "MISC"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q132241",
+    "span": "festival",
+    "label": "festival",
+    "description": "celebration that focuses upon a theme, and may run for hours to weeks",
+    "type": "MISC"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q217195",
+    "span": "emule",
+    "label": "eMule",
+    "description": "Free peer-to-peer file sharing application for Microsoft Windows.",
+    "type": "MISC"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q1659578",
+    "span": "Lamartine",
+    "label": "Lamartine",
+    "description": "civil town in Fond du Lac County, Wisconsin",
+    "type": "PER"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q17103976",
+    "span": "Mirabeau",
+    "label": "Mirabeau",
+    "description": "company",
+    "type": "PER"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q4740861",
+    "span": "AMI",
+    "label": "Amazon Machine Image",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q12130",
+    "span": "Bretagne",
+    "label": "Brittany",
+    "description": "administrative region of France",
+    "type": "LOC"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q3058360",
+    "span": "Espagne",
+    "label": "SS Espagne",
+    "description": "11,155 GRT ocean liner which was built in 1909",
+    "type": "LOC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q4740861",
+    "span": "AMI",
+    "label": "Amazon Machine Image",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q397",
+    "span": "Latin",
+    "label": "Latin",
+    "description": "almost extinct Indo-European language of the Italic family",
+    "type": "MISC"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q4740861",
+    "span": "AMI",
+    "label": "Amazon Machine Image",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q4740861",
+    "span": "AMI",
+    "label": "Amazon Machine Image",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q2610501",
+    "span": "Cecilia",
+    "label": "Cecilia",
+    "description": "original song written and composed by Paul Simon",
+    "type": "MISC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q171677",
+    "span": "Roger",
+    "label": "Roger Bacon",
+    "description": "medieval philosopher and theologian",
+    "type": "PER"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q157521",
+    "span": "Bonaparte",
+    "label": "Charles Lucien Bonaparte",
+    "description": "French biologist",
+    "type": "PER"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q61668028",
+    "span": "Cadet",
+    "label": "Blaine Johnson",
+    "description": "British rapper",
+    "type": "PER"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q61668028",
+    "span": "Cadet",
+    "label": "Blaine Johnson",
+    "description": "British rapper",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q689",
+    "span": "Bastille",
+    "label": "Bastille",
+    "description": "English musical group",
+    "type": "LOC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q842462",
+    "span": "vilaine",
+    "label": "Vilaine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q3015267",
+    "span": "YIV",
+    "label": "Island Lake Airport",
+    "description": "airport in Manitoba, Canada",
+    "type": "ORG"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q11005",
+    "span": "MP",
+    "label": "House of Commons",
+    "description": "lower house in the Parliament of the United Kingdom",
+    "type": "MISC"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q397",
+    "span": "Latin",
+    "label": "Latin",
+    "description": "almost extinct Indo-European language of the Italic family",
+    "type": "MISC"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q10934",
+    "span": "M1",
+    "label": "Crab Nebula",
+    "description": "Supernova remnant",
+    "type": "MISC"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q12130",
+    "span": "Bretagne",
+    "label": "Brittany",
+    "description": "administrative region of France",
+    "type": "LOC"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q5155503",
+    "span": "Compagnie",
+    "label": "Company",
+    "description": "short novel by Samuel Beckett",
+    "type": "ORG"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q2695129",
+    "span": "MIP",
+    "label": "molecularly imprinted polymer",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q4273929",
+    "span": "Madeleine",
+    "label": "Madeleine",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q5273943",
+    "span": "dictee",
+    "label": "Dictee",
+    "description": "book by Theresa Hak Kyung Cha",
+    "type": "LOC"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q1151445",
+    "span": "Saint-Guillaume",
+    "label": "Saint-Guillaume",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q19516",
+    "span": "Lille",
+    "label": "Lille OSC",
+    "description": "French association football club",
+    "type": "LOC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q1151445",
+    "span": "Saint-Guillaume",
+    "label": "Saint-Guillaume",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q1151445",
+    "span": "Saint-Guillaume",
+    "label": "Saint-Guillaume",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q958603",
+    "span": "perche",
+    "label": "Perche",
+    "description": "region in France",
+    "type": "PER"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q1151445",
+    "span": "Saint-Guillaume",
+    "label": "Saint-Guillaume",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q19516",
+    "span": "Lille",
+    "label": "Lille OSC",
+    "description": "French association football club",
+    "type": "LOC"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q7169488",
+    "span": "Perou",
+    "label": "Perou",
+    "description": "British photographer",
+    "type": "LOC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q5273943",
+    "span": "dictee",
+    "label": "Dictee",
+    "description": "book by Theresa Hak Kyung Cha",
+    "type": "LOC"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q21193874",
+    "span": "Dig",
+    "label": "John Diggle",
+    "description": "fictional character from DC Comics",
+    "type": "MISC"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q220",
+    "span": "Rome",
+    "label": "Rome",
+    "description": "capital and largest city of Italy",
+    "type": "LOC"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q1939877",
+    "span": "Mazarin",
+    "label": "Mazarin",
+    "description": "album by Per Gessle",
+    "type": "PER"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q16766322",
+    "span": "Germain",
+    "label": "Germain",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q560",
+    "span": "He",
+    "label": "helium",
+    "description": "chemical element with the chemical symbol He and the atomic number of 2",
+    "type": "MISC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q32",
+    "span": "Luxembourg",
+    "label": "Luxembourg",
+    "description": "country in Western Europe",
+    "type": "LOC"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q6713983",
+    "span": "M9",
+    "label": "M9",
+    "description": "Railcar of the Long Island Rail Road (LIRR) and the Metro North Railroad",
+    "type": "ORG"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q79303",
+    "span": "Pinson",
+    "label": "Pinson",
+    "description": "city",
+    "type": "PER"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q170507",
+    "span": "Nanterre",
+    "label": "Nanterre",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q627",
+    "span": "N",
+    "label": "nitrogen",
+    "description": "element with the atomic number of 7",
+    "type": "LOC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q79303",
+    "span": "Pinson",
+    "label": "Pinson",
+    "description": "city",
+    "type": "PER"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q144497",
+    "span": "ide",
+    "label": "Ide",
+    "description": "species of fish",
+    "type": "MISC"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q6480008",
+    "span": "lal",
+    "label": "Lal",
+    "description": "Indian actor and director",
+    "type": "ORG"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q2695129",
+    "span": "MIP",
+    "label": "molecularly imprinted polymer",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q186115",
+    "span": "Montmartre",
+    "label": "Montmartre",
+    "description": "hill in the north of Paris, France",
+    "type": "LOC"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q206221",
+    "span": "Languedoc",
+    "label": "Languedoc",
+    "description": "historical province of France",
+    "type": "LOC"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q27904001",
+    "span": "Blanche",
+    "label": "Ellie Delvaux",
+    "description": "Belgian singer",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q173219",
+    "span": "tournai",
+    "label": "Tournai",
+    "description": "city in Hainaut, Belgium",
+    "type": "LOC"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "ORG"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q205653",
+    "span": "Orient",
+    "label": "Orient",
+    "description": "term for the Eastern world",
+    "type": "MISC"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q397",
+    "span": "Latin",
+    "label": "Latin",
+    "description": "almost extinct Indo-European language of the Italic family",
+    "type": "MISC"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q397",
+    "span": "Latin",
+    "label": "Latin",
+    "description": "almost extinct Indo-European language of the Italic family",
+    "type": "MISC"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q6480008",
+    "span": "lal",
+    "label": "Lal",
+    "description": "Indian actor and director",
+    "type": "ORG"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q1781428",
+    "span": "L3",
+    "label": "L-3 Communications",
+    "description": "company in New York, United States",
+    "type": "MISC"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q6058399",
+    "span": "IEn",
+    "label": "Intraepithelial neoplasia",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q560",
+    "span": "He",
+    "label": "helium",
+    "description": "chemical element with the chemical symbol He and the atomic number of 2",
+    "type": "MISC"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q2233057",
+    "span": "BTE",
+    "label": "Sherbro International Airport",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q500515",
+    "span": "gal",
+    "label": "gal",
+    "description": "unit of acceleration",
+    "type": "ORG"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q124147",
+    "span": "Scorpions",
+    "label": "Scorpions",
+    "description": "German rock band",
+    "type": "ORG"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q17110140",
+    "span": "Scorpion",
+    "label": "Scorpion",
+    "description": "American television action drama series (2014-2018)",
+    "type": "LOC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q39083",
+    "span": "PORCELAINE",
+    "label": "Porcelaine",
+    "description": "dog breed",
+    "type": "ORG"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q1659578",
+    "span": "Lamartine",
+    "label": "Lamartine",
+    "description": "civil town in Fond du Lac County, Wisconsin",
+    "type": "PER"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q39083",
+    "span": "PORCELAINE",
+    "label": "Porcelaine",
+    "description": "dog breed",
+    "type": "ORG"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q33959",
+    "span": "Nice",
+    "label": "Nice",
+    "description": "city in Alpes-Maritimes, France",
+    "type": "LOC"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q1033",
+    "span": "NG",
+    "label": "Nigeria",
+    "description": "federal republic in West Africa",
+    "type": "MISC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q39083",
+    "span": "PORCELAINE",
+    "label": "Porcelaine",
+    "description": "dog breed",
+    "type": "ORG"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q2334305",
+    "span": "Gustave",
+    "label": "Gustave",
+    "description": "large male Nile crocodile from Burundi",
+    "type": "PER"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q893491",
+    "span": "BOREL",
+    "label": "Borel",
+    "description": "lunar crater",
+    "type": "ORG"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q18036971",
+    "span": "pask",
+    "label": "PASK",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "ORG"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q39083",
+    "span": "PORCELAINE",
+    "label": "Porcelaine",
+    "description": "dog breed",
+    "type": "ORG"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q5752699",
+    "span": "Colombine",
+    "label": "Carmen de Burgos",
+    "description": "Spanish writer and journalist",
+    "type": "LOC"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q34261",
+    "span": "Port-au-Prince",
+    "label": "Port-au-Prince",
+    "description": "capital of Haiti",
+    "type": "LOC"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q893491",
+    "span": "BOREL",
+    "label": "Borel",
+    "description": "lunar crater",
+    "type": "ORG"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q33959",
+    "span": "Nice",
+    "label": "Nice",
+    "description": "city in Alpes-Maritimes, France",
+    "type": "LOC"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q2412213",
+    "span": "Chili",
+    "label": "Chili",
+    "description": "human settlement in New York, United States of America",
+    "type": "LOC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q3630199",
+    "span": "AAI",
+    "label": "Airports Authority of India",
+    "description": "agency that runs airports in India",
+    "type": "MISC"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q23809",
+    "span": "Z",
+    "label": "atomic number",
+    "description": "number of protons found in the nucleus of an atom",
+    "type": "MISC"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q131749",
+    "span": "AN",
+    "label": "anorexia nervosa",
+    "description": "eating disorder characterized by refusal to maintain a healthy body weight, and an obsessive fear of gaining weight due to a distorted self image",
+    "type": "ORG"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q893491",
+    "span": "BOREL",
+    "label": "Borel",
+    "description": "lunar crater",
+    "type": "ORG"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q220",
+    "span": "Rome",
+    "label": "Rome",
+    "description": "capital and largest city of Italy",
+    "type": "LOC"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q2334305",
+    "span": "Gustave",
+    "label": "Gustave",
+    "description": "large male Nile crocodile from Burundi",
+    "type": "PER"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q329096",
+    "span": "Gustave Planche",
+    "label": "Jean Baptiste Gustave Planche",
+    "description": "French art historian",
+    "type": "PER"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q241",
+    "span": "Cuba",
+    "label": "Cuba",
+    "description": "country in the Caribbean",
+    "type": "LOC"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q365989",
+    "span": "Pacheco",
+    "label": "Francisco Pacheco",
+    "description": "Spanish artist",
+    "type": "ORG"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q365989",
+    "span": "Pacheco",
+    "label": "Francisco Pacheco",
+    "description": "Spanish artist",
+    "type": "ORG"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q754687",
+    "span": "Athalie",
+    "label": "Athalie",
+    "description": "tragedy by Racine",
+    "type": "PER"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q754687",
+    "span": "Athalie",
+    "label": "Athalie",
+    "description": "tragedy by Racine",
+    "type": "PER"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q943826",
+    "span": "Francais",
+    "label": "Fran\u00e7ois-Louis Fran\u00e7ais",
+    "description": "French painter",
+    "type": "LOC"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q754687",
+    "span": "Athalie",
+    "label": "Athalie",
+    "description": "tragedy by Racine",
+    "type": "PER"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q241",
+    "span": "Cuba",
+    "label": "Cuba",
+    "description": "country in the Caribbean",
+    "type": "LOC"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q754687",
+    "span": "Athalie",
+    "label": "Athalie",
+    "description": "tragedy by Racine",
+    "type": "PER"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q1716401",
+    "span": "LLL",
+    "label": "La Leche League International",
+    "description": "non-profit organisation in the USA",
+    "type": "MISC"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q6480008",
+    "span": "lal",
+    "label": "Lal",
+    "description": "Indian actor and director",
+    "type": "ORG"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q2334305",
+    "span": "Gustave",
+    "label": "Gustave",
+    "description": "large male Nile crocodile from Burundi",
+    "type": "PER"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q2373653",
+    "span": "Celles",
+    "label": "Celles",
+    "description": "section of Houyet, Belgium",
+    "type": "LOC"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q627",
+    "span": "N",
+    "label": "nitrogen",
+    "description": "element with the atomic number of 7",
+    "type": "LOC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q38130",
+    "span": "LN",
+    "label": "League of Nations",
+    "description": "intergovernmental organization, predecessor to the United Nations",
+    "type": "LOC"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q6172406",
+    "span": "Jeannot",
+    "label": "Jeannot",
+    "description": "Haitian rebel slave",
+    "type": "PER"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q370498",
+    "span": "Sceaux",
+    "label": "Sceaux",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q189153",
+    "span": "Saint-Cloud",
+    "label": "Saint-Cloud",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q724",
+    "span": "Maine",
+    "label": "Maine",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q157521",
+    "span": "Bonaparte",
+    "label": "Charles Lucien Bonaparte",
+    "description": "French biologist",
+    "type": "PER"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q313228",
+    "span": "Josias",
+    "label": "Josiah",
+    "description": "King of Judah",
+    "type": "PER"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q2401754",
+    "span": "deville",
+    "label": "Deville",
+    "description": "human settlement in Louisiana, United States of America",
+    "type": "LOC"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q494249",
+    "span": "TT",
+    "label": "Tokarev",
+    "description": "Soviet semi-automatic pistol",
+    "type": "MISC"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q157521",
+    "span": "Bonaparte",
+    "label": "Charles Lucien Bonaparte",
+    "description": "French biologist",
+    "type": "PER"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q1142",
+    "span": "Alsace",
+    "label": "Alsace",
+    "description": "former administrative region and former province of France",
+    "type": "LOC"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q57055",
+    "span": "Nina",
+    "label": "acetaminophen",
+    "description": "common drug for pain and fever",
+    "type": "MISC"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q2049293",
+    "span": "Chinois",
+    "label": "Chinois",
+    "description": "conical strainer (cooking utensil)",
+    "type": "LOC"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q157521",
+    "span": "Bonaparte",
+    "label": "Charles Lucien Bonaparte",
+    "description": "French biologist",
+    "type": "PER"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q1516553",
+    "span": "Vatel",
+    "label": "Vatel",
+    "description": "2000 film by Roland Joff\u00e9",
+    "type": "ORG"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q1008149",
+    "span": "Hacqueville",
+    "label": "Hacqueville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID785": {
+    "url": "https://www.wikidata.org/wiki/Q481514",
+    "span": "Marsala",
+    "label": "Marsala",
+    "description": "Italian comune in Sicily",
+    "type": "LOC"
+  },
+  "ID786": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID787": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID788": {
+    "url": "https://www.wikidata.org/wiki/Q635384",
+    "span": "MAP",
+    "label": "maximum a posteriori estimation",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID789": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID790": {
+    "url": "https://www.wikidata.org/wiki/Q1142",
+    "span": "Alsace",
+    "label": "Alsace",
+    "description": "former administrative region and former province of France",
+    "type": "LOC"
+  },
+  "ID791": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID792": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID793": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID794": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID795": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID796": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID797": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID798": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID799": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID800": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID801": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID802": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID803": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID804": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID805": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID806": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID807": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID808": {
+    "url": "https://www.wikidata.org/wiki/Q709571",
+    "span": "echo",
+    "label": "ECHO",
+    "description": "command of DOS, OS/2, Microsoft Windows, Unix and Unix-like operating systems",
+    "type": "LOC"
+  },
+  "ID809": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID810": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID811": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID812": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID813": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID814": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID815": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID816": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID817": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID818": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID819": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID820": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID821": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID822": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID823": {
+    "url": "https://www.wikidata.org/wiki/Q974515",
+    "span": "Inde",
+    "label": "Independiente FC",
+    "description": "Football Club",
+    "type": "LOC"
+  },
+  "ID824": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID825": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID826": {
+    "url": "https://www.wikidata.org/wiki/Q5155503",
+    "span": "Compagnie",
+    "label": "Company",
+    "description": "short novel by Samuel Beckett",
+    "type": "ORG"
+  },
+  "ID827": {
+    "url": "https://www.wikidata.org/wiki/Q456",
+    "span": "Lyon",
+    "label": "Lyon",
+    "description": "commune in the metropolis of Lyon, France",
+    "type": "LOC"
+  },
+  "ID828": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID829": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID830": {
+    "url": "https://www.wikidata.org/wiki/Q6480008",
+    "span": "lal",
+    "label": "Lal",
+    "description": "Indian actor and director",
+    "type": "ORG"
+  },
+  "ID831": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID832": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID833": {
+    "url": "https://www.wikidata.org/wiki/Q378907",
+    "span": "ace",
+    "label": "ace",
+    "description": "playing card",
+    "type": "MISC"
+  },
+  "ID834": {
+    "url": "https://www.wikidata.org/wiki/Q33959",
+    "span": "Nice",
+    "label": "Nice",
+    "description": "city in Alpes-Maritimes, France",
+    "type": "LOC"
+  },
+  "ID835": {
+    "url": "https://www.wikidata.org/wiki/Q185678",
+    "span": "Saint-Pierre",
+    "label": "Saint-Pierre",
+    "description": "commune in Saint-Pierre-et-Miquelon, France",
+    "type": "LOC"
+  },
+  "ID836": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID837": {
+    "url": "https://www.wikidata.org/wiki/Q15845850",
+    "span": "a8",
+    "label": "Apple A8",
+    "description": "Apple SoC in iPhone 6 and 6 Plus, 4th generation Apple TV, 4th generation iPad mini, 6th generation iPod touch and HomePod",
+    "type": "ORG"
+  },
+  "ID838": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID839": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID840": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID841": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID842": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID843": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID844": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID845": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID846": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID847": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Christ",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID848": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID849": {
+    "url": "https://www.wikidata.org/wiki/Q185678",
+    "span": "Saint-Pierre",
+    "label": "Saint-Pierre",
+    "description": "commune in Saint-Pierre-et-Miquelon, France",
+    "type": "LOC"
+  },
+  "ID850": {
+    "url": "https://www.wikidata.org/wiki/Q186115",
+    "span": "Montmartre",
+    "label": "Montmartre",
+    "description": "hill in the north of Paris, France",
+    "type": "LOC"
+  },
+  "ID851": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID852": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID853": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID854": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID855": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID856": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID857": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID858": {
+    "url": "https://www.wikidata.org/wiki/Q186115",
+    "span": "Montmartre",
+    "label": "Montmartre",
+    "description": "hill in the north of Paris, France",
+    "type": "LOC"
+  },
+  "ID859": {
+    "url": "https://www.wikidata.org/wiki/Q682230",
+    "span": "Raspail",
+    "label": "Fran\u00e7ois-Vincent Raspail",
+    "description": "French chemist, naturalist, physician, physiologist, attorney, and socialist politician",
+    "type": "PER"
+  },
+  "ID860": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID861": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID862": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID863": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID864": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID865": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID866": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID867": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID868": {
+    "url": "https://www.wikidata.org/wiki/Q420922",
+    "span": "a6",
+    "label": "Apple A6",
+    "description": "system on a chip (SoC) in Apple iPhone 5 and iPhone 5c",
+    "type": "LOC"
+  },
+  "ID869": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID870": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID871": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID872": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID873": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID874": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID875": {
+    "url": "https://www.wikidata.org/wiki/Q186115",
+    "span": "Montmartre",
+    "label": "Montmartre",
+    "description": "hill in the north of Paris, France",
+    "type": "LOC"
+  },
+  "ID876": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID877": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID878": {
+    "url": "https://www.wikidata.org/wiki/Q4476411",
+    "span": "uif",
+    "label": "Unidad de Inteligencia Financiera",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID879": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID880": {
+    "url": "https://www.wikidata.org/wiki/Q6714517",
+    "span": "MASoN",
+    "label": "MASON",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID881": {
+    "url": "https://www.wikidata.org/wiki/Q627",
+    "span": "N",
+    "label": "nitrogen",
+    "description": "element with the atomic number of 7",
+    "type": "LOC"
+  },
+  "ID882": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID883": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID884": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID885": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID886": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID887": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID888": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID889": {
+    "url": "https://www.wikidata.org/wiki/Q1367416",
+    "span": "Esculape",
+    "label": "Esculape",
+    "description": "automobile manufacturer",
+    "type": "PER"
+  },
+  "ID890": {
+    "url": "https://www.wikidata.org/wiki/Q605051",
+    "span": "Touraine",
+    "label": "Touraine",
+    "description": "traditional province of France",
+    "type": "LOC"
+  },
+  "ID891": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID892": {
+    "url": "https://www.wikidata.org/wiki/Q490032",
+    "span": "Chine",
+    "label": "chine",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID893": {
+    "url": "https://www.wikidata.org/wiki/Q242914",
+    "span": "Camille",
+    "label": "Camille",
+    "description": "French actress and singer",
+    "type": "PER"
+  },
+  "ID894": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  }
+}

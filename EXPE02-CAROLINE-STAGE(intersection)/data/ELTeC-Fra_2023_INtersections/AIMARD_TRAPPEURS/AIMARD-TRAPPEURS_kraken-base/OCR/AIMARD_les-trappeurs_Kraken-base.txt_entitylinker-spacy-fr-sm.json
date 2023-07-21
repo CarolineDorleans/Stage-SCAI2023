@@ -1,0 +1,5742 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q5560642",
+    "span": "Gila",
+    "label": "Gila",
+    "description": "album",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q9956",
+    "span": "Sierra",
+    "label": "S",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q9956",
+    "span": "Sierra",
+    "label": "S",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q27959547",
+    "span": "Madre",
+    "label": "Madre",
+    "description": "2016 film by Sim\u00f3n Mesa Soto",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q5560642",
+    "span": "Gila",
+    "label": "Gila",
+    "description": "album",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q2166028",
+    "span": "Sierra Madre",
+    "label": "Sierra Madre",
+    "description": "mountain range in the Philippines",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q102090",
+    "span": "Apaches",
+    "label": "Apache",
+    "description": "several culturally related groups of indigenous peoples of the United States",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Pitic",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q914086",
+    "span": "Cerro",
+    "label": "Cerro Porte\u00f1o",
+    "description": "Paraguayan football club",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q914086",
+    "span": "Cerro",
+    "label": "Cerro Porte\u00f1o",
+    "description": "Paraguayan football club",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q9705",
+    "span": "Bravo",
+    "label": "B",
+    "description": "letter of the Latin alphabet",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q21489095",
+    "span": "Cornejo",
+    "label": "Cornejo",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q21489095",
+    "span": "Cornejo",
+    "label": "Cornejo",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q980190",
+    "span": "Cibolo",
+    "label": "Cibolo",
+    "description": "city",
+    "type": "LOC"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q57055",
+    "span": "Prompt",
+    "label": "acetaminophen",
+    "description": "common drug for pain and fever",
+    "type": "LOC"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q3058360",
+    "span": "Espagne",
+    "label": "SS Espagne",
+    "description": "11,155 GRT ocean liner which was built in 1909",
+    "type": "LOC"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q21489095",
+    "span": "Cornejo",
+    "label": "Cornejo",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q2719821",
+    "span": "Milagro",
+    "label": "Milagro",
+    "description": "album by Santana",
+    "type": "LOC"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q1312200",
+    "span": "Miracle",
+    "label": "Miracle",
+    "description": "2004 American biographical sports film directed by Gavin O'Connor",
+    "type": "PER"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q16882453",
+    "span": "Saavedra",
+    "label": "Saavedra",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q1012688",
+    "span": "Cortez",
+    "label": "Cortez",
+    "description": "municipality and county seat in Montezuma County, Colorado, USA",
+    "type": "MISC"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q30308127",
+    "span": "genie",
+    "label": "jinn in a work of fiction",
+    "description": "jinn appearing in a work of fiction",
+    "type": "LOC"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q5560642",
+    "span": "Gila",
+    "label": "Gila",
+    "description": "album",
+    "type": "PER"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q102090",
+    "span": "Apaches",
+    "label": "Apache",
+    "description": "several culturally related groups of indigenous peoples of the United States",
+    "type": "LOC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q1668249",
+    "span": "Grace",
+    "label": "Grace",
+    "description": "type of short prayer",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Christ",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Jesus",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q2275836",
+    "span": "Sermon",
+    "label": "Sermon",
+    "description": "Middle-ages politician",
+    "type": "PER"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q5111236",
+    "span": "Christl",
+    "label": "Christl",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q3359420",
+    "span": "Adieu",
+    "label": "Adieu",
+    "description": "1982 Jahn Teigen & Anita Skorgan song",
+    "type": "PER"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q2366336",
+    "span": "Seigneur",
+    "label": "seigneur",
+    "description": "title of nobility",
+    "type": "PER"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q2719821",
+    "span": "Milagro",
+    "label": "Milagro",
+    "description": "album by Santana",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q880064",
+    "span": "Lune",
+    "label": "Lune",
+    "description": "river in Germany",
+    "type": "LOC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q68518",
+    "span": "Iroquois",
+    "label": "Iroquois",
+    "description": "Confederacy of northeast Native American people",
+    "type": "ORG"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q7880385",
+    "span": "Puissance",
+    "label": "Puissance",
+    "description": "",
+    "type": "PER"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "Arkansas",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "LOC"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "Arkansas",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "LOC"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q204019",
+    "span": "MIa",
+    "label": "M.I.A.",
+    "description": "rapper",
+    "type": "PER"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q173151",
+    "span": "Talbot",
+    "label": "Talbot",
+    "description": "French automotive brand of various corporations",
+    "type": "MISC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q1668249",
+    "span": "Grace",
+    "label": "Grace",
+    "description": "type of short prayer",
+    "type": "PER"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q3020469",
+    "span": "ligne droite",
+    "label": "La Ligne droite",
+    "description": "2011 film by R\u00e9gis Wargnier",
+    "type": "LOC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q225375",
+    "span": "Verl",
+    "label": "Verl",
+    "description": "city in North Rhine-Westphalia, Germany",
+    "type": "LOC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q1022254",
+    "span": "quin",
+    "label": "Quin",
+    "description": "village in County Clare, Ireland",
+    "type": "LOC"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q391600",
+    "span": "Lanceros",
+    "label": "Patriotas F.C.",
+    "description": "association football team from Colombia",
+    "type": "PER"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q17015569",
+    "span": "Bar",
+    "label": "Bar",
+    "description": "The legal profession as an institution",
+    "type": "LOC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q134646",
+    "span": "Boniface",
+    "label": "Boniface VIII",
+    "description": "193rd Pope of the Catholic Church",
+    "type": "PER"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q56244500",
+    "span": "Durieux",
+    "label": "Durieux",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q3638651",
+    "span": "Bermudez",
+    "label": "Berm\u00fadez",
+    "description": "name and brand of a variety of rums from the Dominican Republic produced by J. Armando Berm\u00fadez & Co., S.A.",
+    "type": "LOC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q1228801",
+    "span": "DlE",
+    "label": "Discoid lupus erythematosus",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q17012",
+    "span": "Guadeloupe",
+    "label": "Guadeloupe",
+    "description": "Caribbean department of France",
+    "type": "LOC"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q726413",
+    "span": "Mezcal",
+    "label": "Mezcal",
+    "description": "distilled beverage",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q673959",
+    "span": "Leil",
+    "label": "Leil",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q2910224",
+    "span": "Bonne nuit",
+    "label": "Bonne Nuit",
+    "description": "small natural harbour in St John, Jersey, Channel Islands",
+    "type": "MISC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q18035578",
+    "span": "Etle",
+    "label": "KHDRBS3",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "LOC"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q43807777",
+    "span": "Agir",
+    "label": "Agir",
+    "description": "French political party",
+    "type": "PER"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q18373",
+    "span": "G",
+    "label": "gravitational constant",
+    "description": "empirical physical constant relating the gravitational force between objects to their mass and distance",
+    "type": "PER"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q8354594",
+    "span": "grAce",
+    "label": "gray asexuality",
+    "description": "spectrum between asexuality and sexuality",
+    "type": "ORG"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q5091863",
+    "span": "Chercher",
+    "label": "Chercher",
+    "description": "2006 single by Kotoko",
+    "type": "LOC"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q429088",
+    "span": "mons",
+    "label": "mons",
+    "description": "mountain on a celestial body",
+    "type": "LOC"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q16247068",
+    "span": "A15",
+    "label": "A15 road",
+    "description": "road in England",
+    "type": "LOC"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q18162891",
+    "span": "Oceans",
+    "label": "Oceans",
+    "description": "song by Hillsong United",
+    "type": "PER"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q244985",
+    "span": "Unis",
+    "label": "Unas",
+    "description": "Egyptian pharaoh",
+    "type": "LOC"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q22000617",
+    "span": "Squatters",
+    "label": "Squatters",
+    "description": "2014 film directed by Martin Weisz",
+    "type": "PER"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q61568052",
+    "span": "Confederation",
+    "label": "Confederation",
+    "description": "Polish political party",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q131668",
+    "span": "Acropolis",
+    "label": "Acropolis",
+    "description": "settlement",
+    "type": "LOC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q3773422",
+    "span": "Aun",
+    "label": "Aun",
+    "description": "legendary Swedish king",
+    "type": "LOC"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q57055",
+    "span": "Prompt",
+    "label": "acetaminophen",
+    "description": "common drug for pain and fever",
+    "type": "LOC"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q1432243",
+    "span": "OhI",
+    "label": "Oshakati",
+    "description": "airport in Namibia",
+    "type": "ORG"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q1271916",
+    "span": "TFt",
+    "label": "thin-film transistor",
+    "description": "field-effect transistor device",
+    "type": "PER"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q27955792",
+    "span": "El",
+    "label": "Eleven",
+    "description": "fictional character from the Netflix series Stranger Things",
+    "type": "LOC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "ILe",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "MISC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q1012496",
+    "span": "Trim",
+    "label": "Trim",
+    "description": "town in County Meath, Ireland",
+    "type": "MISC"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "Frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q780146",
+    "span": "Etes",
+    "label": "Etes",
+    "description": "municipality of Hungary",
+    "type": "MISC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q9705",
+    "span": "Bravo",
+    "label": "B",
+    "description": "letter of the Latin alphabet",
+    "type": "PER"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q490032",
+    "span": "chine",
+    "label": "chine",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q19842095",
+    "span": "YI",
+    "label": "Yi",
+    "description": "genus of reptiles (fossil)",
+    "type": "LOC"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q9696",
+    "span": "Kennedy",
+    "label": "John F. Kennedy",
+    "description": "35th President of the United States of America",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q420922",
+    "span": "A6",
+    "label": "Apple A6",
+    "description": "system on a chip (SoC) in Apple iPhone 5 and iPhone 5c",
+    "type": "LOC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q1158337",
+    "span": "Damel",
+    "label": "Damel",
+    "description": "Senegalese ruler",
+    "type": "PER"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q16870171",
+    "span": "Gest",
+    "label": "Gest",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q9696",
+    "span": "Kennedy",
+    "label": "John F. Kennedy",
+    "description": "35th President of the United States of America",
+    "type": "PER"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q9696",
+    "span": "Kennedy",
+    "label": "John F. Kennedy",
+    "description": "35th President of the United States of America",
+    "type": "PER"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q499189",
+    "span": "Merced",
+    "label": "Merced",
+    "description": "county seat of, Merced County, California, United States",
+    "type": "LOC"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q1017325",
+    "span": "Pateros",
+    "label": "Pateros",
+    "description": "municipality of the Philippines in Metro Manila",
+    "type": "LOC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q655245",
+    "span": "rebozo",
+    "label": "rebozo",
+    "description": "flat, wrapped garment, often with fringe, worn by women in Mexico",
+    "type": "LOC"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q1158337",
+    "span": "Damel",
+    "label": "Damel",
+    "description": "Senegalese ruler",
+    "type": "PER"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q27955792",
+    "span": "El",
+    "label": "Eleven",
+    "description": "fictional character from the Netflix series Stranger Things",
+    "type": "LOC"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q3020469",
+    "span": "ligne droite",
+    "label": "La Ligne droite",
+    "description": "2011 film by R\u00e9gis Wargnier",
+    "type": "LOC"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q1275046",
+    "span": "ELAN",
+    "label": "ELAN",
+    "description": "educational programming language for learning and teaching systematic programming",
+    "type": "MISC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q780146",
+    "span": "Etes",
+    "label": "Etes",
+    "description": "municipality of Hungary",
+    "type": "MISC"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q176",
+    "span": "Quebec",
+    "label": "Quebec",
+    "description": "province of Canada",
+    "type": "LOC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q22115516",
+    "span": "Loal",
+    "label": "Lock-on after launch",
+    "description": "missile tracking capability",
+    "type": "LOC"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q9696",
+    "span": "Kennedy",
+    "label": "John F. Kennedy",
+    "description": "35th President of the United States of America",
+    "type": "PER"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q1662341",
+    "span": "aDE",
+    "label": "Antibody-dependent enhancement",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q17042294",
+    "span": "Ecoute",
+    "label": "Ecoute",
+    "description": "",
+    "type": "PER"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q9696",
+    "span": "Kennedy",
+    "label": "John F. Kennedy",
+    "description": "35th President of the United States of America",
+    "type": "PER"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q780146",
+    "span": "Etes",
+    "label": "Etes",
+    "description": "municipality of Hungary",
+    "type": "MISC"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q5348579",
+    "span": "EhI",
+    "label": "Ehi",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q3402415",
+    "span": "Llan",
+    "label": "Llan",
+    "description": "placename element in Brythonic languages",
+    "type": "LOC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q2478827",
+    "span": "TTB",
+    "label": "Alcohol and Tobacco Tax and Trade Bureau",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q107434",
+    "span": "Sioux",
+    "label": "Sioux",
+    "description": "Native American and First Nations people in North America",
+    "type": "LOC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q27904001",
+    "span": "Blanche",
+    "label": "Ellie Delvaux",
+    "description": "Belgian singer",
+    "type": "LOC"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q1446136",
+    "span": "lavie",
+    "label": "Lavie",
+    "description": "automobile manufacturer",
+    "type": "LOC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q391632",
+    "span": "cher ami",
+    "label": "Cher Ami",
+    "description": "homing pigeon used by the U.S. Army Signal Corps",
+    "type": "LOC"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q9705",
+    "span": "Bravo",
+    "label": "B",
+    "description": "letter of the Latin alphabet",
+    "type": "PER"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q4947495",
+    "span": "Don",
+    "label": "crime boss",
+    "description": "person in charge of a criminal organization",
+    "type": "PER"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q1998086",
+    "span": "Ginetes",
+    "label": "Ginetes",
+    "description": "civil parish in Ponta Delgada",
+    "type": "LOC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q17042294",
+    "span": "Ecoute",
+    "label": "Ecoute",
+    "description": "",
+    "type": "PER"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q6757347",
+    "span": "Tele",
+    "label": "Marcio Alves dos Santos",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q204019",
+    "span": "MIa",
+    "label": "M.I.A.",
+    "description": "rapper",
+    "type": "PER"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q6757347",
+    "span": "Tele",
+    "label": "Marcio Alves dos Santos",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q391632",
+    "span": "cher ami",
+    "label": "Cher Ami",
+    "description": "homing pigeon used by the U.S. Army Signal Corps",
+    "type": "LOC"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q197536",
+    "span": "DL",
+    "label": "deep learning",
+    "description": "branch of machine learning",
+    "type": "ORG"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q6757347",
+    "span": "Tele",
+    "label": "Marcio Alves dos Santos",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q7240543",
+    "span": "Prenez garde",
+    "label": "Prenez Garde",
+    "description": "book by Terence de Vere White",
+    "type": "PER"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q780146",
+    "span": "Etes",
+    "label": "Etes",
+    "description": "municipality of Hungary",
+    "type": "MISC"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q653772",
+    "span": "PIRATES",
+    "label": "Pittsburgh Pirates",
+    "description": "baseball team and Major League Baseball franchise in Pittsburgh, Pennsylvania, United States",
+    "type": "MISC"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q359421",
+    "span": "Salvator Rosa",
+    "label": "Salvator Rosa",
+    "description": "Italian painter and poet (1615-1673)",
+    "type": "MISC"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q2049293",
+    "span": "Chinois",
+    "label": "Chinois",
+    "description": "conical strainer (cooking utensil)",
+    "type": "LOC"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q244985",
+    "span": "Unis",
+    "label": "Unas",
+    "description": "Egyptian pharaoh",
+    "type": "LOC"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q19414112",
+    "span": "Vive",
+    "label": "HTC Vive",
+    "description": "virtual reality headset produced by HTC and Valve",
+    "type": "LOC"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q5296622",
+    "span": "Donnez",
+    "label": "Donnez",
+    "description": "dansband in\u00a0Perstorp, Sweden",
+    "type": "MISC"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q3359420",
+    "span": "Adieu",
+    "label": "Adieu",
+    "description": "1982 Jahn Teigen & Anita Skorgan song",
+    "type": "PER"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q952609",
+    "span": "Lti",
+    "label": "Altai Airport",
+    "description": "airport",
+    "type": "PER"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q8776414",
+    "span": "leDE",
+    "label": "lead paragraph",
+    "description": "introductory summary part of a text such as a news article",
+    "type": "LOC"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q1432243",
+    "span": "OhI",
+    "label": "Oshakati",
+    "description": "airport in Namibia",
+    "type": "ORG"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q18027467",
+    "span": "ILRS",
+    "label": "IARS1",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "LOC"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q3359420",
+    "span": "Adieu",
+    "label": "Adieu",
+    "description": "1982 Jahn Teigen & Anita Skorgan song",
+    "type": "PER"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q41686",
+    "span": "Aguilar",
+    "label": "Aguilar",
+    "description": "municipality of the Philippines in the province of Pangasinan",
+    "type": "LOC"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "PER"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q859564",
+    "span": "Cer",
+    "label": "Cer",
+    "description": "mountain",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Christ",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q50413227",
+    "span": "Delicate",
+    "label": "Delicate",
+    "description": "2017 song by Taylor Swift",
+    "type": "PER"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q168750",
+    "span": "a77",
+    "label": "A77 autoroute",
+    "description": "road in France",
+    "type": "LOC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q1662341",
+    "span": "aDE",
+    "label": "Antibody-dependent enhancement",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q3359420",
+    "span": "Adieu",
+    "label": "Adieu",
+    "description": "1982 Jahn Teigen & Anita Skorgan song",
+    "type": "PER"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q9325",
+    "span": "Lh",
+    "label": "Lufthansa",
+    "description": "German flag-carrier Airline",
+    "type": "LOC"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q4776379",
+    "span": "Antonio",
+    "label": "Antonio",
+    "description": "theatrical character in the play \"The Merchant of Venice\"",
+    "type": "MISC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q20744456",
+    "span": "Gonzalez",
+    "label": "JC Gonzalez",
+    "description": "Colombian Actor, Songwriter, Singer, Dancer, Voice actor, TV Presenter",
+    "type": "PER"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q584168",
+    "span": "Carai",
+    "label": "Cara\u00ed",
+    "description": "municipality of Brazil",
+    "type": "LOC"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q5296622",
+    "span": "Donnez",
+    "label": "Donnez",
+    "description": "dansband in\u00a0Perstorp, Sweden",
+    "type": "MISC"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q1446136",
+    "span": "lavie",
+    "label": "Lavie",
+    "description": "automobile manufacturer",
+    "type": "LOC"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q9089722",
+    "span": "Tres",
+    "label": "Tres",
+    "description": "song",
+    "type": "LOC"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q7076287",
+    "span": "Och",
+    "label": "Och",
+    "description": "",
+    "type": "PER"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q319",
+    "span": "Jupiter",
+    "label": "Jupiter",
+    "description": "fifth planet from the Sun and largest planet in the Solar System",
+    "type": "PER"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q742227",
+    "span": "Assis",
+    "label": "Assis",
+    "description": "municipality in the state of S\u00e3o Paulo in Brazil",
+    "type": "LOC"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "LOC"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q1446136",
+    "span": "lavie",
+    "label": "Lavie",
+    "description": "automobile manufacturer",
+    "type": "LOC"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q1542187",
+    "span": "Lcs",
+    "label": "littoral combat ship",
+    "description": "warship meant for the littoral region of water of a coastline",
+    "type": "PER"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q6757347",
+    "span": "Tele",
+    "label": "Marcio Alves dos Santos",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q22115516",
+    "span": "Loal",
+    "label": "Lock-on after launch",
+    "description": "missile tracking capability",
+    "type": "LOC"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "Soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q6898686",
+    "span": "monDE",
+    "label": "Monde",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q1146477",
+    "span": "Merci",
+    "label": "Merci",
+    "description": "trademark",
+    "type": "PER"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q42941639",
+    "span": "Essayez",
+    "label": "Essayez",
+    "description": "song by Johnny Hallyday",
+    "type": "LOC"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q655245",
+    "span": "rebozo",
+    "label": "rebozo",
+    "description": "flat, wrapped garment, often with fringe, worn by women in Mexico",
+    "type": "LOC"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q850159",
+    "span": "General",
+    "label": "The General",
+    "description": "1926 American silent comedy film, released by United Artists, directed by Clyde Bruckman and Buster Keaton, starring Keaton and Marion Mack; inspired by the Great Locomotive Chase during the American Civil War",
+    "type": "LOC"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q7669056",
+    "span": "t38",
+    "label": "T38",
+    "description": "Para-athletics classification",
+    "type": "LOC"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q655245",
+    "span": "rebozo",
+    "label": "rebozo",
+    "description": "flat, wrapped garment, often with fringe, worn by women in Mexico",
+    "type": "LOC"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q96",
+    "span": "Mexico",
+    "label": "Mexico",
+    "description": "federal republic in the southern portion of North America",
+    "type": "LOC"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q9705",
+    "span": "Bravo",
+    "label": "B",
+    "description": "letter of the Latin alphabet",
+    "type": "PER"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q204019",
+    "span": "MIa",
+    "label": "M.I.A.",
+    "description": "rapper",
+    "type": "PER"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q15709565",
+    "span": "Loyal",
+    "label": "Loyal",
+    "description": "single by Chris Brown featuring Lil Wayne and Tyga",
+    "type": "LOC"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q6024520",
+    "span": "Indien",
+    "label": "Indien",
+    "description": "Frigate",
+    "type": "LOC"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q2339007",
+    "span": "Apres",
+    "label": "Apr\u00e8s",
+    "description": "album by Iggy Pop",
+    "type": "MISC"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "ILES",
+    "label": "Iles",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q1612",
+    "span": "ARKANSAS",
+    "label": "Arkansas",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID785": {
+    "url": "https://www.wikidata.org/wiki/Q68248179",
+    "span": "Jaime",
+    "label": "Jaime",
+    "description": "album by Brittany Howard",
+    "type": "MISC"
+  },
+  "ID786": {
+    "url": "https://www.wikidata.org/wiki/Q6534494",
+    "span": "LLS",
+    "label": "Leukemia & Lymphoma Society",
+    "description": "charitable organization researching blood cancer and assisting patients",
+    "type": "MISC"
+  },
+  "ID787": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID788": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID789": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID790": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID791": {
+    "url": "https://www.wikidata.org/wiki/Q189184",
+    "span": "Rafael",
+    "label": "Rafael Pereira da Silva",
+    "description": "Association footballer",
+    "type": "PER"
+  },
+  "ID792": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "Tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID793": {
+    "url": "https://www.wikidata.org/wiki/Q43195",
+    "span": "Aigle",
+    "label": "Aigle",
+    "description": "municipality in Switzerland",
+    "type": "LOC"
+  },
+  "ID794": {
+    "url": "https://www.wikidata.org/wiki/Q80524",
+    "span": "INR",
+    "label": "Indian rupee",
+    "description": "the official currency of the Republic of India",
+    "type": "LOC"
+  },
+  "ID795": {
+    "url": "https://www.wikidata.org/wiki/Q674953",
+    "span": "DBs",
+    "label": "defensive back",
+    "description": "position in American football and Canadian football",
+    "type": "MISC"
+  },
+  "ID796": {
+    "url": "https://www.wikidata.org/wiki/Q18657",
+    "span": "MPd",
+    "label": "dissociative identity disorder",
+    "description": "mental disorder, characterized by multiple personality states and amnesia.",
+    "type": "LOC"
+  },
+  "ID797": {
+    "url": "https://www.wikidata.org/wiki/Q171480",
+    "span": "Imperatrice",
+    "label": "Jos\u00e9phine de Beauharnais",
+    "description": "Empress of the French",
+    "type": "LOC"
+  },
+  "ID798": {
+    "url": "https://www.wikidata.org/wiki/Q2106590",
+    "span": "Congres",
+    "label": "Congr\u00e9s",
+    "description": "Barcelona Metro station",
+    "type": "PER"
+  },
+  "ID799": {
+    "url": "https://www.wikidata.org/wiki/Q1110777",
+    "span": "Portrait",
+    "label": "Portrait",
+    "description": "American record label",
+    "type": "PER"
+  },
+  "ID800": {
+    "url": "https://www.wikidata.org/wiki/Q26849",
+    "span": "Vienne",
+    "label": "Vienne",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID801": {
+    "url": "https://www.wikidata.org/wiki/Q83418",
+    "span": "Normans",
+    "label": "Normans",
+    "description": "historical ethnical group of Northwestern Europe",
+    "type": "LOC"
+  },
+  "ID802": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID803": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID804": {
+    "url": "https://www.wikidata.org/wiki/Q717763",
+    "span": "Lo",
+    "label": "Luo",
+    "description": "East Asian family name with the character \u7f57 or \u7f85",
+    "type": "LOC"
+  },
+  "ID805": {
+    "url": "https://www.wikidata.org/wiki/Q14776796",
+    "span": "Pompadour",
+    "label": "Pompadour",
+    "description": "hairstyle",
+    "type": "LOC"
+  },
+  "ID806": {
+    "url": "https://www.wikidata.org/wiki/Q6768637",
+    "span": "NYI",
+    "label": "Sunyani Airport",
+    "description": "airport in Sunyani, Ghana",
+    "type": "ORG"
+  },
+  "ID807": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID808": {
+    "url": "https://www.wikidata.org/wiki/Q5036507",
+    "span": "cAPITAINE",
+    "label": "captain",
+    "description": "officer rank of the Canadian Armed Forces",
+    "type": "MISC"
+  },
+  "ID809": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID810": {
+    "url": "https://www.wikidata.org/wiki/Q84122",
+    "span": "Hor",
+    "label": "Horus",
+    "description": "Egyptian war deity",
+    "type": "PER"
+  },
+  "ID811": {
+    "url": "https://www.wikidata.org/wiki/Q842337",
+    "span": "Lives",
+    "label": "Parallel Lives",
+    "description": "biographies of famous Greeks and Romans by Plutarch",
+    "type": "LOC"
+  },
+  "ID812": {
+    "url": "https://www.wikidata.org/wiki/Q5322942",
+    "span": "EE",
+    "label": "EE",
+    "description": "telecommunications company",
+    "type": "LOC"
+  },
+  "ID813": {
+    "url": "https://www.wikidata.org/wiki/Q547711",
+    "span": "J1",
+    "label": "J-1 visa",
+    "description": "non-immigrant visa issued by the United States to research scholars, professors and exchange visitors participating in programs that promote cultural exchange, especially to obtain medical or business training within the U.S.",
+    "type": "ORG"
+  },
+  "ID814": {
+    "url": "https://www.wikidata.org/wiki/Q692",
+    "span": "Shakspeare",
+    "label": "William Shakespeare",
+    "description": "English playwright and poet",
+    "type": "LOC"
+  },
+  "ID815": {
+    "url": "https://www.wikidata.org/wiki/Q1058441",
+    "span": "Contes",
+    "label": "Contes",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "MISC"
+  },
+  "ID816": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID817": {
+    "url": "https://www.wikidata.org/wiki/Q3068350",
+    "span": "Fenes",
+    "label": "Fenes",
+    "description": "village in Bod\u00f8, Norway",
+    "type": "LOC"
+  },
+  "ID818": {
+    "url": "https://www.wikidata.org/wiki/Q36919",
+    "span": "Guere",
+    "label": "Gu\u00e9r\u00e9",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID819": {
+    "url": "https://www.wikidata.org/wiki/Q18373",
+    "span": "G",
+    "label": "gravitational constant",
+    "description": "empirical physical constant relating the gravitational force between objects to their mass and distance",
+    "type": "PER"
+  }
+}
