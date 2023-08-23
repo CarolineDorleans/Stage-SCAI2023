@@ -1,0 +1,96 @@
+tendance à associer à des noms de personnes célèbres des prénoms de quidam
+	['Norine', Entity(wikidata_entity_id=Q7051308, wikipedia_entity_title=Norine Burgess), None]",
+	
+beaucoup de pas lié alors que possible 
+
+il y a des portions de mots 
+	ger
+	uve
+	ide ++ timide
+la plupart du temps ne se prononce sur le typage et le liage
+
+valeur différentes 
+	Vermand
+
+parfois lié parfois pas 	
+	['Roux', Entity not linked to a knowledge base, None, non lie]",
+	['Roux', Entity(wikidata_entity_id=Q746427, wikipedia_entity_title=Roux), None, non]",
+	['Roux', Entity(wikidata_entity_id=Q615492, wikipedia_entity_title=Jacques Roux), 'PERSON', coherent]",
+	n'a pas la constance de spacyfishing
+les trois lié à des personnages différents 
+	pierre = Corneille pour 
+	
+['four', None, 'CARDINAL', faux positif]",
+les nouveaux types 
+	les ordinals, 
+	MONEY, 
+	cardinal interet ?
+	date 
+	"['ques', None, 'DATE', fraction]",
+  "240": "['semaines', None, 'DATE', oui]",
+  "253": "['dix minutes', None, 'TIME']",
+		
+
+lié ou pas pour meme nom 
+	['Remy', Entity not linked to a knowledge base, 'PERSON', non lie]",
+ 	['Remy', Entity(wikidata_entity_id=Q353876, wikipedia_entity_title=Remy de Gourmont), 'PERSON', non]",
+	
+	['Rose', Entity(wikidata_entity_id=Q34687, wikipedia_entity_title=Rose), None] 
+		genus of plants = 3 
+	['Rose', Entity not linked to a knowledge base, None]= la majorité du temps 
+	['Rose', Entity not linked to a knowledge base, 'PERSON', non lie]",
+	
+	Pierre
+		22 Entity not linked to a knowledge base
+		7 Pierre Corneille
+		1 Pierre d'Arc
+	Norine
+		21 Norine Burgess
+		18 prénom 
+	Jean Claude
+		102 au total
+		37 Jean Claude Romand 
+		65 Entity not linked to a knowledge base
+		
+	thérèse
+		9 au total
+		4 Th\\u00e9r\\u00e8se Bentzon 
+		5 Entity not linked to a knowledge base
+	Roux
+		4 Jacques Roux
+		33 Entity not linked to a knowledge base
+		1 roux (Q746427) la sauce
+		
+	"316": "['Th\u00e9r\u00e8se', Entity(wikidata_entity_id=Q4979605, wikipedia_entity_title=Th\u00e9r\u00e8se Bentzon), 'PERSON', coherent]",
+erreur typage 
+	
+	['Morlincourt', Entity(wikidata_entity_id=Q1336814, wikipedia_entity_title=Morlincourt), 'PERSON', oui]",
+  	['Morlincourt', Entity(wikidata_entity_id=Q1336814, wikipedia_entity_title=Morlincourt), 'GPE', oui]"
+  	"['Morlincourt', Entity(wikidata_entity_id=Q1336814, wikipedia_entity_title=Morlincourt), 'ORG', oui]",
+  	"['Morlincourt', Entity(wikidata_entity_id=Q1336814, wikipedia_entity_title=Morlincourt), None, oui]"
+  	
+	['Norine', Entity(wikidata_entity_id=Q7051308, wikipedia_entity_title=Norine Burgess), 'PERSON', coherent]",
+	['Norine', Entity(wikidata_entity_id=Q96478262, wikipedia_entity_title=Norine), None]
+	"['Norine', Entity(wikidata_entity_id=Q7051308, wikipedia_entity_title=Norine Burgess), 'GPE', coherent]",
+  	
+Savoyard', Entity(wikidata_entity_id=Q2490038, wikipedia_entity_title=Savoyard dialect), None, oui]",
+['Savoyard-l\u00e0', Entity not linked to a knowledge base, None, trop long]",
+['Savoyard', Entity(wikidata_entity_id=Q12745, wikipedia_entity_title=Savoie), 'GPE', oui]",
+
+ "['C\u00e9ran', Entity(wikidata_entity_id=Q859610, wikipedia_entity_title=C\u00e9ran), 'PERSON', non ]",
+ "['M. C\u00e9ran', Entity not linked to a knowledge base, 'PERSON', non liable]",
+
+les trois donnent même résultat
+  ['Dieu', Entity(wikidata_entity_id=Q3027560, wikipedia_entity_title=Dieu), None]
+  bonnets
+  "295": "['bonnets', Entity(wikidata_entity_id=Q1149531, wikipedia_entity_title=Bonnet (headgear)), None]",
+  
+sens complexe préféré à un sens simple
+	 "454": "['enfer', Entity(wikidata_entity_id=Q1341628, wikipedia_entity_title=Enfer), None]",
+	  Enfer (Q1341628) Restricted controversial special collection at the National Library of France
+	  enfer est bien alias français de hell https://www.wikidata.org/wiki/Q564
+	  L'enfer
+	  "[\"L'enfer\", Entity not linked to a knowledge base, None]",
+
+  
+  les ordinal plutot juste mais peu intéressant en terme d'information

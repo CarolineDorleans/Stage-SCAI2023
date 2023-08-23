@@ -1,0 +1,7264 @@
+{
+  "ID0": {
+    "label": "ORG",
+    "span": "VEILL\u00c9E",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID1": {
+    "label": "PER",
+    "span": "Norine Duclos",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID2": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID3": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID4": {
+    "label": "MISC",
+    "span": "H\u00e9 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID5": {
+    "label": "PER",
+    "span": "Mandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID6": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+    
+  },
+  "ID7": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID8": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID9": {
+    "label": "LOC",
+    "span": "Frotte",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID10": {
+    "label": "PER",
+    "span": "Cellier",
+    "score": 0.3591,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+    
+  },
+  "ID11": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+    
+  },
+  "ID12": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID13": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID14": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID15": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID16": {
+    "label": "LOC",
+    "span": "r\u00e9serve de la Rose",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID17": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID18": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "non"
+  },
+  "ID19": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID20": {
+    "label": "LOC",
+    "span": "couseuses",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID21": {
+    "label": "LOC",
+    "span": "couseuses",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID22": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.382,
+    "URL": "https://www.wikidata.org/wiki/Q286440",
+    "ID": "Q286440",
+    "exactitude": "coherent"
+    
+  },
+  "ID23": {
+    "label": "PER",
+    "span": "Taisez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID24": {
+    "label": "PER",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID25": {
+    "label": "LOC",
+    "span": "Garde-les",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID26": {
+    "label": "MISC",
+    "span": "Tiens !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID27": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID28": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID29": {
+    "label": "MISC",
+    "span": "Bonsoir",
+    "score": 0.5673,
+    "URL": "https://www.wikidata.org/wiki/Q678464",
+    "ID": "Q678464",
+    "exactitude": "non"
+    
+  },
+  "ID30": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID31": {
+    "label": "MISC",
+    "span": "Bonsoir",
+    "score": 0.5673,
+    "URL": "https://www.wikidata.org/wiki/Q678464",
+    "ID": "Q678464",
+    "exactitude": "faux positif"
+  },
+  "ID32": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID33": {
+    "label": "PER",
+    "span": "Devinez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID34": {
+    "label": "PER",
+    "span": "Basset",
+    "score": 0.3852,
+    "URL": "https://www.wikidata.org/wiki/Q4868076",
+    "ID": "Q4868076",
+    "exactitude": "coherent"
+  },
+  "ID35": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.382,
+    "URL": "https://www.wikidata.org/wiki/Q286440",
+    "ID": "Q286440",
+    "exactitude": "coherent"
+  },
+  "ID36": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+    
+  },
+  "ID37": {
+    "label": "MISC",
+    "span": "Bassette",
+    "score": 0.5095,
+    "URL": "https://www.wikidata.org/wiki/Q4868070",
+    "ID": "Q4868070",
+    "exactitude": "coherent"
+  },
+  "ID38": {
+    "label": "LOC",
+    "span": "bras-le-corps",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID39": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID40": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID41": {
+    "label": "MISC",
+    "span": "Combien de chandelles",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID42": {
+    "label": "MISC",
+    "span": "Trente-six !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID43": {
+    "label": "PER",
+    "span": "Gaspard sans broncher",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID44": {
+    "label": "MISC",
+    "span": "Rose !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID45": {
+    "label": "PER",
+    "span": "Hardi",
+    "score": 0.4041,
+    "URL": "https://www.wikidata.org/wiki/Q98915383",
+    "ID": "Q98915383",
+    "exactitude": "coherent"
+    
+  },
+  "ID46": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID47": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID48": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID49": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID50": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID51": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q244380",
+    "ID": "Q244380",
+    "exactitude": "coherent"
+  },
+  "ID52": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID53": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID54": {
+    "label": "PER",
+    "span": "Leroy",
+    "score": 0.3754,
+    "URL": "https://www.wikidata.org/wiki/Q981698",
+    "ID": "Q981698",
+    "exactitude": "non"
+  },
+  "ID55": {
+    "label": "MISC",
+    "span": "H\u00e9 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID56": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID57": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID58": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+    
+  },
+  "ID59": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID60": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID61": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID62": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID63": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID64": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID65": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID66": {
+    "label": "MISC",
+    "span": "Chante",
+    "score": 0.5727,
+    "URL": "https://www.wikidata.org/wiki/Q105581784",
+    "ID": "Q105581784",
+    "exactitude": "faux positif"
+    
+  },
+  "ID67": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID68": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID69": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID70": {
+    "label": "MISC",
+    "span": "Chante",
+    "score": 0.5727,
+    "URL": "https://www.wikidata.org/wiki/Q105581784",
+    "ID": "Q105581784",
+    "exactitude": "faux positif"
+  },
+  "ID71": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.376,
+    "URL": "https://www.wikidata.org/wiki/Q204975",
+    "ID": "Q204975",
+    "exactitude": "non"
+  },
+  "ID72": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID73": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID74": {
+    "label": "LOC",
+    "span": "tranquille",
+    "score": 0.2297,
+    "URL": "https://www.wikidata.org/wiki/Q14956856",
+    "ID": "Q14956856",
+    "exactitude": "faux positif"
+  },
+  "ID75": {
+    "label": "PER",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID76": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID77": {
+    "label": "PER",
+    "span": "M\u00e9chante",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID78": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID79": {
+    "label": "PER",
+    "span": "Jeanneton",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID80": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3815,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID81": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton ? \nLas !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID82": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton ? \nMais quand sa botte",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID83": {
+    "label": "MISC",
+    "span": "Trois cavaliers de renom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID84": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID85": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID86": {
+    "label": "MISC",
+    "span": "Trois cavaliers de renom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID87": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID88": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton ? \n",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID89": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID90": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton ? \n",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID91": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID92": {
+    "label": "MISC",
+    "span": "La petiote Jeanneton ? \n\u2014",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID93": {
+    "label": "ORG",
+    "span": "Retiens",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID94": {
+    "label": "PER",
+    "span": "petiote Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID95": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID96": {
+    "label": "PER",
+    "span": "Marie",
+    "score": 0.3754,
+    "URL": "https://www.wikidata.org/wiki/Q7186",
+    "ID": "Q7186",
+    "exactitude": "non"
+  },
+  "ID97": {
+    "label": "PER",
+    "span": "Remblay",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID98": {
+    "label": "MISC",
+    "span": "Comment !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID99": {
+    "label": "PER",
+    "span": "Vermand",
+    "score": 0.7147,
+    "URL": "https://www.wikidata.org/wiki/Q994711",
+    "ID": "Q994711",
+    "exactitude": "oui"
+  },
+  "ID100": {
+    "label": "PER",
+    "span": "Vermand",
+    "score": 0.7147,
+    "URL": "https://www.wikidata.org/wiki/Q994711",
+    "ID": "Q994711",
+    "exactitude": "oui"
+  },
+  "ID101": {
+    "label": "LOC",
+    "span": "de France",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID102": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID103": {
+    "label": "PER",
+    "span": "Chantez",
+    "score": 0.5532,
+    "URL": "https://www.wikidata.org/wiki/Q1636949",
+    "ID": "Q1636949",
+    "exactitude": "faux positif"
+  },
+  "ID104": {
+    "label": "MISC",
+    "span": "Bonsoir",
+    "score": 0.5673,
+    "URL": "https://www.wikidata.org/wiki/Q678464",
+    "ID": "Q678464",
+    "exactitude": "faux positif"
+  },
+  "ID105": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID106": {
+    "label": "PER",
+    "span": "Remblay",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID107": {
+    "label": "PER",
+    "span": "Ch",
+    "score": 0.3758,
+    "URL": "https://www.wikidata.org/wiki/Q5065901",
+    "ID": "Q5065901",
+    "exactitude": "faux positif"
+  },
+  "ID108": {
+    "label": "PER",
+    "span": "moinet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID109": {
+    "label": "LOC",
+    "span": "cainte",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID110": {
+    "label": "LOC",
+    "span": "Ch",
+    "score": 0.3758,
+    "URL": "https://www.wikidata.org/wiki/Q5065901",
+    "ID": "Q5065901",
+    "exactitude": "faux positif"
+  },
+  "ID111": {
+    "label": "PER",
+    "span": "l\u00e9p\u00e8ne",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+    
+  },
+  "ID112": {
+    "label": "PER",
+    "span": "V'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID113": {
+    "label": "PER",
+    "span": "V'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID114": {
+    "label": "PER",
+    "span": "V'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID115": {
+    "label": "PER",
+    "span": "leu",
+    "score": 0.6283,
+    "URL": "https://www.wikidata.org/wiki/Q3192889",
+    "ID": "Q3192889",
+    "exactitude": "faux positif"
+  },
+  "ID116": {
+    "label": "PER",
+    "span": "V'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID117": {
+    "label": "MISC",
+    "span": "Eussiez une tiote",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID118": {
+    "label": "PER",
+    "span": "Y fo\u00ebt",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID119": {
+    "label": "MISC",
+    "span": "ch\u00e9",
+    "score": 0.2323,
+    "URL": "https://www.wikidata.org/wiki/Q1390088",
+    "ID": "Q1390088",
+    "exactitude": "faux positif"
+  },
+  "ID120": {
+    "label": "LOC",
+    "span": "Saint-Quentin",
+    "score": 0.7033,
+    "URL": "https://www.wikidata.org/wiki/Q182744",
+    "ID": "Q182744",
+    "exactitude": "oui"
+  },
+  "ID121": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID122": {
+    "label": "MISC",
+    "span": "Bonsoir",
+    "score": 0.6673,
+    "URL": "https://www.wikidata.org/wiki/Q678464",
+    "ID": "Q678464",
+    "exactitude": "faux positif"
+  },
+  "ID123": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID124": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID125": {
+    "label": "PER",
+    "span": "Allez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID126": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID127": {
+    "label": "MISC",
+    "span": "F\u00fbt-ce !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID128": {
+    "label": "MISC",
+    "span": "H\u00e9 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID129": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID130": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID131": {
+    "label": "PER",
+    "span": "Chausson-Chaussette",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID132": {
+    "label": "MISC",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827",
+    "exactitude": "oui"
+  },
+  "ID133": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID134": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID135": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID136": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "faux positif"
+  },
+  "ID137": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID138": {
+    "label": "PER",
+    "span": "Toussaint",
+    "score": 0.3555,
+    "URL": "https://www.wikidata.org/wiki/Q16886170",
+    "ID": "Q16886170",
+    "exactitude": "coherent"
+  },
+  "ID139": {
+    "label": "PER",
+    "span": "M\u00e9dor",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID140": {
+    "label": "PER",
+    "span": "Me",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q491659",
+    "ID": "Q491659",
+    "exactitude": "faux positif"
+  },
+  "ID141": {
+    "label": "LOC",
+    "span": "Carri\u00e8re-Fondue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID142": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID143": {
+    "label": "MISC",
+    "span": "Chut !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID144": {
+    "label": "PER",
+    "span": "Mon finot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID145": {
+    "label": "MISC",
+    "span": "furolles",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID146": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "faux positif"
+  },
+  "ID147": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID148": {
+    "label": "MISC",
+    "span": "F\u00fbt-ce !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID149": {
+    "label": "MISC",
+    "span": "Assez !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID150": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID151": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID152": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID153": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID154": {
+    "label": "MISC",
+    "span": "F\u00fbt-ce !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID155": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID156": {
+    "label": "ORG",
+    "span": "Fichtre !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID157": {
+    "label": "MISC",
+    "span": "Suffit !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID158": {
+    "label": "MISC",
+    "span": "Rose d'un air aimable",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID159": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID160": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID161": {
+    "label": "MISC",
+    "span": "Si c'est des histoires de guerre",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID162": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID163": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID164": {
+    "label": "MISC",
+    "span": "Soyez tranquille",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID165": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID166": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID167": {
+    "label": "PER",
+    "span": "Remblay",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID168": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+    
+  },
+  "ID169": {
+    "label": "MISC",
+    "span": "Bah ! la Remy",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID170": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "faux positif"
+  },
+  "ID171": {
+    "label": "LOC",
+    "span": "Vieux",
+    "score": 0.3924,
+    "URL": "https://www.wikidata.org/wiki/Q1013514",
+    "ID": "Q1013514",
+    "exactitude": "faux positif"
+  },
+  "ID172": {
+    "label": "MISC",
+    "span": "Malicieuse ! \n",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID173": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID174": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID175": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID176": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID177": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID178": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID179": {
+    "label": "PER",
+    "span": "Conte",
+    "score": 0.3922,
+    "URL": "https://www.wikidata.org/wiki/Q3519259",
+    "ID": "Q3519259",
+    "exactitude": "faux positif"
+  },
+  "ID180": {
+    "label": "LOC",
+    "span": "Cellier",
+    "score": 0.3895,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "faux positif"
+  },
+  "ID181": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "coherent"
+  },
+  "ID182": {
+    "label": "PER",
+    "span": "D\u00e9funt",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID183": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID184": {
+    "label": "PER",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID185": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID186": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID187": {
+    "label": "PER",
+    "span": "rondelet",
+    "score": 0.3413,
+    "URL": "https://www.wikidata.org/wiki/Q7884193",
+    "ID": "Q7884193",
+    "exactitude": "non"
+  },
+  "ID188": {
+    "label": "PER",
+    "span": "sainte Vierge Marie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID189": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID190": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID191": {
+    "label": "PER",
+    "span": "Mlle L\u00e9onie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID192": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID193": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID194": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID195": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID196": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID197": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID198": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID199": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID200": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID201": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID202": {
+    "label": "PER",
+    "span": "II \nLA ROSE",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID203": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID204": {
+    "label": "PER",
+    "span": "Artaban",
+    "score": 0.517,
+    "URL": "https://www.wikidata.org/wiki/Q316067",
+    "ID": "Q316067",
+    "exactitude": "oui"
+  },
+  "ID205": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID206": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID207": {
+    "label": "PER",
+    "span": "Plaisant",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID208": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID209": {
+    "label": "PER",
+    "span": "baguenauder",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID210": {
+    "label": "PER",
+    "span": "Plaisant",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID211": {
+    "label": "PER",
+    "span": "Pierre le dragon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID212": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID213": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID214": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID215": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID216": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID217": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID218": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID219": {
+    "label": "PER",
+    "span": "retraversa",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID220": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID221": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID222": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID223": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID224": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID225": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID226": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID227": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID228": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID229": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID230": {
+    "label": "PER",
+    "span": "Maman",
+    "score": 0.4115,
+    "URL": "https://www.wikidata.org/wiki/Q180887",
+    "ID": "Q180887",
+    "exactitude": "non"
+  },
+  "ID231": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID232": {
+    "label": "MISC",
+    "span": "M'aimeras-tu",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID233": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID234": {
+    "label": "MISC",
+    "span": "Oh !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID235": {
+    "label": "MISC",
+    "span": "Pierre, je t'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID236": {
+    "label": "LOC",
+    "span": "l\u00e0-bas",
+    "score": 0.4384,
+    "URL": "https://www.wikidata.org/wiki/Q1763200",
+    "ID": "Q1763200",
+    "exactitude": "faux positif"
+  },
+  "ID237": {
+    "label": "MISC",
+    "span": "Oh !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID238": {
+    "label": "PER",
+    "span": "Jure-moi",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID239": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.373,
+    "URL": "https://www.wikidata.org/wiki/Q40747",
+    "ID": "Q40747",
+    "exactitude": "coherent"
+  },
+  "ID240": {
+    "label": "MISC",
+    "span": "\u00c7a",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID241": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID242": {
+    "label": "PER",
+    "span": "Jure",
+    "score": 0.5761,
+    "URL": "https://www.wikidata.org/wiki/Q17523753",
+    "ID": "Q17523753",
+    "exactitude": "faux positif"
+  },
+  "ID243": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.373,
+    "URL": "https://www.wikidata.org/wiki/Q40747",
+    "ID": "Q40747",
+    "exactitude": "coherent"
+  },
+  "ID244": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID245": {
+    "label": "MISC",
+    "span": "Oh !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID246": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID247": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID248": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID249": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID250": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID251": {
+    "label": "MISC",
+    "span": "Crois-tu",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID252": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID253": {
+    "label": "PER",
+    "span": "fielleuse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID254": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID255": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID256": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID257": {
+    "label": "MISC",
+    "span": "Rose en goguenardant",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID258": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID259": {
+    "label": "PER",
+    "span": "Me",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q491659",
+    "ID": "Q491659",
+    "exactitude": "faux positif"
+    
+  },
+  "ID260": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID261": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID262": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID263": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID264": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID265": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID266": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID267": {
+    "label": "PER",
+    "span": "bravacherie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID268": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID269": {
+    "label": "PER",
+    "span": "Tope",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q97738512",
+    "ID": "Q97738512",
+    "exactitude": "non"
+  },
+  "ID270": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID271": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID272": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID273": {
+    "label": "MISC",
+    "span": "Tiens !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID274": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID275": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID276": {
+    "label": "PER",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID277": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID278": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID279": {
+    "label": "MISC",
+    "span": "Je pars demain",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID280": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID281": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID282": {
+    "label": "PER",
+    "span": "III \nLES PARIGOTS",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID283": {
+    "label": "PER",
+    "span": "Th\u00e9r\u00e8se",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q7799899",
+    "ID": "Q7799899",
+    "exactitude": "coherent"
+  },
+  "ID284": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID285": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID286": {
+    "label": "MISC",
+    "span": "H\u00e9 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID287": {
+    "label": "PER",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID288": {
+    "label": "LOC",
+    "span": "Tournez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID289": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID290": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID291": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID292": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID293": {
+    "label": "PER",
+    "span": "Claude",
+    "score": 0.3708,
+    "URL": "https://www.wikidata.org/wiki/Q214074",
+    "ID": "Q214074",
+    "exactitude": "coherent"
+  },
+  "ID294": {
+    "label": "PER",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID295": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID296": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID297": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID298": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID299": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID300": {
+    "label": "ORG",
+    "span": "Feuillants",
+    "score": 0.7313,
+    "URL": "https://www.wikidata.org/wiki/Q509825",
+    "ID": "Q509825",
+    "exactitude": "non"
+  },
+  "ID301": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID302": {
+    "label": "PER",
+    "span": "Th\u00e9r\u00e8se",
+    "score": 0.385,
+    "URL": "https://www.wikidata.org/wiki/Q7799899",
+    "ID": "Q7799899",
+    "exactitude": "non"
+  },
+  "ID303": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID304": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID305": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID306": {
+    "label": "MISC",
+    "span": "Croirais-tu",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non"
+  },
+  "ID307": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID308": {
+    "label": "MISC",
+    "span": "Si",
+    "score": 0.371,
+    "URL": "https://www.wikidata.org/wiki/Q670",
+    "ID": "Q670",
+    "exactitude": "faux positif"
+  },
+  "ID309": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID310": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID311": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID312": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID313": {
+    "label": "MISC",
+    "span": "Ouvrez !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID314": {
+    "label": "MISC",
+    "span": "Mes petiots",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID315": {
+    "label": "MISC",
+    "span": "bon Dieu",
+    "score": 0.1591,
+    "URL": "https://www.wikidata.org/wiki/Q16671761",
+    "ID": "Q16671761",
+    "exactitude": "non"
+  },
+  "ID316": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID317": {
+    "label": "LOC",
+    "span": "Favette",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID318": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID319": {
+    "label": "MISC",
+    "span": "Allons donc !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID320": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID321": {
+    "label": "LOC",
+    "span": "parigot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID322": {
+    "label": "LOC",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID323": {
+    "label": "PER",
+    "span": "M.",
+    "score": 0.355,
+    "URL": "https://www.wikidata.org/wiki/Q14172335",
+    "ID": "Q14172335",
+    "exactitude": "faux positif"
+  },
+  "ID324": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID325": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID326": {
+    "label": "MISC",
+    "span": "nippes",
+    "score": 0.4646,
+    "URL": "https://www.wikidata.org/wiki/Q125232",
+    "ID": "Q125232",
+    "exactitude": "non"
+  },
+  "ID327": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID328": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID329": {
+    "label": "MISC",
+    "span": "Oh !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID330": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID331": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID332": {
+    "label": "PER",
+    "span": "Maria",
+    "score": 0.3832,
+    "URL": "https://www.wikidata.org/wiki/Q1611054",
+    "ID": "Q1611054",
+    "exactitude": "coherent"
+  },
+  "ID333": {
+    "label": "PER",
+    "span": "Maria",
+    "score": 0.3832,
+    "URL": "https://www.wikidata.org/wiki/Q1611054",
+    "ID": "Q1611054",
+    "exactitude": "coherent"
+  },
+  "ID334": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID335": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID336": {
+    "label": "LOC",
+    "span": "\u00e9motionn\u00e9e",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID337": {
+    "label": "PER",
+    "span": "Savoyard",
+    "score": 0.4547,
+    "URL": "https://www.wikidata.org/wiki/Q426025",
+    "ID": "Q426025",
+    "exactitude": "oui"
+  },
+  "ID338": {
+    "label": "LOC",
+    "span": "Savoyard",
+    "score": 0.4547,
+    "URL": "https://www.wikidata.org/wiki/Q426025",
+    "ID": "Q426025",
+    "exactitude": "oui"
+  },
+  "ID339": {
+    "label": "LOC",
+    "span": "Savoyard",
+    "score": 0.6155,
+    "URL": "https://www.wikidata.org/wiki/Q200229",
+    "ID": "Q200229",
+    "exactitude": "oui"
+  },
+  "ID340": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID341": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID342": {
+    "label": "PER",
+    "span": "Allez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID343": {
+    "label": "LOC",
+    "span": "C\u00e9ran",
+    "score": 0.8268,
+    "URL": "https://www.wikidata.org/wiki/Q859610",
+    "ID": "Q859610",
+    "exactitude": "non"
+  },
+  "ID344": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID345": {
+    "label": "LOC",
+    "span": "C\u00e9ran",
+    "score": 0.8268,
+    "URL": "https://www.wikidata.org/wiki/Q859610",
+    "ID": "Q859610",
+    "exactitude": "non"
+  },
+  "ID346": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID347": {
+    "label": "LOC",
+    "span": "Morlinval",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID348": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID349": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID350": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID351": {
+    "label": "MISC",
+    "span": "Nous voil\u00e0 arriv\u00e9s",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID352": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID353": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID354": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID355": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID356": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID357": {
+    "label": "PER",
+    "span": "madame la mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID358": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID359": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID360": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID361": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID362": {
+    "label": "PER",
+    "span": "madame la mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID363": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID364": {
+    "label": "MISC",
+    "span": "IV \nMONSIEUR LE CUR\u00c9",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID365": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "coherent"
+  },
+  "ID366": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID367": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID368": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID369": {
+    "label": "MISC",
+    "span": "Si la Rose",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID370": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052",
+    "exactitude": "non"
+  },
+  "ID371": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID372": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID373": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052",
+    "exactitude": "non"
+  },
+  "ID374": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3847,
+    "URL": "https://www.wikidata.org/wiki/Q371706",
+    "ID": "Q371706",
+    "exactitude": "non"
+  },
+  "ID375": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3847,
+    "URL": "https://www.wikidata.org/wiki/Q371706",
+    "ID": "Q371706",
+    "exactitude": "non"
+  },
+  "ID376": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3847,
+    "URL": "https://www.wikidata.org/wiki/Q371706",
+    "ID": "Q371706",
+    "exactitude": "non"
+  },
+  "ID377": {
+    "label": "MISC",
+    "span": "P\u00e2ques",
+    "score": 0.5925,
+    "URL": "https://www.wikidata.org/wiki/Q21196",
+    "ID": "Q21196",
+    "exactitude": "oui"
+  },
+  "ID378": {
+    "label": "LOC",
+    "span": "Crachez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID379": {
+    "label": "LOC",
+    "span": "mouchez",
+    "score": 0.3142,
+    "URL": "https://www.wikidata.org/wiki/Q2636575",
+    "ID": "Q2636575",
+    "exactitude": "faux positif"
+  },
+  "ID380": {
+    "label": "PER",
+    "span": "Evigilabunt",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID381": {
+    "label": "MISC",
+    "span": "Mes chers fr\u00e8res !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID382": {
+    "label": "MISC",
+    "span": "Vierge !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID383": {
+    "label": "MISC",
+    "span": "Dieu",
+    "score": 0.3867,
+    "URL": "https://www.wikidata.org/wiki/Q3027560",
+    "ID": "Q3027560",
+    "exactitude": "non"
+  },
+  "ID384": {
+    "label": "ORG",
+    "span": "linguam",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID385": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID386": {
+    "label": "PER",
+    "span": "Supposons",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID387": {
+    "label": "MISC",
+    "span": "Bjitt",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID388": {
+    "label": "MISC",
+    "span": "bjitt !!!",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID389": {
+    "label": "LOC",
+    "span": "Riez",
+    "score": 0.4552,
+    "URL": "https://www.wikidata.org/wiki/Q457002",
+    "ID": "Q457002",
+    "exactitude": "faux positif"
+  },
+  "ID390": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID391": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID392": {
+    "label": "MISC",
+    "span": "bon Dieu",
+    "score": 0.1591,
+    "URL": "https://www.wikidata.org/wiki/Q16671761",
+    "ID": "Q16671761",
+    "exactitude": "non"
+  },
+  "ID393": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID394": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID395": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID396": {
+    "label": "PER",
+    "span": "Mlle Doroth\u00e9e",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID397": {
+    "label": "ORG",
+    "span": "V \nL'AVOCAT DE PIGNON",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID398": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID399": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID400": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID401": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID402": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID403": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID404": {
+    "label": "PER",
+    "span": "Clarisse Manot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID405": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID406": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052",
+    "exactitude": "non"
+  },
+  "ID407": {
+    "label": "MISC",
+    "span": "Dieu",
+    "score": 0.3867,
+    "URL": "https://www.wikidata.org/wiki/Q3027560",
+    "ID": "Q3027560",
+    "exactitude": "non"
+  },
+  "ID408": {
+    "label": "ORG",
+    "span": "Content",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q3688824",
+    "ID": "Q3688824",
+    "exactitude": "faux positif"
+  },
+  "ID409": {
+    "label": "MISC",
+    "span": "Dieu",
+    "score": 0.3867,
+    "URL": "https://www.wikidata.org/wiki/Q3027560",
+    "ID": "Q3027560",
+    "exactitude": "non"
+  },
+  "ID410": {
+    "label": "LOC",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID411": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID412": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID413": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3847,
+    "URL": "https://www.wikidata.org/wiki/Q371706",
+    "ID": "Q371706",
+    "exactitude": "non"
+  },
+  "ID414": {
+    "label": "PER",
+    "span": "Clarisse Manot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID415": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID416": {
+    "label": "MISC",
+    "span": "dimanche de P\u00e2ques",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID417": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID418": {
+    "label": "PER",
+    "span": "H\u00e9",
+    "score": 0.4357,
+    "URL": "https://www.wikidata.org/wiki/Q16633972",
+    "ID": "Q16633972",
+    "exactitude": "faux positif"
+  },
+  "ID419": {
+    "label": "PER",
+    "span": "lurot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID420": {
+    "label": "PER",
+    "span": "lurot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID421": {
+    "label": "MISC",
+    "span": "Va vitement t'asseoir",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID422": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID423": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID424": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID425": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID426": {
+    "label": "PER",
+    "span": "Th\u00e9r\u00e8se",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q7799899",
+    "ID": "Q7799899",
+    "exactitude": "coherent"
+  },
+  "ID427": {
+    "label": "PER",
+    "span": "Dieu merci",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q43251682",
+    "ID": "Q43251682",
+    "exactitude": "faux positif"
+  },
+  "ID428": {
+    "label": "LOC",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID429": {
+    "label": "PER",
+    "span": "Clarisse",
+    "score": 0.3601,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID430": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID431": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID432": {
+    "label": "PER",
+    "span": "Clarisse",
+    "score": 0.3601,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID433": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID434": {
+    "label": "LOC",
+    "span": "T\u00e2che",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q1303249",
+    "ID": "Q1303249",
+    "exactitude": "faux positif"
+  },
+  "ID435": {
+    "label": "LOC",
+    "span": "Manot",
+    "score": 0.6913,
+    "URL": "https://www.wikidata.org/wiki/Q526148",
+    "ID": "Q526148",
+    "exactitude": "non"
+  },
+  "ID436": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID437": {
+    "label": "LOC",
+    "span": "Tiens",
+    "score": 0.6033,
+    "URL": "https://www.wikidata.org/wiki/Q851600",
+    "ID": "Q851600",
+    "exactitude": "faux positif"
+  },
+  "ID438": {
+    "label": "LOC",
+    "span": "Manot",
+    "score": 0.6913,
+    "URL": "https://www.wikidata.org/wiki/Q526148",
+    "ID": "Q526148",
+    "exactitude": "non"
+  },
+  "ID439": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.6913,
+    "URL": "https://www.wikidata.org/wiki/Q526148",
+    "ID": "Q526148",
+    "exactitude": "non"
+  },
+  "ID440": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID441": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID442": {
+    "label": "PER",
+    "span": "Clarisse",
+    "score": 0.4012,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID443": {
+    "label": "PER",
+    "span": "Supposez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID444": {
+    "label": "LOC",
+    "span": "\u00c9tat",
+    "score": 0.4484,
+    "URL": "https://www.wikidata.org/wiki/Q1069376",
+    "ID": "Q1069376",
+    "exactitude": "non"
+  },
+  "ID445": {
+    "label": "PER",
+    "span": "Charit\u00e9",
+    "score": 0.6828,
+    "URL": "https://www.wikidata.org/wiki/Q162684",
+    "ID": "Q162684",
+    "exactitude": "non"
+  },
+  "ID446": {
+    "label": "PER",
+    "span": "Clarisse",
+    "score": 0.4012,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID447": {
+    "label": "PER",
+    "span": "H\u00e9",
+    "score": 0.4622,
+    "URL": "https://www.wikidata.org/wiki/Q16633972",
+    "ID": "Q16633972",
+    "exactitude": "faux positif"
+  },
+  "ID448": {
+    "label": "LOC",
+    "span": "Cellier",
+    "score": 0.3903,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+  },
+  "ID449": {
+    "label": "MISC",
+    "span": "Si j'\u00e9tais assur\u00e9 de trouver une m\u00e9nag\u00e8re habile et tourn\u00e9e comme toi",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID450": {
+    "label": "MISC",
+    "span": "Clarisse",
+    "score": 0.4012,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID451": {
+    "label": "LOC",
+    "span": "bras-le-corps",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID452": {
+    "label": "PER",
+    "span": "Pas de galanterie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID453": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID454": {
+    "label": "MISC",
+    "span": "\u00c7a",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID455": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID456": {
+    "label": "MISC",
+    "span": "prise d'Alger",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID457": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID458": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID459": {
+    "label": "LOC",
+    "span": "Alger",
+    "score": 0.3924,
+    "URL": "https://www.wikidata.org/wiki/Q3561",
+    "ID": "Q3561",
+    "exactitude": "oui"
+  },
+  "ID460": {
+    "label": "MISC",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827",
+    "exactitude": "oui"
+  },
+  "ID461": {
+    "label": "PER",
+    "span": "Nom-de-Nom",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID462": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID463": {
+    "label": "PER",
+    "span": "Vive le roi !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "oui"
+  },
+  "ID464": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID465": {
+    "label": "MISC",
+    "span": "Amen",
+    "score": 0.4564,
+    "URL": "https://www.wikidata.org/wiki/Q3613965",
+    "ID": "Q3613965",
+    "exactitude": "non"
+  },
+  "ID466": {
+    "label": "PER",
+    "span": "Vive le roi !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID467": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID468": {
+    "label": "PER",
+    "span": "Jeacquet",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID469": {
+    "label": "LOC",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID470": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID471": {
+    "label": "LOC",
+    "span": "irons politiquer",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID472": {
+    "label": "LOC",
+    "span": "Clarisse",
+    "score": 0.3601,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID473": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non"
+  },
+  "ID474": {
+    "label": "PER",
+    "span": "VI",
+    "score": 0.375,
+    "URL": "https://www.wikidata.org/wiki/Q16316",
+    "ID": "Q16316",
+    "exactitude": "non"
+  },
+  "ID475": {
+    "label": "MISC",
+    "span": "MAIRESSE",
+    "score": 0.234,
+    "URL": "https://www.wikidata.org/wiki/Q171964",
+    "ID": "Q171964",
+    "exactitude": "coherent"
+  },
+  "ID476": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID477": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID478": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID479": {
+    "label": "PER",
+    "span": "Pierre le dragon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID480": {
+    "label": "MISC",
+    "span": "Allez !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID481": {
+    "label": "LOC",
+    "span": "Devise",
+    "score": 0.4187,
+    "URL": "https://www.wikidata.org/wiki/Q69068",
+    "ID": "Q69068",
+    "exactitude": "faux positif"
+  },
+  "ID482": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID483": {
+    "label": "MISC",
+    "span": "Pauvre jeunesse !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID484": {
+    "label": "LOC",
+    "span": "Cachez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID485": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID486": {
+    "label": "MISC",
+    "span": "Allez sans bruit",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID487": {
+    "label": "LOC",
+    "span": "Cachez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID488": {
+    "label": "LOC",
+    "span": "Cachez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID489": {
+    "label": "MISC",
+    "span": "Fillettes",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID490": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID491": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID492": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.5602,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID493": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID494": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID495": {
+    "label": "MISC",
+    "span": "Un beau matin",
+    "score": 0.8586,
+    "URL": "https://www.wikidata.org/wiki/Q20814283",
+    "ID": "Q20814283",
+    "exactitude": "non"
+  },
+  "ID496": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID497": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID498": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID499": {
+    "label": "PER",
+    "span": "madame la mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID500": {
+    "label": "PER",
+    "span": "Mon bon Claude",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID501": {
+    "label": "PER",
+    "span": "Ma Rose",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID502": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID503": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID504": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID505": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID506": {
+    "label": "PER",
+    "span": "ravigoter",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID507": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID508": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID509": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID510": {
+    "label": "PER",
+    "span": "Rassurez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID511": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID512": {
+    "label": "MISC",
+    "span": "Oh !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID513": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID514": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID515": {
+    "label": "PER",
+    "span": "Me",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q491659",
+    "ID": "Q491659",
+    "exactitude": "faux positif"
+  },
+  "ID516": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID517": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID518": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID519": {
+    "label": "MISC",
+    "span": "Sauvez-nous l'honneur",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID520": {
+    "label": "PER",
+    "span": "Relevez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID521": {
+    "label": "LOC",
+    "span": "Allons",
+    "score": 0.4721,
+    "URL": "https://www.wikidata.org/wiki/Q865672",
+    "ID": "Q865672",
+    "exactitude": "faux positif"
+  },
+  "ID522": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID523": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID524": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID525": {
+    "label": "PER",
+    "span": "Armandine",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non lie"
+  },
+  "ID526": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.5602,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID527": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID528": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID529": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID530": {
+    "label": "PER",
+    "span": "Pierre le dragon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID531": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID532": {
+    "label": "MISC",
+    "span": "bon Dieu",
+    "score": 0.1591,
+    "URL": "https://www.wikidata.org/wiki/Q16671761",
+    "ID": "Q16671761",
+    "exactitude": "faux positif"
+  },
+  "ID533": {
+    "label": "PER",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID534": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID535": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID536": {
+    "label": "PER",
+    "span": "VII \nLA CONSCRIPTION",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID537": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID538": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID539": {
+    "label": "MISC",
+    "span": "Quoi !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID540": {
+    "label": "PER",
+    "span": "bravacherie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID541": {
+    "label": "LOC",
+    "span": "Craintifs",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID542": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID543": {
+    "label": "LOC",
+    "span": "Morlinval",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID544": {
+    "label": "LOC",
+    "span": "Morlinval",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID545": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID546": {
+    "label": "PER",
+    "span": "Sainte-Radegonde",
+    "score": 0.4539,
+    "URL": "https://www.wikidata.org/wiki/Q1470485",
+    "ID": "Q1470485",
+    "exactitude": "non"
+  },
+  "ID547": {
+    "label": "PER",
+    "span": "Maria",
+    "score": 0.3832,
+    "URL": "https://www.wikidata.org/wiki/Q1611054",
+    "ID": "Q1611054",
+    "exactitude": "coherent"
+  },
+  "ID548": {
+    "label": "PER",
+    "span": "Vulcain",
+    "score": 0.6864,
+    "URL": "https://www.wikidata.org/wiki/Q44532",
+    "ID": "Q44532",
+    "exactitude": "non"
+  },
+  "ID549": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID550": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.376,
+    "URL": "https://www.wikidata.org/wiki/Q204975",
+    "ID": "Q204975",
+    "exactitude": "non"
+  },
+  "ID551": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q212890",
+    "ID": "Q212890",
+    "exactitude": "coherent"
+  },
+  "ID552": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID553": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID554": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID555": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.5602,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID556": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID557": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q212890",
+    "ID": "Q212890",
+    "exactitude": "coherent"
+  },
+  "ID558": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID559": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID560": {
+    "label": "PER",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID561": {
+    "label": "PER",
+    "span": "fieu de Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID562": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID563": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID564": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID565": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q244380",
+    "ID": "Q244380",
+    "exactitude": "coherent"
+  },
+  "ID566": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID567": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID568": {
+    "label": "MISC",
+    "span": "Vive la France !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+    
+  },
+  "ID569": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID570": {
+    "label": "LOC",
+    "span": "B",
+    "score": 0.375,
+    "URL": "https://www.wikidata.org/wiki/Q726738",
+    "ID": "Q726738",
+    "exactitude": "faux positif"
+  },
+  "ID571": {
+    "label": "LOC",
+    "span": "Morlinval",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID572": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID573": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q244380",
+    "ID": "Q244380",
+    "exactitude": "coherent"
+  },
+  "ID574": {
+    "label": "LOC",
+    "span": "Toinon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID575": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID576": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID577": {
+    "label": "MISC",
+    "span": "VIII \nUN REVENANT",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID578": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.5963,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID579": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.5963,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID580": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID581": {
+    "label": "LOC",
+    "span": "mitan-c\u00f4te",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID582": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.5963,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID583": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID584": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.5963,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID585": {
+    "label": "LOC",
+    "span": "couvent Brugnon",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID586": {
+    "label": "PER",
+    "span": "Toussaint",
+    "score": 0.3909,
+    "URL": "https://www.wikidata.org/wiki/Q16886170",
+    "ID": "Q16886170",
+    "exactitude": "non"
+  },
+  "ID587": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.5963,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID588": {
+    "label": "LOC",
+    "span": "Dizy",
+    "score": 0.7336,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID589": {
+    "label": "PER",
+    "span": "Faudra",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID590": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID591": {
+    "label": "PER",
+    "span": "Lambin",
+    "score": 0.5028,
+    "URL": "https://www.wikidata.org/wiki/Q1187482",
+    "ID": "Q1187482",
+    "exactitude": "coherent"
+  },
+  "ID592": {
+    "label": "LOC",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID593": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID594": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID595": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID596": {
+    "label": "MISC",
+    "span": "bon Dieu",
+    "score": 0.1591,
+    "URL": "https://www.wikidata.org/wiki/Q16671761",
+    "ID": "Q16671761",
+    "exactitude": "non"
+  },
+  "ID597": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID598": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID599": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID600": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID601": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "faux positif"
+  },
+  "ID602": {
+    "label": "PER",
+    "span": "Arrive",
+    "score": 0.3642,
+    "URL": "https://www.wikidata.org/wiki/Q4571239",
+    "ID": "Q4571239",
+    "exactitude": "faux positif"
+  },
+  "ID603": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID604": {
+    "label": "PER",
+    "span": "P\u00e8re Roux",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID605": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID606": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID607": {
+    "label": "MISC",
+    "span": "Jugez !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID608": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID609": {
+    "label": "MISC",
+    "span": "Tais-toi",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q749169",
+    "ID": "Q749169",
+    "exactitude": "faux positif"
+  },
+  "ID610": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID611": {
+    "label": "MISC",
+    "span": "Parle !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID612": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID613": {
+    "label": "MISC",
+    "span": "T'arr\u00eateras-tu ? \n",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID614": {
+    "label": "MISC",
+    "span": "Ah bien oui !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID615": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID616": {
+    "label": "MISC",
+    "span": "Attrape !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID617": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID618": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID619": {
+    "label": "MISC",
+    "span": "Tiens",
+    "score": 0.6033,
+    "URL": "https://www.wikidata.org/wiki/Q851600",
+    "ID": "Q851600",
+    "exactitude": "faux positif"
+  },
+  "ID620": {
+    "label": "MISC",
+    "span": "Assez caus\u00e9 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID621": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID622": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID623": {
+    "label": "LOC",
+    "span": "Parlons",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID624": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID625": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID626": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID627": {
+    "label": "MISC",
+    "span": "Ma foi !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID628": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID629": {
+    "label": "MISC",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID630": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID631": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID632": {
+    "label": "PER",
+    "span": "Clarisse Manot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID633": {
+    "label": "LOC",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID634": {
+    "label": "LOC",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID635": {
+    "label": "LOC",
+    "span": "Hommes-sans-T\u00eates",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID636": {
+    "label": "LOC",
+    "span": "Poulains",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID637": {
+    "label": "LOC",
+    "span": "r\u00e9serve des furolles",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID638": {
+    "label": "MISC",
+    "span": "IX \nLES NOCES",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID639": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID640": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID641": {
+    "label": "PER",
+    "span": "Perp\u00e9tue",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID642": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID643": {
+    "label": "MISC",
+    "span": "Allons !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID644": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.5602,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID645": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q212890",
+    "ID": "Q212890",
+    "exactitude": "coherent"
+  },
+  "ID646": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID647": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID648": {
+    "label": "MISC",
+    "span": "Ton ami !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID649": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID650": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID651": {
+    "label": "PER",
+    "span": "Pardine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q34706",
+    "ID": "Q34706",
+    "exactitude": "faux positif"
+  },
+  "ID652": {
+    "label": "MISC",
+    "span": "Tiens",
+    "score": 0.6033,
+    "URL": "https://www.wikidata.org/wiki/Q851600",
+    "ID": "Q851600",
+    "exactitude": "faux positif"
+  },
+  "ID653": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID654": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID655": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID656": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID657": {
+    "label": "LOC",
+    "span": "Cellier",
+    "score": 0.3895,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+  },
+  "ID658": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID659": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID660": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID661": {
+    "label": "PER",
+    "span": "Vive",
+    "score": 0.382,
+    "URL": "https://www.wikidata.org/wiki/Q19414112",
+    "ID": "Q19414112",
+    "exactitude": "faux positif"
+  },
+  "ID662": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID663": {
+    "label": "PER",
+    "span": "Vive",
+    "score": 0.382,
+    "URL": "https://www.wikidata.org/wiki/Q19414112",
+    "ID": "Q19414112",
+    "exactitude": "faux positif"
+  },
+  "ID664": {
+    "label": "MISC",
+    "span": "T'as un brave",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID665": {
+    "label": "MISC",
+    "span": "Nous voil\u00e0 donc \u00e0 la mairie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID666": {
+    "label": "LOC",
+    "span": "Allez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID667": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID668": {
+    "label": "PER",
+    "span": "D\u00e9sir\u00e9e",
+    "score": 0.4372,
+    "URL": "https://www.wikidata.org/wiki/Q945470",
+    "ID": "Q945470",
+    "exactitude": "non"
+  },
+  "ID669": {
+    "label": "PER",
+    "span": "madame la mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID670": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID671": {
+    "label": "PER",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID672": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID673": {
+    "label": "LOC",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "faux positif"
+  },
+  "ID674": {
+    "label": "MISC",
+    "span": "Va pour dix sous",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID675": {
+    "label": "MISC",
+    "span": "Et Dizy",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non"
+  },
+  "ID676": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID677": {
+    "label": "LOC",
+    "span": "Dizy",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q741536",
+    "ID": "Q741536",
+    "exactitude": "non"
+  },
+  "ID678": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID679": {
+    "label": "MISC",
+    "span": "Moi, j'ai perdu ! \nTout le monde",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID680": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID681": {
+    "label": "PER",
+    "span": "gouailla Dizy",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID682": {
+    "label": "PER",
+    "span": "Me",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q491659",
+    "ID": "Q491659",
+    "exactitude": "faux positif"
+  },
+  "ID683": {
+    "label": "PER",
+    "span": "Clarisse Manot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID684": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.4587,
+    "URL": "https://www.wikidata.org/wiki/Q2777738",
+    "ID": "Q2777738",
+    "exactitude": "non liable"
+  },
+  "ID685": {
+    "label": "MISC",
+    "span": "Me voil\u00e0 maintenant trop vieux",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID686": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID687": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID688": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID689": {
+    "label": "LOC",
+    "span": "Sens-tu",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID690": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID691": {
+    "label": "PER",
+    "span": "Baptiste",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q63538437",
+    "ID": "Q63538437",
+    "exactitude": "non"
+  },
+  "ID692": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID693": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID694": {
+    "label": "PER",
+    "span": "M'",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID695": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID696": {
+    "label": "MISC",
+    "span": "F\u00fbt-ce !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID697": {
+    "label": "PER",
+    "span": "Baptiste",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q63538437",
+    "ID": "Q63538437",
+    "exactitude": "non"
+  },
+  "ID698": {
+    "label": "PER",
+    "span": "Baptiste",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q63538437",
+    "ID": "Q63538437",
+    "exactitude": "non"
+  },
+  "ID699": {
+    "label": "LOC",
+    "span": "Tour",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q329871",
+    "ID": "Q329871",
+    "exactitude": "non"
+  },
+  "ID700": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID701": {
+    "label": "PER",
+    "span": "Taisez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID702": {
+    "label": "PER",
+    "span": "huguenot",
+    "score": 0.5223,
+    "URL": "https://www.wikidata.org/wiki/Q101935",
+    "ID": "Q101935",
+    "exactitude": "oui"
+  },
+  "ID703": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID704": {
+    "label": "PER",
+    "span": "Brugnon",
+    "score": 0.4876,
+    "URL": "https://www.wikidata.org/wiki/Q548130",
+    "ID": "Q548130",
+    "exactitude": "non"
+  },
+  "ID705": {
+    "label": "MISC",
+    "span": "Pater",
+    "score": 0.3817,
+    "URL": "https://www.wikidata.org/wiki/Q3368680",
+    "ID": "Q3368680",
+    "exactitude": "non"
+  },
+  "ID706": {
+    "label": "MISC",
+    "span": "Ave",
+    "score": 0.3717,
+    "URL": "https://www.wikidata.org/wiki/Q14591",
+    "ID": "Q14591",
+    "exactitude": "non"
+  },
+  "ID707": {
+    "label": "PER",
+    "span": "sainte",
+    "score": 0.3323,
+    "URL": "https://www.wikidata.org/wiki/Q3981660",
+    "ID": "Q3981660",
+    "exactitude": "non"
+  },
+  "ID708": {
+    "label": "PER",
+    "span": "redanser le soir",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID709": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID710": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q205326",
+    "ID": "Q205326",
+    "exactitude": "coherent"
+  },
+  "ID711": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q205326",
+    "ID": "Q205326",
+    "exactitude": "coherent"
+  },
+  "ID712": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID713": {
+    "label": "LOC",
+    "span": "Cellier",
+    "score": 0.3591,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+  },
+  "ID714": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID715": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID716": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID717": {
+    "label": "MISC",
+    "span": "Vive notre mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID718": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID719": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q244380",
+    "ID": "Q244380",
+    "exactitude": "coherent"
+  },
+  "ID720": {
+    "label": "PER",
+    "span": "Denis",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q244380",
+    "ID": "Q244380",
+    "exactitude": "coherent"
+  },
+  "ID721": {
+    "label": "PER",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID722": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID723": {
+    "label": "PER",
+    "span": "Rose du d\u00e9shonneur",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID724": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID725": {
+    "label": "ORG",
+    "span": "X \nCE",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID726": {
+    "label": "ORG",
+    "span": "IL VOUS PLAIRA",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID727": {
+    "label": "MISC",
+    "span": "Pierre",
+    "score": 0.3765,
+    "URL": "https://www.wikidata.org/wiki/Q2593213",
+    "ID": "Q2593213",
+    "exactitude": "coherent"
+  },
+  "ID728": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID729": {
+    "label": "PER",
+    "span": "Pierrette",
+    "score": 0.3529,
+    "URL": "https://www.wikidata.org/wiki/Q7192558",
+    "ID": "Q7192558",
+    "exactitude": "oui"
+  },
+  "ID730": {
+    "label": "MISC",
+    "span": "La Rose",
+    "score": 0.3733,
+    "URL": "https://www.wikidata.org/wiki/Q2378537",
+    "ID": "Q2378537",
+    "exactitude": "non"
+  },
+  "ID731": {
+    "label": "LOC",
+    "span": "Norine",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q96478262",
+    "ID": "Q96478262",
+    "exactitude": "oui"
+  },
+  "ID732": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID733": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID734": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID735": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID736": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID737": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID738": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID739": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID740": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID741": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID742": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID743": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID744": {
+    "label": "PER",
+    "span": "Gaspard",
+    "score": 0.3803,
+    "URL": "https://www.wikidata.org/wiki/Q345234",
+    "ID": "Q345234",
+    "exactitude": "non"
+  },
+  "ID745": {
+    "label": "PER",
+    "span": "Jacqueline",
+    "score": 0.3532,
+    "URL": "https://www.wikidata.org/wiki/Q2407078",
+    "ID": "Q2407078",
+    "exactitude": "coherent"
+  },
+  "ID746": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID747": {
+    "label": "PER",
+    "span": "Clarisse Manot",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID748": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID749": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID750": {
+    "label": "LOC",
+    "span": "montagne blanche",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID751": {
+    "label": "PER",
+    "span": "Satan\u00e9",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID752": {
+    "label": "MISC",
+    "span": "Bah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID753": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID754": {
+    "label": "LOC",
+    "span": "colonne Vend\u00f4me",
+    "score": 0.7192,
+    "URL": "https://www.wikidata.org/wiki/Q643520",
+    "ID": "Q643520",
+    "exactitude": "oui"
+  },
+  "ID755": {
+    "label": "PER",
+    "span": "Manot",
+    "score": 0.6913,
+    "URL": "https://www.wikidata.org/wiki/Q526148",
+    "ID": "Q526148",
+    "exactitude": "non"
+  },
+  "ID756": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID757": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.6887,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID758": {
+    "label": "PER",
+    "span": "Clarisse",
+    "score": 0.4003,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID759": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID760": {
+    "label": "LOC",
+    "span": "Clarisse",
+    "score": 0.4003,
+    "URL": "https://www.wikidata.org/wiki/Q733658",
+    "ID": "Q733658",
+    "exactitude": "non"
+  },
+  "ID761": {
+    "label": "LOC",
+    "span": "Palais-Royal",
+    "score": 0.713,
+    "URL": "https://www.wikidata.org/wiki/Q329948",
+    "ID": "Q329948",
+    "exactitude": "oui"
+  },
+  "ID762": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID763": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID764": {
+    "label": "LOC",
+    "span": "Palais-Royal",
+    "score": 0.713,
+    "URL": "https://www.wikidata.org/wiki/Q329948",
+    "ID": "Q329948",
+    "exactitude": "oui"
+  },
+  "ID765": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID766": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.6887,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID767": {
+    "label": "MISC",
+    "span": "Quoi !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID768": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID769": {
+    "label": "PER",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID770": {
+    "label": "PER",
+    "span": "Adonc",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID771": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052",
+    "exactitude": "non"
+  },
+  "ID772": {
+    "label": "LOC",
+    "span": "Parisien",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q142348",
+    "ID": "Q142348",
+    "exactitude": "non"
+  },
+  "ID773": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052",
+    "exactitude": "non"
+  },
+  "ID774": {
+    "label": "MISC",
+    "span": "Bien !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID775": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID776": {
+    "label": "LOC",
+    "span": "Parisiens",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID777": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3771,
+    "URL": "https://www.wikidata.org/wiki/Q900429",
+    "ID": "Q900429",
+    "exactitude": "coherent"
+  },
+  "ID778": {
+    "label": "LOC",
+    "span": "MOISSON",
+    "score": 0.6682,
+    "URL": "https://www.wikidata.org/wiki/Q1461413",
+    "ID": "Q1461413",
+    "exactitude": "non"
+  },
+  "ID779": {
+    "label": "MISC",
+    "span": "Alerte, faucheurs !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID780": {
+    "label": "MISC",
+    "span": "Alerte !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID781": {
+    "label": "PER",
+    "span": "Assis",
+    "score": 0.4571,
+    "URL": "https://www.wikidata.org/wiki/Q742227",
+    "ID": "Q742227",
+    "exactitude": "faux positif"
+  },
+  "ID782": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID783": {
+    "label": "MISC",
+    "span": "Sortez des maisons",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID784": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID785": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID786": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID787": {
+    "label": "PER",
+    "span": "Gens de Morlinval",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID788": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.9124,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID789": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID790": {
+    "label": "MISC",
+    "span": "la R\u00e9volution",
+    "score": 0.4256,
+    "URL": "https://www.wikidata.org/wiki/Q99653665",
+    "ID": "Q99653665",
+    "exactitude": "non"
+  },
+  "ID791": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID792": {
+    "label": "MISC",
+    "span": "Simple affaire de sonnerie",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID793": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID794": {
+    "label": "LOC",
+    "span": "Est",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q237264",
+    "ID": "Q237264",
+    "exactitude": "faux positif"
+  },
+  "ID795": {
+    "label": "MISC",
+    "span": "Argent !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID796": {
+    "label": "MISC",
+    "span": "En voil\u00e0 une de chaleur",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID797": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID798": {
+    "label": "LOC",
+    "span": "Reviendront",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non"
+  },
+  "ID799": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID800": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID801": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID802": {
+    "label": "PER",
+    "span": "Cadet Lambin",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID803": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID804": {
+    "label": "LOC",
+    "span": "franciers",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID805": {
+    "label": "MISC",
+    "span": "Les voil\u00e0 !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID806": {
+    "label": "MISC",
+    "span": "Courons",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID807": {
+    "label": "MISC",
+    "span": "Mon pauvre fieu !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID808": {
+    "label": "MISC",
+    "span": "Mon pauvre homme !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID809": {
+    "label": "MISC",
+    "span": "Courons",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID810": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID811": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID812": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID813": {
+    "label": "PER",
+    "span": "XII",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q986388",
+    "ID": "Q986388",
+    "exactitude": "faux positif"
+  },
+  "ID814": {
+    "label": "LOC",
+    "span": "Cellier",
+    "score": 0.3903,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+  },
+  "ID815": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID816": {
+    "label": "LOC",
+    "span": "Morlincourt",
+    "score": 0.7028,
+    "URL": "https://www.wikidata.org/wiki/Q1336814",
+    "ID": "Q1336814",
+    "exactitude": "oui"
+  },
+  "ID817": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID818": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID819": {
+    "label": "LOC",
+    "span": "franciers",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID820": {
+    "label": "LOC",
+    "span": "M",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q246154",
+    "ID": "Q246154",
+    "exactitude": "faux positif"
+  },
+  "ID821": {
+    "label": "LOC",
+    "span": "C\u00e9ran",
+    "score": 0.6437,
+    "URL": "https://www.wikidata.org/wiki/Q859610",
+    "ID": "Q859610",
+    "exactitude": "coherent"
+  },
+  "ID822": {
+    "label": "PER",
+    "span": "Monsieur C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID823": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID824": {
+    "label": "LOC",
+    "span": "Franciers",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID825": {
+    "label": "LOC",
+    "span": "C\u00e9ran",
+    "score": 0.8268,
+    "URL": "https://www.wikidata.org/wiki/Q859610",
+    "ID": "Q859610",
+    "exactitude": "coherent"
+  },
+  "ID826": {
+    "label": "LOC",
+    "span": "C\u00e9ran",
+    "score": 0.8268,
+    "URL": "https://www.wikidata.org/wiki/Q859610",
+    "ID": "Q859610",
+    "exactitude": "coherent"
+  },
+  "ID827": {
+    "label": "PER",
+    "span": "Monsieur C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID828": {
+    "label": "MISC",
+    "span": "Si c'est vrai !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID829": {
+    "label": "MISC",
+    "span": "Courez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID830": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID831": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID832": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID833": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID834": {
+    "label": "PER",
+    "span": "Th\u00e9r\u00e8se",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q7799899",
+    "ID": "Q7799899",
+    "exactitude": "coherent"
+  },
+  "ID835": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID836": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID837": {
+    "label": "PER",
+    "span": "Th\u00e9r\u00e8se",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q7799899",
+    "ID": "Q7799899",
+    "exactitude": "coherent"
+  },
+  "ID838": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID839": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID840": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID841": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID842": {
+    "label": "PER",
+    "span": "Mon bon ami",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID843": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID844": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID845": {
+    "label": "LOC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID846": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID847": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID848": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID849": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID850": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID851": {
+    "label": "LOC",
+    "span": "Las",
+    "score": 0.3805,
+    "URL": "https://www.wikidata.org/wiki/Q7142558",
+    "ID": "Q7142558",
+    "exactitude": "faux positif"
+  },
+  "ID852": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID853": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID854": {
+    "label": "LOC",
+    "span": "V\u00e9nus",
+    "score": 0.4158,
+    "URL": "https://www.wikidata.org/wiki/Q5502244",
+    "ID": "Q5502244",
+    "exactitude": "non"
+  },
+  "ID855": {
+    "label": "LOC",
+    "span": "B\u00e9r\u00e9nice",
+    "score": 0.4548,
+    "URL": "https://www.wikidata.org/wiki/Q793366",
+    "ID": "Q793366",
+    "exactitude": "coherent"
+  },
+  "ID856": {
+    "label": "MISC",
+    "span": "Cassiop\u00e9e !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID857": {
+    "label": "MISC",
+    "span": "La Rose veille",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "trop long"
+  },
+  "ID858": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID859": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID860": {
+    "label": "PER",
+    "span": "Chanvriers",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID861": {
+    "label": "MISC",
+    "span": "XIII \nUNE P\u00c9TITION",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID862": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID863": {
+    "label": "MISC",
+    "span": "Bonsoir",
+    "score": 0.6673,
+    "URL": "https://www.wikidata.org/wiki/Q678464",
+    "ID": "Q678464",
+    "exactitude": "faux positif"
+  },
+  "ID864": {
+    "label": "PER",
+    "span": "madame la mairesse",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID865": {
+    "label": "PER",
+    "span": "Sois",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q1382472",
+    "ID": "Q1382472",
+    "exactitude": "faux positif"
+  },
+  "ID866": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3885,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID867": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID868": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID869": {
+    "label": "PER",
+    "span": "Messieurs",
+    "score": 0.4764,
+    "URL": "https://www.wikidata.org/wiki/Q1092777",
+    "ID": "Q1092777",
+    "exactitude": "non"
+  },
+  "ID870": {
+    "label": "LOC",
+    "span": "du Nord",
+    "score": 0.341,
+    "URL": "https://www.wikidata.org/wiki/Q967617",
+    "ID": "Q967617",
+    "exactitude": "non"
+  },
+  "ID871": {
+    "label": "PER",
+    "span": "Messieurs",
+    "score": 0.4764,
+    "URL": "https://www.wikidata.org/wiki/Q1092777",
+    "ID": "Q1092777",
+    "exactitude": "non"
+  },
+  "ID872": {
+    "label": "LOC",
+    "span": "Parisien",
+    "score": 0.3903,
+    "URL": "https://www.wikidata.org/wiki/Q142348",
+    "ID": "Q142348",
+    "exactitude": "non"
+  },
+  "ID873": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.665,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "non"
+  },
+  "ID874": {
+    "label": "LOC",
+    "span": "du Nord",
+    "score": 0.341,
+    "URL": "https://www.wikidata.org/wiki/Q967617",
+    "ID": "Q967617",
+    "exactitude": "non"
+  },
+  "ID875": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID876": {
+    "label": "LOC",
+    "span": "du Nord",
+    "score": 0.341,
+    "URL": "https://www.wikidata.org/wiki/Q967617",
+    "ID": "Q967617",
+    "exactitude": "non"
+  },
+  "ID877": {
+    "label": "PER",
+    "span": "Messieurs",
+    "score": 0.4764,
+    "URL": "https://www.wikidata.org/wiki/Q1092777",
+    "ID": "Q1092777",
+    "exactitude": "non"
+
+  },
+  "ID878": {
+    "label": "PER",
+    "span": "DE TRAVAIL",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID879": {
+    "label": "ORG",
+    "span": "Agr\u00e9ez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID880": {
+    "label": "PER",
+    "span": "Messieurs",
+    "score": 0.4764,
+    "URL": "https://www.wikidata.org/wiki/Q1092777",
+    "ID": "Q1092777",
+    "exactitude": "faux positif"
+  },
+  "ID881": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID882": {
+    "label": "PER",
+    "span": "Hein",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q48895",
+    "ID": "Q48895",
+    "exactitude": "faux positif"
+  },
+  "ID883": {
+    "label": "LOC",
+    "span": "la France",
+    "score": 0.1984,
+    "URL": "https://www.wikidata.org/wiki/Q527431",
+    "ID": "Q527431",
+    "exactitude": "non"
+  },
+  "ID884": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID885": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.665,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID886": {
+    "label": "ORG",
+    "span": "Avisez",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID887": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID888": {
+    "label": "PER",
+    "span": "Madame",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3136876",
+    "ID": "Q3136876",
+    "exactitude": "non"
+  },
+  "ID889": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID890": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID891": {
+    "label": "MISC",
+    "span": "Rose",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q34687",
+    "ID": "Q34687",
+    "exactitude": "coherent"
+  },
+  "ID892": {
+    "label": "PER",
+    "span": "Remblay",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID893": {
+    "label": "MISC",
+    "span": "Allez !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID894": {
+    "label": "MISC",
+    "span": "Ta !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID895": {
+    "label": "PER",
+    "span": "Remblay",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID896": {
+    "label": "PER",
+    "span": "Jean-Claude",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q3164791",
+    "ID": "Q3164791",
+    "exactitude": "oui"
+  },
+  "ID897": {
+    "label": "MISC",
+    "span": "Ah !",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID898": {
+    "label": "LOC",
+    "span": "Saint-Brunelle",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID899": {
+    "label": "MISC",
+    "span": "SOUHAITS",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID900": {
+    "label": "MISC",
+    "span": "PRI\u00c8RE",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID901": {
+    "label": "PER",
+    "span": "Roux",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q3174461",
+    "ID": "Q3174461",
+    "exactitude": "coherent"
+  },
+  "ID902": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90",
+    "exactitude": "oui"
+  },
+  "ID903": {
+    "label": "LOC",
+    "span": "SOUHAITS",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "faux positif"
+  },
+  "ID904": {
+    "label": "PER",
+    "span": "M. C\u00e9ran",
+    "score": null,
+    "URL": null,
+    "ID": null,
+    "exactitude": "non liable"
+  },
+  "ID905": {
+    "label": "ORG",
+    "span": "CELLIER",
+    "score": 0.3903,
+    "URL": "https://www.wikidata.org/wiki/Q2603318",
+    "ID": "Q2603318",
+    "exactitude": "coherent"
+  }
+}

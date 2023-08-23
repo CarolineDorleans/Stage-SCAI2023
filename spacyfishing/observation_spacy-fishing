@@ -1,0 +1,243 @@
+Le système Spcayfishing propose un fonctionnement assez simailaire au précédent. Il s'agit ici aussi d'un wrapper pour Spacy. Le système s'appuie sur le système de REN originellement implémenté dans Spacy. Après avoir procédé à la REN, il tente ensuite de lier les entités avec les entités présentes dans la base de connaissance. Il ne parvient toutefois pas toujours à lier l'entité;  l'url, l'ID et le score de confiance prennent alors la valeur "null". Ce système a pour particularité de proposer un score de confiance du matching entre le label wikidata et l' entité relevée dans le texte. Nous obtenons ainsi des entités avec un référent wikidata, des entités sans référents wikidata mais aussi des faux positifs de la REN associé ou non à un référent Wikidata. 
+
+En premier lieu, nous nous interressons aux entités liées à un référent Wikidata. 
+Nous constatons que les noms de personnages sont souvent liés à des noms de personnes célèbres. Ainsi, "Jacqueline" est lié à "Jacqueline Moore", une catcheuse américaine;  "Thérèse" à  "Thérèse Dion" une animatrice américaine de télévision;  "Pierre" à Jean Baptiste Louis Pierre, un biologiste français du XIXème siècle. Cela semble surprenant car pourtant lors de la recherche de Pierre ou de Désirée sur Wikidata, le prénom est proposé en premier. On peut supposer que ce biais vient que dans le corpus d'entraînement, il y avait sûrement plus de personnalités à lier que de  quidam dont le prénom était juste cité. IL faut toutefois relever que quelques prénoms de personnage sont bien liés comme "Jean-Claude", "Norine" ou Sylvain.  
+
+
+Ces mécanismes de liage peuvent trouver des explications logiques, nous constatons pourtant également des erreurs plus difficile à expliquer. Si en guise de test, nous soumettons la phrase simple "Je m'appelle Caroline". De manière inexplicable, "Caroline" est liée à  "English literature (Q186579)literary works written in the English language". Il ne semble pas moins mystérieux que le span "sainte" soit lié à "Taylor Jardine (Q3981660) American singer". 
+Dans les erreurs liées à la cohérence, nous relevons des entités bien typées mais mal liées et des entités bien liées mais mal typées. Dans la phrase "Le gars Denis, tout en tenant par la taille une des filles à Norine, Désirée, sa promise, dit, pour parler de quelque chose, à la mère Leroy", l'entité "Leroy" est reconnue. Le label "PER" associé est correct mais l'entité dans le linking est associée à la ville Texane de Leroy. Lors d'une recherche sur Wikidata, le nom de famille "Leroy" arrive pourtant en seconde position, juste après le prénom. De même "Sylvain"  est considéré comme un MISC, alors même qu'il est bien lié au prénom "Sylvain", ce qui suppose qu'il s'agit d'une personne. 
+ Dans la littérature, des cas plus litigieux peuvent parfois se présenter. Dans beaucoup, d'oeuvres, chez les romantiques notamment la ville devient comme un protagoniste de l'histoire. Zola file la métaphore jusqu'à intituler une oeuvre "Le ventre de Paris" Le phénomène est poussé à son paroxysme avec Bruges la morte de Rodenbach où la ville mélancholique est associée à la femme aimée défunte au point de ne plus pouvoir les distinguer. 
+
+Le système d'entity linking doit donc analyser le contexte pour proposer le meilleur liage ;  ce qui suppose qu'un même span, ne soit pas forcément associé au même label selon son contexte. Il semble toutefois que dans la majorité des cas, le liage reste le même pour un span identique. On relève pourtant quelques variations dans le liage. Le personnage "Denis" est tantôt associé au roi Denis premier du Portugal tantôt à Saint Denis, évèque de Paris. Nous remarquons le m^me variation pour span "Monsieur" associé soit à un film de "Jean-Paul Le Chanois" soit à un de "Jean-Philippe Toussaint". Etant donné que dan le récit un des personnages s'appellle "Toussaint", la proximté de cette chaine de caractère a sûrement eu une influence. Le cas du personnage nommé "Rose" particulièrement pose problème. La langue parfois populaire employée dans ce roman, fait que le prénom est employé avec un article. "la Rose" est donc associé au rosier. Lors de la REN, l'entité reconnue est tantôt "Rose" , tantôt "la Rose". Or "Rose" est associée à la plante le rosier et "la Rose" à une ville aux Etats-Unis. Quand l'entité reconnues est "Ma Rose", l'entity linker est dans l'incapacité de la lier. Pour un référent unique dans le texte : le personnage de Rose, il y a trois référents possibles. 
+
+Des expressions différentes d'un même référent peuvent être liée à la même page, si les différentes formes sont mentionnées dans les alias sur Wikidata. De telle sorte , que l'entité "Clarisse" est associé à l'ordre religieux "Poor Clares" aussi appelé l'ordre des Clarisses. Toutefois, un entités peut être mentionnée dans les alias sur Wikidata sans que l'entity Linker parvienne pour autant à la lier. C'est le cas de "Cassiopée" pourtant mentionnée comme le label français de "Cassiopeia (Q10464), constellation in the northern celestial hemisphere". A l'instard de Cassiopée, certaines entités ne peuvent être liées. 
+
+Nous nous intéresserons donc mainteneant aux entités qui n'ont pas été liées. Certaines entités ne sont pas présentes dans la base parce qu'elles sont spécifiques à ce texte particulier. Saint-Brunelle et Morlinval semblent être des villages fictifs, le nom "Remblay" n'est pas considéré comme un nom de famille courant, le surnom "Nom-de-Nom" du personnage Sylvain est interne au roman. Puisque la REN se fait indépendemment du linking, une fois une entité reconnue, elle ne peut être décomposée en deux éléments. Ainsi pour "Norine Duclos", il ne peut reconnaitre le prénom indépemment du nom de famille alors que les deux sont bien présents dans la base de connaissance. Lors de la REN, le personnage de M.Céran est parfois relevé comme "M. Céran" parfois comme "Céran". "Céran" peut être lié alors que "M. Céran". 
+
+D'autres entités ne sont pas recencées sur Wikidata comme "Perpétue", "Jeanneton" ou "Mandine" alors qu'ils existent en dehors du roman. 
+Nous avons relevé précédemment la tendance de l'entity linker à lier systématiquement les noms de personnages à des noms de personnes célèbres. Il y a bien sur Wikidata, une "Perpétue" de recensée : la femme politique congolaise : Perpetue Kapindo. le span "Perpétue" n'a pourtant pas été lié à "Perpetue Kapindo".
+
+Ensuite,  nous relevons  également des entités qui aurait pû être liées mais qui ne l'ont pas été alors qu'elles sont bien présentes sur Wikidata . Ainsi, Satan est bien présent sur Wikidata sous l'identifiant Q3317226, de même pour le "Dimanche de Pâques" sous l'identifiant Q23642670, ou encore Médore sous l'identifiant Q109336136.  
+Parfois, l'entité est présente sur Wikidata mais pas sous la même forme que celle du texte. Ainsi, l'entité "prise d'Alger" est bien relevée mais elle ne peut être liée à la page Wikidata Q3317226 : "Invasion of Algiers in 1830" car "prise d'Alger" n'est pas précisée les alias de cette page. 
+
+ plusieurs couches :OCR, REN, EL : tt erreurs se valent pas 
+ REN pas du tout 
+ découverte non superviséé 
+ I-Les entités liées
+
+ Les entités qui ne peuvent pas être 
+ erreur de typage 
+	Leroy 
+		est bien typé comme un PER mais est associé dans le linking à une ville texane. 
+ 		city in McLennan County, Texas, United States
+		"label": "PER"
+		mais associé à un lieu 
+	Sylvain	
+		"label": "MISC",
+    		"span": "Sylvain",
+    		"score": 0.3516,
+    		"URL": "https://www.wikidata.org/wiki/Q16281827",
+    		"ID": "Q16281827",
+    		"exactitude": "oui"
+	==> en même temps frontière peut être floue comme dans Bruges la morte, de Rodenbach 
+non de personne anonyme associé à des personnes célèbres
+	pers "Cellier" ==> Alfred Cellier
+	Hardi
+	Désirée = 1954 film by Henry Koster mais pas Désirée Coustaud comme l'autre
+	Jaqueline = Jacqueline Moore, catcheuse américaine 
+	Denis = St Denis
+	Thérèse = Thérèse Dion (Q7799899)Canadian television personality (1927–2020)
+	Roux = Swiss zoologist and bryologist (1876–1939) pas le même que l'autre entity linker
+	Pierre = Jean Baptiste Louis Pierre, French botanist (1833-1905)
+	Maria = Maria Kanellis (Q1611054) American professional wrestler, manager, actress, model and singer
+	Mairesse = Mairesse, French racing driver
+	==> préfére les personnages célébres à considéré qu'il s'agit d'n personnage fictif inconnu de l'Histoire
+	
+pourtant d'autres prénoms bien associés
+	Jean-Claude = bon dans les deux cas*
+	Norine alors qu'il existe des personnages célèbres portant le nom de Norine sur Wikidata comme la chercheuse  Norine Voisin. 
+	De plus, Norine est aussi recensée comme étant un nom de famille
+	Sylvain 
+
+Dans la majorité des cas, les
+même entité mais référents différents	
+	pas le même identifiant pour "Rose" et pour "la Rose"
+		https://www.wikidata.org/wiki/Q2378537
+		"Ma Rose" n'est pas lié
+		forme du parler populaire, mettre un article devant un prénom : pers Rose = la Rose 
+	==> associer à la Rose fleur
+	
+	Denis
+		Denis (Q244380) 3rd-century Bishop of Paris and saint
+		Denis I of Portugal (Q212890) King of Portugal
+	Dieu
+		Bon Dieu : 
+		Dieu :  Dieu (Q3027560) book by Victor Hugo
+	Monsieur 
+		Monsieur (Q371706) 1964 film by Jean-Paul Le Chanois
+		Monsieur (Q18809052) 1990 film by Jean-Philippe Toussaint
+	 		Un des personnages s'appelle Toussaint : une influence ?
+
+
+Mystère 
+	pq "Caroline" est lié à la littérature anglais ? 
+	"ID699": {
+    		"label": "LOC",
+    		"span": "Tour",
+    		"score": 0.3687,
+    		"URL": "https://www.wikidata.org/wiki/Q329871",
+    		"ID": "Q329871",
+    		"exactitude": "non"
+  	},
+  	  "ID707": {
+    		"label": "PER",
+    		"span": "sainte",
+    		"score": 0.3323,
+    		"URL": "https://www.wikidata.org/wiki/Q3981660",
+    		"ID": "Q3981660",
+    		"exactitude": "non"
+    		 Taylor Jardine (Q3981660)American singer
+    	 "ID474": {
+    		"label": "PER",
+    		"span": "VI",
+    		"score": 0.375,
+    		"URL": "https://www.wikidata.org/wiki/Q16316", =  Province of Vicenza (Q16316) province of Italy
+    		"ID": "Q16316",
+dépend bcp des alias
+	vell
+	Sainte Vierge Marie
+	le plus souvent quand le nom abbrégé est mentionné dans les alias 
+	Casiopée figure dans les alias et pourtant n'est pas lié
+	 Cassiopeia (Q10464)
+		constellation in the northern celestial hemisphere
+	poor clares = Clarisse
+Que faire des expression figée comme "fière comme Artaban"
+	Faut-il considérer Artaban comme une entité nommée
+point de vue américano centré
+	 La France (Q527431) French Army airship
+page de désambiguisation
+	Gaspard 
+II-les entités non-liées
+
+
+
+
+entité non liées
+	entité qui aurait pu être liées
+			Médore
+			Pirates des Caraïbes 
+			Dimanche de Pâques :  
+				Sunday of Easter (Q23642670)Sunday between Easter and Pentecost
+			Satan
+				https://www.wikidata.org/wiki/Q3317226
+	 			alors qu'il est présent de manière propre dans la base 
+	entitité dont le titre n'est pas le même sur Wikidata
+		prise d'Alger 
+			https://www.wikidata.org/wiki/Q3317226
+			Invasion of Algiers in 1830
+			
+	entités qui ne sont pas présentes sur wikidata
+		Perpétue",
+    
+			==> abscence de Perpétue comme prénom dans la base mais il existe des personnages dotés de ce prénom 
+				( Perpetue Kapindo, Congolese politician)
+		Jeanneton
+		Mandine
+		
+	entité reconnue trop longue
+	
+		"ID341": {
+    			"label": "PER",
+    			"span": "M. C\u00e9ran",
+    			"score": null,
+    			"URL": null,
+    			"ID": null,
+    			"exactitude": "non liable" },
+
+  		"ID343": {
+    			"label": "LOC",
+    			"span": "C\u00e9ran",
+    			"score": 0.8268,
+    			"URL": "https://www.wikidata.org/wiki/Q859610",
+    			"ID": "Q859610",
+    			"exactitude": "non"},
+    		==> les deux étapes de REN et d'EL vraiment distinctes ,
+ne décompose pas 
+	si Norine Duclos, il ne vas pas reconnaitre les deux élements du nom indépendemment, 
+	alors qu'il est capable de les reconnaitre s'ils sont séparés
+	ne parvient pas à isoler une entité à l'intérieur d'une expression
+III- les faux positifs
+
+La plupart ne sont pas liés 
+
+Il faut également prendre en compte les faux-positifs générés par les erreurs de la REN. Il s'agit quasi-systématiquement de verbe en début de phrase doté d'une majuscule. Souvent l'occurence n'est pas liée mais parfois elle est liée. 
+
+
+faux positif de la REN
+	langue populaire 
+		"Ch' mouguet flourit, ch' lépène s'épanouit ;"
+		"lépène" est repérée comme une entitée nommée
+	Chante = Chante Temara, Australian rugby union player
+	Las",
+    		"score": 0.3805,
+    		"URL": "https://www.wikidata.org/wiki/Q7142558"  
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+Nous remarquons des similitudes entre les deux wrappers pour SpaCy. 
+
+
+	
+
+forme ancienne
+	"Il rencontra, par un pur hasard, notre médecin au droit des Feuillants."
+	ambigue
+
+
+
+
+
+
+
+
+
+voir si pour un même span le score de confiance est toujours le même
+
+
+
+
+
+
+anachronisme
+	 Algiers (Q3561) capital city of Algeria
+	 
+
+à ajouter 
+
+erreur typage 
+    	"label": "PER",
+    	"span": "Vermand",
+    	"score": 0.7147,
+    	"URL": "https://www.wikidata.org/wiki/Q994711",
+    	"exactitude": "oui"
+	==> Vermand est bien un lieu alors qu'il est labelisé PER. 
+	Il est par ailleurs associé au bon référent dans la base de connaissance
+
+non lie
+
+
+
+essai d'etre systématique
+	si le typage correspond alors cohérent 
+
+est-ce que le typage est constant ? 
+est ce que le score de confiance est constant
+

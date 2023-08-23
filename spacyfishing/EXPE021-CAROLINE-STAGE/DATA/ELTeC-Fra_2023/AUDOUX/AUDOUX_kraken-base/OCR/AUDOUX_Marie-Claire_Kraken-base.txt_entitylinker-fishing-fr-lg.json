@@ -1,0 +1,8598 @@
+{
+  "ID0": {
+    "label": "PER",
+    "span": "Tn iour",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID2": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID3": {
+    "label": "MISC",
+    "span": "ca",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID4": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID5": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID6": {
+    "label": "LOC",
+    "span": "megarde",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID7": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID8": {
+    "label": "PER",
+    "span": "meme",
+    "score": 0.4597,
+    "URL": "https://www.wikidata.org/wiki/Q978",
+    "ID": "Q978"
+  },
+  "ID9": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID10": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID11": {
+    "label": "PER",
+    "span": "fessee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID12": {
+    "label": "PER",
+    "span": "Genevieve\nde Brabant",
+    "score": 0.2749,
+    "URL": "https://www.wikidata.org/wiki/Q3100706",
+    "ID": "Q3100706"
+  },
+  "ID13": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4666,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID14": {
+    "label": "MISC",
+    "span": "passee",
+    "score": 0.5026,
+    "URL": "https://www.wikidata.org/wiki/Q690806",
+    "ID": "Q690806"
+  },
+  "ID15": {
+    "label": "LOC",
+    "span": "Chicon",
+    "score": 0.4655,
+    "URL": "https://www.wikidata.org/wiki/Q8537710",
+    "ID": "Q8537710"
+  },
+  "ID16": {
+    "label": "PER",
+    "span": "glis-\nser",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID17": {
+    "label": "LOC",
+    "span": "pre Chicon",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID18": {
+    "label": "PER",
+    "span": "Chicon branla la tete",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID19": {
+    "label": "PER",
+    "span": "Girard",
+    "score": 0.4158,
+    "URL": "https://www.wikidata.org/wiki/Q94016",
+    "ID": "Q94016"
+  },
+  "ID20": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90"
+  },
+  "ID21": {
+    "label": "MISC",
+    "span": "Chicon",
+    "score": 0.4057,
+    "URL": "https://www.wikidata.org/wiki/Q8537710",
+    "ID": "Q8537710"
+  },
+  "ID22": {
+    "label": "PER",
+    "span": "Le monsieur",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID23": {
+    "label": "PER",
+    "span": "repondre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID24": {
+    "label": "LOC",
+    "span": "Chicon",
+    "score": 0.4057,
+    "URL": "https://www.wikidata.org/wiki/Q8537710",
+    "ID": "Q8537710"
+  },
+  "ID25": {
+    "label": "LOC",
+    "span": "MIARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID26": {
+    "label": "PER",
+    "span": "Colas",
+    "score": 0.4076,
+    "URL": "https://www.wikidata.org/wiki/Q2982355",
+    "ID": "Q2982355"
+  },
+  "ID27": {
+    "label": "PER",
+    "span": "Seur Gabrielle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID28": {
+    "label": "PER",
+    "span": "Seur Gabrielle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID29": {
+    "label": "PER",
+    "span": "Gabrielle",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q242685",
+    "ID": "Q242685"
+  },
+  "ID30": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID31": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID32": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID33": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID34": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID35": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID36": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID37": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID38": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID39": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID40": {
+    "label": "PER",
+    "span": "Augustine",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q8018",
+    "ID": "Q8018"
+  },
+  "ID41": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID42": {
+    "label": "PER",
+    "span": "Ma Seur",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID43": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID44": {
+    "label": "MISC",
+    "span": "lComme",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID45": {
+    "label": "LOC",
+    "span": "gateaux",
+    "score": 0.6996,
+    "URL": "https://www.wikidata.org/wiki/Q13276",
+    "ID": "Q13276"
+  },
+  "ID46": {
+    "label": "MISC",
+    "span": "Seur",
+    "score": 0.6588,
+    "URL": "https://www.wikidata.org/wiki/Q1383605",
+    "ID": "Q1383605"
+  },
+  "ID47": {
+    "label": "PER",
+    "span": "regle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID48": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID49": {
+    "label": "PER",
+    "span": "plagca",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID50": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID51": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID52": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID53": {
+    "label": "PER",
+    "span": "ap-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID54": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID55": {
+    "label": "LOC",
+    "span": "Gabrielle",
+    "score": 0.4754,
+    "URL": "https://www.wikidata.org/wiki/Q242685",
+    "ID": "Q242685"
+  },
+  "ID56": {
+    "label": "PER",
+    "span": "Gabrielle",
+    "score": 0.4754,
+    "URL": "https://www.wikidata.org/wiki/Q242685",
+    "ID": "Q242685"
+  },
+  "ID57": {
+    "label": "PER",
+    "span": "Aimee",
+    "score": 0.3919,
+    "URL": "https://www.wikidata.org/wiki/Q5073793",
+    "ID": "Q5073793"
+  },
+  "ID58": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID59": {
+    "label": "PER",
+    "span": "Gabrielle",
+    "score": 0.4754,
+    "URL": "https://www.wikidata.org/wiki/Q242685",
+    "ID": "Q242685"
+  },
+  "ID60": {
+    "label": "PER",
+    "span": "seur Gabrielle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID61": {
+    "label": "PER",
+    "span": "Marie-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID62": {
+    "label": "PER",
+    "span": "Aimee",
+    "score": 0.3531,
+    "URL": "https://www.wikidata.org/wiki/Q5073793",
+    "ID": "Q5073793"
+  },
+  "ID63": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID64": {
+    "label": "MISC",
+    "span": "Chut l chut",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID65": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID66": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID67": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID68": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID69": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID70": {
+    "label": "LOC",
+    "span": "montaMIARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID71": {
+    "label": "MISC",
+    "span": "Le soir meme",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID72": {
+    "label": "PER",
+    "span": "retournee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID73": {
+    "label": "LOC",
+    "span": "ger",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q15680",
+    "ID": "Q15680"
+  },
+  "ID74": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID75": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID76": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID77": {
+    "label": "LOC",
+    "span": "fourrai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID78": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID79": {
+    "label": "PER",
+    "span": "aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID80": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID81": {
+    "label": "PER",
+    "span": "epouvantee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID82": {
+    "label": "PER",
+    "span": "apeine etait",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID83": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID84": {
+    "label": "MISC",
+    "span": "Ismrie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID85": {
+    "label": "PER",
+    "span": "Bonne\nEsther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID86": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID87": {
+    "label": "PER",
+    "span": "Bonne Esther",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID88": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID89": {
+    "label": "ORG",
+    "span": "AF",
+    "score": 0.3597,
+    "URL": "https://www.wikidata.org/wiki/Q210008",
+    "ID": "Q210008"
+  },
+  "ID90": {
+    "label": "LOC",
+    "span": "3I",
+    "score": 0.4161,
+    "URL": "https://www.wikidata.org/wiki/Q3307335",
+    "ID": "Q3307335"
+  },
+  "ID91": {
+    "label": "MISC",
+    "span": "II\n\n2A\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID92": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID93": {
+    "label": "ORG",
+    "span": "EEEI",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q938047",
+    "ID": "Q938047"
+  },
+  "ID94": {
+    "label": "LOC",
+    "span": "LP-nFtF",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID95": {
+    "label": "PER",
+    "span": "W",
+    "score": 0.3763,
+    "URL": "https://www.wikidata.org/wiki/Q9964",
+    "ID": "Q9964"
+  },
+  "ID96": {
+    "label": "PER",
+    "span": "W",
+    "score": 0.3763,
+    "URL": "https://www.wikidata.org/wiki/Q9964",
+    "ID": "Q9964"
+  },
+  "ID97": {
+    "label": "MISC",
+    "span": "EZEELT",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID98": {
+    "label": "ORG",
+    "span": "XT",
+    "score": 0.4886,
+    "URL": "https://www.wikidata.org/wiki/Q34349",
+    "ID": "Q34349"
+  },
+  "ID99": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID100": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID101": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID102": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID103": {
+    "label": "LOC",
+    "span": "Rvelle-to",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID104": {
+    "label": "PER",
+    "span": "lumiere",
+    "score": 0.306,
+    "URL": "https://www.wikidata.org/wiki/Q1377229",
+    "ID": "Q1377229"
+  },
+  "ID105": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID106": {
+    "label": "PER",
+    "span": "Narie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID107": {
+    "label": "PER",
+    "span": "ja-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID108": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID109": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID110": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID111": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID112": {
+    "label": "LOC",
+    "span": "etais",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q566531",
+    "ID": "Q566531"
+  },
+  "ID113": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID114": {
+    "label": "LOC",
+    "span": "repondre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID115": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID116": {
+    "label": "MISC",
+    "span": "Regarde mon nez",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID117": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID118": {
+    "label": "PER",
+    "span": "tremblai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID119": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID120": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID121": {
+    "label": "LOC",
+    "span": "lapoussa dupied",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID122": {
+    "label": "LOC",
+    "span": "degot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID123": {
+    "label": "MISC",
+    "span": "Quelle affreuse petite creature",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID124": {
+    "label": "LOC",
+    "span": "pasIsmerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID125": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID126": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID127": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID128": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID129": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID130": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID131": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID132": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID133": {
+    "label": "ORG",
+    "span": "epingle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID134": {
+    "label": "LOC",
+    "span": "grace",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID135": {
+    "label": "PER",
+    "span": "pliee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID136": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID137": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID138": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID139": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID140": {
+    "label": "PER",
+    "span": "Bonne Nron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID141": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID142": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID143": {
+    "label": "MISC",
+    "span": "ajiouta",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID144": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID145": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID146": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID147": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID148": {
+    "label": "MISC",
+    "span": "Oh, ce mouchoir",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID149": {
+    "label": "PER",
+    "span": "epouvantable",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID150": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID151": {
+    "label": "PER",
+    "span": "Dieul",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID152": {
+    "label": "LOC",
+    "span": "Vierge",
+    "score": 0.5706,
+    "URL": "https://www.wikidata.org/wiki/Q170538",
+    "ID": "Q170538"
+  },
+  "ID153": {
+    "label": "PER",
+    "span": "Mere",
+    "score": 0.4112,
+    "URL": "https://www.wikidata.org/wiki/Q1221042",
+    "ID": "Q1221042"
+  },
+  "ID154": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID155": {
+    "label": "PER",
+    "span": "malgre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID156": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.5132,
+    "URL": "https://www.wikidata.org/wiki/Q330564",
+    "ID": "Q330564"
+  },
+  "ID157": {
+    "label": "PER",
+    "span": "arie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID158": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID159": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID160": {
+    "label": "PER",
+    "span": "Bonne Neron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID161": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID162": {
+    "label": "MISC",
+    "span": "CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID163": {
+    "label": "PER",
+    "span": "tete",
+    "score": 0.4167,
+    "URL": "https://www.wikidata.org/wiki/Q388242",
+    "ID": "Q388242"
+  },
+  "ID164": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID165": {
+    "label": "LOC",
+    "span": "Ca",
+    "score": 0.4103,
+    "URL": "https://www.wikidata.org/wiki/Q706",
+    "ID": "Q706"
+  },
+  "ID166": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID167": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID168": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID169": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID170": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID171": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID172": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID173": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID174": {
+    "label": "PER",
+    "span": "Bonne\nNeron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID175": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID176": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID177": {
+    "label": "PER",
+    "span": "depit",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID178": {
+    "label": "PER",
+    "span": "Seur\nMarie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID179": {
+    "label": "PER",
+    "span": "jie",
+    "score": 0.5761,
+    "URL": "https://www.wikidata.org/wiki/Q56281",
+    "ID": "Q56281"
+  },
+  "ID180": {
+    "label": "ORG",
+    "span": "edt",
+    "score": 0.4668,
+    "URL": "https://www.wikidata.org/wiki/Q941023",
+    "ID": "Q941023"
+  },
+  "ID181": {
+    "label": "PER",
+    "span": "deja pietine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID182": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID183": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID184": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID185": {
+    "label": "MISC",
+    "span": "I1MARIE-CLAIRB\nnoire",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID186": {
+    "label": "PER",
+    "span": "Jetais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID187": {
+    "label": "PER",
+    "span": "Seur Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID188": {
+    "label": "PER",
+    "span": "Allonsl",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID189": {
+    "label": "PER",
+    "span": "abandonnee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID190": {
+    "label": "PER",
+    "span": "vetue",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID191": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID192": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID193": {
+    "label": "PER",
+    "span": "fachee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID194": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID195": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID196": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID197": {
+    "label": "MISC",
+    "span": "Paques",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID198": {
+    "label": "LOC",
+    "span": "gateaux",
+    "score": 0.6996,
+    "URL": "https://www.wikidata.org/wiki/Q13276",
+    "ID": "Q13276"
+  },
+  "ID199": {
+    "label": "PER",
+    "span": "atable",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID200": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID201": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID202": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID203": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID204": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID205": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID206": {
+    "label": "MISC",
+    "span": "La sale bete",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID207": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID208": {
+    "label": "PER",
+    "span": "echappant",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID209": {
+    "label": "PER",
+    "span": "baton",
+    "score": 0.1916,
+    "URL": "https://www.wikidata.org/wiki/Q121650",
+    "ID": "Q121650"
+  },
+  "ID210": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID211": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID212": {
+    "label": "LOC",
+    "span": "baton haut",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID213": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID214": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID215": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID216": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID217": {
+    "label": "MISC",
+    "span": "Moi aussi, je trouvais que c'etait honteux",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID218": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID219": {
+    "label": "LOC",
+    "span": "e",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID220": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID221": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID222": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID223": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID224": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID225": {
+    "label": "LOC",
+    "span": "ILl",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID226": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID227": {
+    "label": "PER",
+    "span": "Marie-Claire",
+    "score": 0.3948,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID228": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID229": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID230": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID231": {
+    "label": "LOC",
+    "span": "Saeur",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID232": {
+    "label": "LOC",
+    "span": "allees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID233": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID234": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID235": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID236": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID237": {
+    "label": "ORG",
+    "span": "empressee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID238": {
+    "label": "MISC",
+    "span": "Quand 1'et fut fini",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID239": {
+    "label": "MISC",
+    "span": "Nous allions",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID240": {
+    "label": "MISC",
+    "span": "Mon ceur battait",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID241": {
+    "label": "PER",
+    "span": "noux",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q867580",
+    "ID": "Q867580"
+  },
+  "ID242": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID243": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID244": {
+    "label": "MISC",
+    "span": "Quinze jours",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID245": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID246": {
+    "label": "PER",
+    "span": "Sophie",
+    "score": 0.3525,
+    "URL": "https://www.wikidata.org/wiki/Q18161827",
+    "ID": "Q18161827"
+  },
+  "ID247": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID248": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID249": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID250": {
+    "label": "MISC",
+    "span": "Dieu",
+    "score": 0.3857,
+    "URL": "https://www.wikidata.org/wiki/Q3027560",
+    "ID": "Q3027560"
+  },
+  "ID251": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID252": {
+    "label": "PER",
+    "span": "esus",
+    "score": 0.7238,
+    "URL": "https://www.wikidata.org/wiki/Q1370854",
+    "ID": "Q1370854"
+  },
+  "ID253": {
+    "label": "ORG",
+    "span": "pt",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID254": {
+    "label": "PER",
+    "span": "reter",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID255": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID256": {
+    "label": "PER",
+    "span": "Ma gorge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID257": {
+    "label": "PER",
+    "span": "Josai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID258": {
+    "label": "PER",
+    "span": "arie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID259": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID260": {
+    "label": "ORG",
+    "span": "I3",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q2978700",
+    "ID": "Q2978700"
+  },
+  "ID261": {
+    "label": "PER",
+    "span": "H I",
+    "score": 0.3612,
+    "URL": "https://www.wikidata.org/wiki/Q528404",
+    "ID": "Q528404"
+  },
+  "ID262": {
+    "label": "MISC",
+    "span": "Z\n\ni' e\n31",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID263": {
+    "label": "LOC",
+    "span": "x-L.",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID264": {
+    "label": "MISC",
+    "span": "Z",
+    "score": 0.3903,
+    "URL": "https://www.wikidata.org/wiki/Q126484",
+    "ID": "Q126484"
+  },
+  "ID265": {
+    "label": "MISC",
+    "span": "II1\nI.\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID266": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID267": {
+    "label": "PER",
+    "span": "1II\nI\n A",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID268": {
+    "label": "PER",
+    "span": "Vssrror",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID269": {
+    "label": "PER",
+    "span": "notse premire",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID270": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID271": {
+    "label": "PER",
+    "span": "ap-\n ",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID272": {
+    "label": "PER",
+    "span": "Bonne Justine declara",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID273": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID274": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID275": {
+    "label": "MISC",
+    "span": "siMIARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID276": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID277": {
+    "label": "LOC",
+    "span": "reprimandes",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID278": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID279": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID280": {
+    "label": "PER",
+    "span": "Seur Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID281": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID282": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID283": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID284": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID285": {
+    "label": "PER",
+    "span": "ete apportee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID286": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID287": {
+    "label": "PER",
+    "span": "leblanc",
+    "score": 0.2281,
+    "URL": "https://www.wikidata.org/wiki/Q6511368",
+    "ID": "Q6511368"
+  },
+  "ID288": {
+    "label": "MISC",
+    "span": "qtuand je lui rendais un petit service",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID289": {
+    "label": "MISC",
+    "span": "tout'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID290": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID291": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID292": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID293": {
+    "label": "PER",
+    "span": "malde Colette",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID294": {
+    "label": "MISC",
+    "span": "Te fis",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID295": {
+    "label": "ORG",
+    "span": "eusramenee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID296": {
+    "label": "PER",
+    "span": "MARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID297": {
+    "label": "PER",
+    "span": "Marie-Claire",
+    "score": 0.3948,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID298": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID299": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID300": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID301": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID302": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID303": {
+    "label": "PER",
+    "span": "enveloppee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID304": {
+    "label": "PER",
+    "span": "brassa",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID305": {
+    "label": "PER",
+    "span": "Mre",
+    "score": 0.4324,
+    "URL": "https://www.wikidata.org/wiki/Q586615",
+    "ID": "Q586615"
+  },
+  "ID306": {
+    "label": "PER",
+    "span": "Ismerie\n- Si",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID307": {
+    "label": "PER",
+    "span": "ma Mere",
+    "score": 0.1591,
+    "URL": "https://www.wikidata.org/wiki/Q1918038",
+    "ID": "Q1918038"
+  },
+  "ID308": {
+    "label": "PER",
+    "span": "Colette'\n- Je l'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID309": {
+    "label": "MISC",
+    "span": "Presque chaque jour",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID310": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID311": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID312": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID313": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID314": {
+    "label": "MISC",
+    "span": "IMais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID315": {
+    "label": "MISC",
+    "span": "Nina",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q19363435",
+    "ID": "Q19363435"
+  },
+  "ID316": {
+    "label": "PER",
+    "span": "la Vierge",
+    "score": 0.5016,
+    "URL": "https://www.wikidata.org/wiki/Q3213748",
+    "ID": "Q3213748"
+  },
+  "ID317": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.5771,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID318": {
+    "label": "PER",
+    "span": "autresl",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID319": {
+    "label": "LOC",
+    "span": "grace",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID320": {
+    "label": "PER",
+    "span": "Sophie",
+    "score": 0.3525,
+    "URL": "https://www.wikidata.org/wiki/Q18161827",
+    "ID": "Q18161827"
+  },
+  "ID321": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID322": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID323": {
+    "label": "MISC",
+    "span": "Te Deum",
+    "score": 0.4653,
+    "URL": "https://www.wikidata.org/wiki/Q1387966",
+    "ID": "Q1387966"
+  },
+  "ID324": {
+    "label": "LOC",
+    "span": "repetais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID325": {
+    "label": "PER",
+    "span": "lasserl\n- Etoile du matin",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID326": {
+    "label": "PER",
+    "span": "guerissez Colette",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID327": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID328": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.5551,
+    "URL": "https://www.wikidata.org/wiki/Q737606",
+    "ID": "Q737606"
+  },
+  "ID329": {
+    "label": "PER",
+    "span": "Vierge",
+    "score": 0.458,
+    "URL": "https://www.wikidata.org/wiki/Q170538",
+    "ID": "Q170538"
+  },
+  "ID330": {
+    "label": "MISC",
+    "span": "elan",
+    "score": 0.2212,
+    "URL": "https://www.wikidata.org/wiki/Q294353",
+    "ID": "Q294353"
+  },
+  "ID331": {
+    "label": "ORG",
+    "span": "Colettel",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID332": {
+    "label": "PER",
+    "span": "guerissez ColettelMaintenant",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID333": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.5551,
+    "URL": "https://www.wikidata.org/wiki/Q737606",
+    "ID": "Q737606"
+  },
+  "ID334": {
+    "label": "PER",
+    "span": "acoompagnee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID335": {
+    "label": "MISC",
+    "span": "sre",
+    "score": 0.564,
+    "URL": "https://www.wikidata.org/wiki/Q33957",
+    "ID": "Q33957"
+  },
+  "ID336": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.5551,
+    "URL": "https://www.wikidata.org/wiki/Q737606",
+    "ID": "Q737606"
+  },
+  "ID337": {
+    "label": "PER",
+    "span": "noux",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q867580",
+    "ID": "Q867580"
+  },
+  "ID338": {
+    "label": "PER",
+    "span": "tatonna",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID339": {
+    "label": "PER",
+    "span": "Ele",
+    "score": 0.3623,
+    "URL": "https://www.wikidata.org/wiki/Q432370",
+    "ID": "Q432370"
+  },
+  "ID340": {
+    "label": "MISC",
+    "span": "Te Deum",
+    "score": 0.4653,
+    "URL": "https://www.wikidata.org/wiki/Q1387966",
+    "ID": "Q1387966"
+  },
+  "ID341": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID342": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID343": {
+    "label": "ORG",
+    "span": "qsi",
+    "score": 0.2974,
+    "URL": "https://www.wikidata.org/wiki/Q645032",
+    "ID": "Q645032"
+  },
+  "ID344": {
+    "label": "MISC",
+    "span": "Dieupoer",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID345": {
+    "label": "PER",
+    "span": "larmaes",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID346": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID347": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID348": {
+    "label": "PER",
+    "span": "Sophie",
+    "score": 0.3525,
+    "URL": "https://www.wikidata.org/wiki/Q18161827",
+    "ID": "Q18161827"
+  },
+  "ID349": {
+    "label": "MISC",
+    "span": "vo-\nlontes de la Vierge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID350": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID351": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID352": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID353": {
+    "label": "LOC",
+    "span": "clle",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q723346",
+    "ID": "Q723346"
+  },
+  "ID354": {
+    "label": "PER",
+    "span": "Ie",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q1193528",
+    "ID": "Q1193528"
+  },
+  "ID355": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID356": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID357": {
+    "label": "PER",
+    "span": "Monsier",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID358": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID359": {
+    "label": "LOC",
+    "span": "ger",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q15680",
+    "ID": "Q15680"
+  },
+  "ID360": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID361": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee repodit",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID362": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID363": {
+    "label": "LOC",
+    "span": "malgre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID364": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052"
+  },
+  "ID365": {
+    "label": "ORG",
+    "span": "cdit",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q5062410",
+    "ID": "Q5062410"
+  },
+  "ID366": {
+    "label": "LOC",
+    "span": "malgre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID367": {
+    "label": "LOC",
+    "span": "allees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID368": {
+    "label": "LOC",
+    "span": "tilleuls",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID369": {
+    "label": "PER",
+    "span": "j'avaisentendus",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID370": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID371": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID372": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID373": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID374": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID375": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID376": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3907,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID377": {
+    "label": "LOC",
+    "span": "balayai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID378": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID379": {
+    "label": "PER",
+    "span": "adeleine",
+    "score": 0.3723,
+    "URL": "https://www.wikidata.org/wiki/Q16001784",
+    "ID": "Q16001784"
+  },
+  "ID380": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID381": {
+    "label": "PER",
+    "span": "Bonne ustine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID382": {
+    "label": "PER",
+    "span": "pls enflees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID383": {
+    "label": "PER",
+    "span": "Bonne Justine.42\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID384": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID385": {
+    "label": "PER",
+    "span": "Marie\nRenaud",
+    "score": 0.4748,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID386": {
+    "label": "PER",
+    "span": "Aussitot Marie Renaud",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID387": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID388": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID389": {
+    "label": "MISC",
+    "span": "Saintes Huiles",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID390": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID391": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID392": {
+    "label": "PER",
+    "span": "itais accrochee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID393": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID394": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID395": {
+    "label": "ORG",
+    "span": "NSJ",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q6979195",
+    "ID": "Q6979195"
+  },
+  "ID396": {
+    "label": "MISC",
+    "span": "L\n\n\nGn\n\nx",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID397": {
+    "label": "ORG",
+    "span": "EsE",
+    "score": 0.2655,
+    "URL": "https://www.wikidata.org/wiki/Q11114344",
+    "ID": "Q11114344"
+  },
+  "ID398": {
+    "label": "ORG",
+    "span": "ELII",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID399": {
+    "label": "MISC",
+    "span": "Il M\nI  II",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID400": {
+    "label": "LOC",
+    "span": "i-E\nIy",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID401": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID402": {
+    "label": "PER",
+    "span": "Seur Maie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID403": {
+    "label": "PER",
+    "span": "cnmbien lle",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID404": {
+    "label": "MISC",
+    "span": "MIais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID405": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID406": {
+    "label": "PER",
+    "span": "Mlle Maximiliene",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID407": {
+    "label": "LOC",
+    "span": "Rome",
+    "score": 0.4608,
+    "URL": "https://www.wikidata.org/wiki/Q220",
+    "ID": "Q220"
+  },
+  "ID408": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID409": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID410": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID411": {
+    "label": "PER",
+    "span": "Monsieur",
+    "score": 0.3892,
+    "URL": "https://www.wikidata.org/wiki/Q18809052",
+    "ID": "Q18809052"
+  },
+  "ID412": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID413": {
+    "label": "MISC",
+    "span": "Un matin, la superieure",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID414": {
+    "label": "LOC",
+    "span": "comparai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID415": {
+    "label": "PER",
+    "span": "malgre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID416": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID417": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID418": {
+    "label": "LOC",
+    "span": "Sologne",
+    "score": 0.9043,
+    "URL": "https://www.wikidata.org/wiki/Q1784690",
+    "ID": "Q1784690"
+  },
+  "ID419": {
+    "label": "MISC",
+    "span": "Vous serez bergere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID420": {
+    "label": "PER",
+    "span": "mademoisellel",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID421": {
+    "label": "PER",
+    "span": "Mere",
+    "score": 0.3749,
+    "URL": "https://www.wikidata.org/wiki/Q1221042",
+    "ID": "Q1221042"
+  },
+  "ID422": {
+    "label": "PER",
+    "span": "Mere",
+    "score": 0.3749,
+    "URL": "https://www.wikidata.org/wiki/Q1221042",
+    "ID": "Q1221042"
+  },
+  "ID423": {
+    "label": "PER",
+    "span": "Mere",
+    "score": 0.3749,
+    "URL": "https://www.wikidata.org/wiki/Q1221042",
+    "ID": "Q1221042"
+  },
+  "ID424": {
+    "label": "LOC",
+    "span": "Saint-ean",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID425": {
+    "label": "LOC",
+    "span": "rflexiom",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID426": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID427": {
+    "label": "LOC",
+    "span": "Eile",
+    "score": 0.5836,
+    "URL": "https://www.wikidata.org/wiki/Q8078167",
+    "ID": "Q8078167"
+  },
+  "ID428": {
+    "label": "MISC",
+    "span": "ue voix qtui",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID429": {
+    "label": "MISC",
+    "span": "vengel",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID430": {
+    "label": "PER",
+    "span": "ssppliee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID431": {
+    "label": "ORG",
+    "span": "chezg",
+    "score": 0.7021,
+    "URL": "https://www.wikidata.org/wiki/Q5094661",
+    "ID": "Q5094661"
+  },
+  "ID432": {
+    "label": "PER",
+    "span": "Mlle Maxi-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID433": {
+    "label": "PER",
+    "span": "ls memes mots",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID434": {
+    "label": "PER",
+    "span": "Elte",
+    "score": 0.5001,
+    "URL": "https://www.wikidata.org/wiki/Q185472",
+    "ID": "Q185472"
+  },
+  "ID435": {
+    "label": "LOC",
+    "span": "deMARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID436": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID437": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID438": {
+    "label": "PER",
+    "span": "Madeleime",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID439": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID440": {
+    "label": "PER",
+    "span": "Marie Renaud",
+    "score": 0.8403,
+    "URL": "https://www.wikidata.org/wiki/Q19880806",
+    "ID": "Q19880806"
+  },
+  "ID441": {
+    "label": "PER",
+    "span": "Marie-Aimee crt",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID442": {
+    "label": "MISC",
+    "span": "chant;puis",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID443": {
+    "label": "LOC",
+    "span": "tremblees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID444": {
+    "label": "ORG",
+    "span": "Unpeuavantl'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID445": {
+    "label": "PER",
+    "span": "Madeleineentradanslerefectoire",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID446": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID447": {
+    "label": "LOC",
+    "span": "Rome",
+    "score": 0.4608,
+    "URL": "https://www.wikidata.org/wiki/Q220",
+    "ID": "Q220"
+  },
+  "ID448": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID449": {
+    "label": "PER",
+    "span": "oubliee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID450": {
+    "label": "LOC",
+    "span": "la Saint-Iean",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID451": {
+    "label": "LOC",
+    "span": "prikre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID452": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID453": {
+    "label": "PER",
+    "span": "Seigneur",
+    "score": 0.5033,
+    "URL": "https://www.wikidata.org/wiki/Q12826225",
+    "ID": "Q12826225"
+  },
+  "ID454": {
+    "label": "MISC",
+    "span": "vai",
+    "score": 0.2192,
+    "URL": "https://www.wikidata.org/wiki/Q36939",
+    "ID": "Q36939"
+  },
+  "ID455": {
+    "label": "PER",
+    "span": "Ie",
+    "score": 0.4945,
+    "URL": "https://www.wikidata.org/wiki/Q6038966",
+    "ID": "Q6038966"
+  },
+  "ID456": {
+    "label": "ORG",
+    "span": "So-\nlogne",
+    "score": 0.4769,
+    "URL": "https://www.wikidata.org/wiki/Q1784690",
+    "ID": "Q1784690"
+  },
+  "ID457": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID458": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID459": {
+    "label": "LOC",
+    "span": "queNIARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID460": {
+    "label": "PER",
+    "span": "Sophie",
+    "score": 0.3525,
+    "URL": "https://www.wikidata.org/wiki/Q18161827",
+    "ID": "Q18161827"
+  },
+  "ID461": {
+    "label": "PER",
+    "span": "clarte",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q1778768",
+    "ID": "Q1778768"
+  },
+  "ID462": {
+    "label": "PER",
+    "span": "Chemineau l'Orgueilleuse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID463": {
+    "label": "PER",
+    "span": "Chemineau la Bete",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID464": {
+    "label": "MISC",
+    "span": "Chemineaul'Orgueilleuse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID465": {
+    "label": "PER",
+    "span": "Soeur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID466": {
+    "label": "PER",
+    "span": "Chemineau la Bete",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID467": {
+    "label": "PER",
+    "span": "carree",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q416367",
+    "ID": "Q416367"
+  },
+  "ID468": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID469": {
+    "label": "PER",
+    "span": "Mlle Maximilienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID470": {
+    "label": "MISC",
+    "span": "les ombres des tilleuls",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID471": {
+    "label": "ORG",
+    "span": "c6te",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID472": {
+    "label": "PER",
+    "span": "arrtetai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID473": {
+    "label": "PER",
+    "span": "lasur Agathe",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID474": {
+    "label": "PER",
+    "span": "Agathe",
+    "score": 0.3518,
+    "URL": "https://www.wikidata.org/wiki/Q2357893",
+    "ID": "Q2357893"
+  },
+  "ID475": {
+    "label": "LOC",
+    "span": "Aga-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID476": {
+    "label": "MISC",
+    "span": "Arthur Divain",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID477": {
+    "label": "MISC",
+    "span": "La nuit etait tres avancee quand je m'endormis",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID478": {
+    "label": "PER",
+    "span": "fermikere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID479": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID480": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID481": {
+    "label": "MISC",
+    "span": "De Profundis",
+    "score": 0.4604,
+    "URL": "https://www.wikidata.org/wiki/Q1249459",
+    "ID": "Q1249459"
+  },
+  "ID482": {
+    "label": "MISC",
+    "span": "Dieu",
+    "score": 0.3867,
+    "URL": "https://www.wikidata.org/wiki/Q3027560",
+    "ID": "Q3027560"
+  },
+  "ID483": {
+    "label": "LOC",
+    "span": "oour",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID484": {
+    "label": "PER",
+    "span": "aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID485": {
+    "label": "MISC",
+    "span": "EE",
+    "score": 0.4308,
+    "URL": "https://www.wikidata.org/wiki/Q5322942",
+    "ID": "Q5322942"
+  },
+  "ID486": {
+    "label": "LOC",
+    "span": "E",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q1622022",
+    "ID": "Q1622022"
+  },
+  "ID487": {
+    "label": "MISC",
+    "span": "xE",
+    "score": 0.306,
+    "URL": "https://www.wikidata.org/wiki/Q1106",
+    "ID": "Q1106"
+  },
+  "ID488": {
+    "label": "ORG",
+    "span": "FE",
+    "score": 0.3849,
+    "URL": "https://www.wikidata.org/wiki/Q6798333",
+    "ID": "Q6798333"
+  },
+  "ID489": {
+    "label": "LOC",
+    "span": "E",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q1622022",
+    "ID": "Q1622022"
+  },
+  "ID490": {
+    "label": "ORG",
+    "span": "SGE",
+    "score": 0.427,
+    "URL": "https://www.wikidata.org/wiki/Q2708256",
+    "ID": "Q2708256"
+  },
+  "ID491": {
+    "label": "ORG",
+    "span": "EA\nR\ngs",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID492": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID493": {
+    "label": "PER",
+    "span": "deuxieme bergere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID494": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID495": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID496": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID497": {
+    "label": "PER",
+    "span": "soignees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID498": {
+    "label": "MISC",
+    "span": "Chataigniers",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID499": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID500": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID501": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID502": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4941,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID503": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID504": {
+    "label": "PER",
+    "span": "Jappe",
+    "score": 0.4566,
+    "URL": "https://www.wikidata.org/wiki/Q1741942",
+    "ID": "Q1741942"
+  },
+  "ID505": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4941,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID506": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4941,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID507": {
+    "label": "MISC",
+    "span": "Les cris des moissonneurs",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID508": {
+    "label": "MISC",
+    "span": "ble",
+    "score": 0.5727,
+    "URL": "https://www.wikidata.org/wiki/Q35006",
+    "ID": "Q35006"
+  },
+  "ID509": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID510": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID511": {
+    "label": "PER",
+    "span": "uin gargon",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID512": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID513": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID514": {
+    "label": "LOC",
+    "span": "prikre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID515": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID516": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4941,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID517": {
+    "label": "MISC",
+    "span": "cOotes",
+    "score": 0.2297,
+    "URL": "https://www.wikidata.org/wiki/Q5168109",
+    "ID": "Q5168109"
+  },
+  "ID518": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID519": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID520": {
+    "label": "PER",
+    "span": "Maie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID521": {
+    "label": "LOC",
+    "span": "megarde",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID522": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID523": {
+    "label": "PER",
+    "span": "lidee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID524": {
+    "label": "MISC",
+    "span": "pre pour courir embrasser seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID525": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID526": {
+    "label": "PER",
+    "span": "demoli",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID527": {
+    "label": "LOC",
+    "span": "tournai",
+    "score": 0.3738,
+    "URL": "https://www.wikidata.org/wiki/Q178858",
+    "ID": "Q178858"
+  },
+  "ID528": {
+    "label": "MISC",
+    "span": "J'arrivai bient6t",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID529": {
+    "label": "LOC",
+    "span": "elan",
+    "score": 0.4326,
+    "URL": "https://www.wikidata.org/wiki/Q294353",
+    "ID": "Q294353"
+  },
+  "ID530": {
+    "label": "PER",
+    "span": "La clairiere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID531": {
+    "label": "LOC",
+    "span": "cognai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID532": {
+    "label": "PER",
+    "span": "ser chexz",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID533": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID534": {
+    "label": "PER",
+    "span": "Aimee",
+    "score": 0.3919,
+    "URL": "https://www.wikidata.org/wiki/Q5073793",
+    "ID": "Q5073793"
+  },
+  "ID535": {
+    "label": "LOC",
+    "span": "e",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID536": {
+    "label": "LOC",
+    "span": "marchais",
+    "score": 0.4693,
+    "URL": "https://www.wikidata.org/wiki/Q1020195",
+    "ID": "Q1020195"
+  },
+  "ID537": {
+    "label": "MISC",
+    "span": "cn",
+    "score": 0.2742,
+    "URL": "https://www.wikidata.org/wiki/Q624798",
+    "ID": "Q624798"
+  },
+  "ID538": {
+    "label": "LOC",
+    "span": "siege",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q188055",
+    "ID": "Q188055"
+  },
+  "ID539": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID540": {
+    "label": "PER",
+    "span": "ramenee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID541": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID542": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID543": {
+    "label": "ORG",
+    "span": "nuai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID544": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE\n",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID545": {
+    "label": "MISC",
+    "span": "ie",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3700522",
+    "ID": "Q3700522"
+  },
+  "ID546": {
+    "label": "LOC",
+    "span": "etais",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q566531",
+    "ID": "Q566531"
+  },
+  "ID547": {
+    "label": "PER",
+    "span": "trs troublee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID548": {
+    "label": "PER",
+    "span": "bientot depasse la foret",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID549": {
+    "label": "PER",
+    "span": "ve-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID550": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID551": {
+    "label": "MISC",
+    "span": "Gaboret",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID552": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID553": {
+    "label": "PER",
+    "span": "Lse\nL,-eL",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID554": {
+    "label": "MISC",
+    "span": "V1\nP S\nP or",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID555": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID556": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID557": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID558": {
+    "label": "PER",
+    "span": "Illui",
+    "score": 0.5026,
+    "URL": "https://www.wikidata.org/wiki/Q6000262",
+    "ID": "Q6000262"
+  },
+  "ID559": {
+    "label": "PER",
+    "span": "je-\nner",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID560": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4297,
+    "URL": "https://www.wikidata.org/wiki/Q951033",
+    "ID": "Q951033"
+  },
+  "ID561": {
+    "label": "MISC",
+    "span": "toujiours repondre ace",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID562": {
+    "label": "MISC",
+    "span": "mur",
+    "score": 0.4107,
+    "URL": "https://www.wikidata.org/wiki/Q108427315",
+    "ID": "Q108427315"
+  },
+  "ID563": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID564": {
+    "label": "LOC",
+    "span": "Communs",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID565": {
+    "label": "PER",
+    "span": "bruyere",
+    "score": 0.2317,
+    "URL": "https://www.wikidata.org/wiki/Q200575",
+    "ID": "Q200575"
+  },
+  "ID566": {
+    "label": "MISC",
+    "span": "malgre un grand manteau de laine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID567": {
+    "label": "MISC",
+    "span": "l'Eau\net du",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID568": {
+    "label": "ORG",
+    "span": "Vin",
+    "score": 0.3651,
+    "URL": "https://www.wikidata.org/wiki/Q16839517",
+    "ID": "Q16839517"
+  },
+  "ID569": {
+    "label": "LOC",
+    "span": "Sologne",
+    "score": 0.9043,
+    "URL": "https://www.wikidata.org/wiki/Q1784690",
+    "ID": "Q1784690"
+  },
+  "ID570": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID571": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID572": {
+    "label": "LOC",
+    "span": "la Blanche",
+    "score": 0.2273,
+    "URL": "https://www.wikidata.org/wiki/Q16540809",
+    "ID": "Q16540809"
+  },
+  "ID573": {
+    "label": "LOC",
+    "span": "Sologne",
+    "score": 0.9043,
+    "URL": "https://www.wikidata.org/wiki/Q1784690",
+    "ID": "Q1784690"
+  },
+  "ID574": {
+    "label": "MISC",
+    "span": "A present je m'en allais seule le long des pres",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID575": {
+    "label": "PER",
+    "span": "mesentaissiabandonnee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID576": {
+    "label": "PER",
+    "span": "enrouee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID577": {
+    "label": "PER",
+    "span": "baissee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID578": {
+    "label": "LOC",
+    "span": "bruyeres",
+    "score": 0.4596,
+    "URL": "https://www.wikidata.org/wiki/Q200575",
+    "ID": "Q200575"
+  },
+  "ID579": {
+    "label": "LOC",
+    "span": "bruyeres",
+    "score": 0.4596,
+    "URL": "https://www.wikidata.org/wiki/Q200575",
+    "ID": "Q200575"
+  },
+  "ID580": {
+    "label": "ORG",
+    "span": "pre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID581": {
+    "label": "LOC",
+    "span": "e",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID582": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID583": {
+    "label": "ORG",
+    "span": "EE=",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID584": {
+    "label": "PER",
+    "span": "Eugkne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID585": {
+    "label": "MISC",
+    "span": "IIARIB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID586": {
+    "label": "MISC",
+    "span": "delabres",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID587": {
+    "label": "ORG",
+    "span": "cheminee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID588": {
+    "label": "LOC",
+    "span": "Eugene",
+    "score": 0.4357,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID589": {
+    "label": "PER",
+    "span": "apergue",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID590": {
+    "label": "LOC",
+    "span": "Sologne",
+    "score": 0.695,
+    "URL": "https://www.wikidata.org/wiki/Q1784690",
+    "ID": "Q1784690"
+  },
+  "ID591": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.6414,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID592": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID593": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID594": {
+    "label": "MISC",
+    "span": "Le fermier en tua beaucoup",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID595": {
+    "label": "MISC",
+    "span": "E2",
+    "score": 0.4174,
+    "URL": "https://www.wikidata.org/wiki/Q725979",
+    "ID": "Q725979"
+  },
+  "ID596": {
+    "label": "ORG",
+    "span": "EEE",
+    "score": 0.5061,
+    "URL": "https://www.wikidata.org/wiki/Q43035",
+    "ID": "Q43035"
+  },
+  "ID597": {
+    "label": "PER",
+    "span": "bruyere",
+    "score": 0.4389,
+    "URL": "https://www.wikidata.org/wiki/Q200575",
+    "ID": "Q200575"
+  },
+  "ID598": {
+    "label": "PER",
+    "span": "bouget",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID599": {
+    "label": "PER",
+    "span": "procher de laferme",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID600": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID601": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4123,
+    "URL": "https://www.wikidata.org/wiki/Q173063",
+    "ID": "Q173063"
+  },
+  "ID602": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4123,
+    "URL": "https://www.wikidata.org/wiki/Q173063",
+    "ID": "Q173063"
+  },
+  "ID603": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID604": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4943,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID605": {
+    "label": "ORG",
+    "span": "ner",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q8046778",
+    "ID": "Q8046778"
+  },
+  "ID606": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3894,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID607": {
+    "label": "PER",
+    "span": "Ilappelason frere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID608": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4357,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID609": {
+    "label": "LOC",
+    "span": "Bibiche",
+    "score": 0.6414,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID610": {
+    "label": "LOC",
+    "span": "Castille",
+    "score": 0.4943,
+    "URL": "https://www.wikidata.org/wiki/Q179293",
+    "ID": "Q179293"
+  },
+  "ID611": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID612": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID613": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID614": {
+    "label": "PER",
+    "span": "baissee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID615": {
+    "label": "LOC",
+    "span": "bergre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID616": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID617": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID618": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID619": {
+    "label": "LOC",
+    "span": "chataignier",
+    "score": 0.6955,
+    "URL": "https://www.wikidata.org/wiki/Q2294652",
+    "ID": "Q2294652"
+  },
+  "ID620": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID621": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.3664,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID622": {
+    "label": "PER",
+    "span": "frere chasserent",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID623": {
+    "label": "LOC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID624": {
+    "label": "LOC",
+    "span": "bruyeres",
+    "score": 0.4596,
+    "URL": "https://www.wikidata.org/wiki/Q200575",
+    "ID": "Q200575"
+  },
+  "ID625": {
+    "label": "PER",
+    "span": "1I IMARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID626": {
+    "label": "MISC",
+    "span": "bient6t mon seau",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID627": {
+    "label": "MISC",
+    "span": "dgout",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID628": {
+    "label": "PER",
+    "span": "mailtre Sylvain",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID629": {
+    "label": "MISC",
+    "span": "T'tais force",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID630": {
+    "label": "PER",
+    "span": "lavoine",
+    "score": 0.4541,
+    "URL": "https://www.wikidata.org/wiki/Q846515",
+    "ID": "Q846515"
+  },
+  "ID631": {
+    "label": "PER",
+    "span": "Lapremiere foisj'attendislongtemps qu'ellerevintd'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID632": {
+    "label": "PER",
+    "span": "entrer.5IARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID633": {
+    "label": "PER",
+    "span": "vre tat",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID634": {
+    "label": "PER",
+    "span": "avangai la main",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID635": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID636": {
+    "label": "LOC",
+    "span": "Dansces",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID637": {
+    "label": "PER",
+    "span": "Madeleine",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q55621669",
+    "ID": "Q55621669"
+  },
+  "ID638": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID639": {
+    "label": "MISC",
+    "span": "cte",
+    "score": 0.8231,
+    "URL": "https://www.wikidata.org/wiki/Q6480183",
+    "ID": "Q6480183"
+  },
+  "ID640": {
+    "label": "PER",
+    "span": "Cha-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID641": {
+    "label": "PER",
+    "span": "Matre Sylvain",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID642": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID643": {
+    "label": "PER",
+    "span": "possedee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID644": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID645": {
+    "label": "PER",
+    "span": "baton",
+    "score": 0.1916,
+    "URL": "https://www.wikidata.org/wiki/Q121650",
+    "ID": "Q121650"
+  },
+  "ID646": {
+    "label": "ORG",
+    "span": "pt",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID647": {
+    "label": "LOC",
+    "span": "La Saint-Iean",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID648": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID649": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID650": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID651": {
+    "label": "LOC",
+    "span": "precher",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID652": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID653": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID654": {
+    "label": "LOC",
+    "span": "Pas tres loin ie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID655": {
+    "label": "LOC",
+    "span": "auberge du",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID656": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID657": {
+    "label": "LOC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID658": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID659": {
+    "label": "MISC",
+    "span": "En attendant le dejeuner",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID660": {
+    "label": "LOC",
+    "span": "gargons",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID661": {
+    "label": "LOC",
+    "span": "soleil",
+    "score": 0.1822,
+    "URL": "https://www.wikidata.org/wiki/Q7557557",
+    "ID": "Q7557557"
+  },
+  "ID662": {
+    "label": "LOC",
+    "span": "IM",
+    "score": 0.4099,
+    "URL": "https://www.wikidata.org/wiki/Q1690563",
+    "ID": "Q1690563"
+  },
+  "ID663": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID664": {
+    "label": "LOC",
+    "span": "E",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q1622022",
+    "ID": "Q1622022"
+  },
+  "ID665": {
+    "label": "LOC",
+    "span": "INl",
+    "score": 0.257,
+    "URL": "https://www.wikidata.org/wiki/Q3535957",
+    "ID": "Q3535957"
+  },
+  "ID666": {
+    "label": "MISC",
+    "span": "I1",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q428853",
+    "ID": "Q428853"
+  },
+  "ID667": {
+    "label": "PER",
+    "span": "3IW",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID668": {
+    "label": "LOC",
+    "span": "G",
+    "score": 0.3694,
+    "URL": "https://www.wikidata.org/wiki/Q25113",
+    "ID": "Q25113"
+  },
+  "ID669": {
+    "label": "LOC",
+    "span": "E",
+    "score": 0.3694,
+    "URL": "https://www.wikidata.org/wiki/Q1622022",
+    "ID": "Q1622022"
+  },
+  "ID670": {
+    "label": "MISC",
+    "span": "ECE\nVII",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID671": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID672": {
+    "label": "ORG",
+    "span": "TeN",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID673": {
+    "label": "MISC",
+    "span": "A ees iours",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID674": {
+    "label": "PER",
+    "span": "chame",
+    "score": 0.3886,
+    "URL": "https://www.wikidata.org/wiki/Q2299059",
+    "ID": "Q2299059"
+  },
+  "ID675": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.3664,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID676": {
+    "label": "PER",
+    "span": "M",
+    "score": 0.3694,
+    "URL": "https://www.wikidata.org/wiki/Q246154",
+    "ID": "Q246154"
+  },
+  "ID677": {
+    "label": "PER",
+    "span": "terrifiee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID678": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID679": {
+    "label": "PER",
+    "span": "aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID680": {
+    "label": "MISC",
+    "span": "cte",
+    "score": 0.8231,
+    "URL": "https://www.wikidata.org/wiki/Q6480183",
+    "ID": "Q6480183"
+  },
+  "ID681": {
+    "label": "LOC",
+    "span": "commentie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID682": {
+    "label": "PER",
+    "span": "Eugkne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID683": {
+    "label": "LOC",
+    "span": "detachais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID684": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID685": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID686": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID687": {
+    "label": "MISC",
+    "span": "edt",
+    "score": 0.4668,
+    "URL": "https://www.wikidata.org/wiki/Q941023",
+    "ID": "Q941023"
+  },
+  "ID688": {
+    "label": "ORG",
+    "span": "gle",
+    "score": 0.489,
+    "URL": "https://www.wikidata.org/wiki/Q9142",
+    "ID": "Q9142"
+  },
+  "ID689": {
+    "label": "PER",
+    "span": "beufs",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID690": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID691": {
+    "label": "MISC",
+    "span": "Un dimanche que i'avais ose demnander",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID692": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID693": {
+    "label": "PER",
+    "span": "Toussaint",
+    "score": 0.3909,
+    "URL": "https://www.wikidata.org/wiki/Q16886170",
+    "ID": "Q16886170"
+  },
+  "ID694": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q7155021",
+    "ID": "Q7155021"
+  },
+  "ID695": {
+    "label": "PER",
+    "span": "furetai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID696": {
+    "label": "PER",
+    "span": "clarte",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q1778768",
+    "ID": "Q1778768"
+  },
+  "ID697": {
+    "label": "MISC",
+    "span": "Aventures de Telemague",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID698": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID699": {
+    "label": "ORG",
+    "span": "IhMARIE-CLAIRE\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID700": {
+    "label": "PER",
+    "span": "ecouter gca",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID701": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID702": {
+    "label": "PER",
+    "span": "Eugkne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID703": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID704": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID705": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID706": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID707": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID708": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID709": {
+    "label": "MISC",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID710": {
+    "label": "LOC",
+    "span": "Apres",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q2339007",
+    "ID": "Q2339007"
+  },
+  "ID711": {
+    "label": "LOC",
+    "span": "Le soleil",
+    "score": 0.416,
+    "URL": "https://www.wikidata.org/wiki/Q3227253",
+    "ID": "Q3227253"
+  },
+  "ID712": {
+    "label": "PER",
+    "span": "Telemaque",
+    "score": 0.6612,
+    "URL": "https://www.wikidata.org/wiki/Q23418822",
+    "ID": "Q23418822"
+  },
+  "ID713": {
+    "label": "PER",
+    "span": "Telemaque",
+    "score": 0.6612,
+    "URL": "https://www.wikidata.org/wiki/Q23418822",
+    "ID": "Q23418822"
+  },
+  "ID714": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID715": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID716": {
+    "label": "ORG",
+    "span": "gca",
+    "score": 0.3462,
+    "URL": "https://www.wikidata.org/wiki/Q154429",
+    "ID": "Q154429"
+  },
+  "ID717": {
+    "label": "MISC",
+    "span": "Voila",
+    "score": 0.6952,
+    "URL": "https://www.wikidata.org/wiki/Q2351943",
+    "ID": "Q2351943"
+  },
+  "ID718": {
+    "label": "MISC",
+    "span": "Noel",
+    "score": 0.3775,
+    "URL": "https://www.wikidata.org/wiki/Q1614388",
+    "ID": "Q1614388"
+  },
+  "ID719": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID720": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID721": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID722": {
+    "label": "PER",
+    "span": "MARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID723": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID724": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID725": {
+    "label": "MISC",
+    "span": "Mes doigts se desserrrent",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID726": {
+    "label": "LOC",
+    "span": "poele",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID727": {
+    "label": "LOC",
+    "span": "Mattre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID728": {
+    "label": "LOC",
+    "span": "poele",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID729": {
+    "label": "LOC",
+    "span": "poele",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID730": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID731": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID732": {
+    "label": "MISC",
+    "span": "egorger les betes",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID733": {
+    "label": "PER",
+    "span": "Bahl",
+    "score": 0.3623,
+    "URL": "https://www.wikidata.org/wiki/Q3626525",
+    "ID": "Q3626525"
+  },
+  "ID734": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID735": {
+    "label": "PER",
+    "span": "Eugne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID736": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3794,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID737": {
+    "label": "LOC",
+    "span": "Mattre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID738": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID739": {
+    "label": "MISC",
+    "span": "fiancee mariee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID740": {
+    "label": "MISC",
+    "span": "Un boulet m'emportera:\nAllons, adieu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID741": {
+    "label": "PER",
+    "span": "chere maitresse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID742": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID743": {
+    "label": "PER",
+    "span": "Eugene\nm'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID744": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID745": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID746": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID747": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID748": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID749": {
+    "label": "PER",
+    "span": "Marie-Aimee;mais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID750": {
+    "label": "LOC",
+    "span": "Mattre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID751": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID752": {
+    "label": "LOC",
+    "span": "fievre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID753": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID754": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID755": {
+    "label": "MISC",
+    "span": "M. Ti-\nrande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID756": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID757": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID758": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID759": {
+    "label": "ORG",
+    "span": "cheminee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID760": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID761": {
+    "label": "PER",
+    "span": "M.",
+    "score": 0.355,
+    "URL": "https://www.wikidata.org/wiki/Q14172335",
+    "ID": "Q14172335"
+  },
+  "ID762": {
+    "label": "PER",
+    "span": "Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID763": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID764": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID765": {
+    "label": "PER",
+    "span": "M",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q246154",
+    "ID": "Q246154"
+  },
+  "ID766": {
+    "label": "PER",
+    "span": "Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID767": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID768": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID769": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID770": {
+    "label": "PER",
+    "span": "gniers",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID771": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID772": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID773": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID774": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID775": {
+    "label": "LOC",
+    "span": "quie",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q1376395",
+    "ID": "Q1376395"
+  },
+  "ID776": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID777": {
+    "label": "PER",
+    "span": "Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID778": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID779": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID780": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID781": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID782": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID783": {
+    "label": "PER",
+    "span": "auraispasvoulu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID784": {
+    "label": "PER",
+    "span": "Bonne Justine",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID785": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID786": {
+    "label": "LOC",
+    "span": "tulle",
+    "score": 0.5669,
+    "URL": "https://www.wikidata.org/wiki/Q157713",
+    "ID": "Q157713"
+  },
+  "ID787": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID788": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID789": {
+    "label": "MISC",
+    "span": "lEugene",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID790": {
+    "label": "PER",
+    "span": "Bibiche",
+    "score": 0.8158,
+    "URL": "https://www.wikidata.org/wiki/Q21633",
+    "ID": "Q21633"
+  },
+  "ID791": {
+    "label": "LOC",
+    "span": "bientot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID792": {
+    "label": "PER",
+    "span": "Eugne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID793": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID794": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID795": {
+    "label": "PER",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID796": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID797": {
+    "label": "PER",
+    "span": "Eugene en-\ncourageait",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID798": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3862,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID799": {
+    "label": "PER",
+    "span": "jie",
+    "score": 0.5761,
+    "URL": "https://www.wikidata.org/wiki/Q56281",
+    "ID": "Q56281"
+  },
+  "ID800": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3884,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID801": {
+    "label": "PER",
+    "span": "vecu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID802": {
+    "label": "PER",
+    "span": "donnee",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q457887",
+    "ID": "Q457887"
+  },
+  "ID803": {
+    "label": "PER",
+    "span": "Martine",
+    "score": 0.3785,
+    "URL": "https://www.wikidata.org/wiki/Q1904194",
+    "ID": "Q1904194"
+  },
+  "ID804": {
+    "label": "PER",
+    "span": "Eugne ota",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID805": {
+    "label": "MISC",
+    "span": "Quand i'eus marche un peu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID806": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.4343,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID807": {
+    "label": "PER",
+    "span": "Mar-\ntine",
+    "score": 0.3799,
+    "URL": "https://www.wikidata.org/wiki/Q28173658",
+    "ID": "Q28173658"
+  },
+  "ID808": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID809": {
+    "label": "MISC",
+    "span": "G\nIG1\n\n\n5 I",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID810": {
+    "label": "MISC",
+    "span": "L\n\nL\nVIII",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID811": {
+    "label": "MISC",
+    "span": "S",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q9956",
+    "ID": "Q9956"
+  },
+  "ID812": {
+    "label": "MISC",
+    "span": "Es nouveaux fermiers",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID813": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID814": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID815": {
+    "label": "LOC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID816": {
+    "label": "LOC",
+    "span": "M.Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID817": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID818": {
+    "label": "PER",
+    "span": "Mme Al-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID819": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID820": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID821": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID822": {
+    "label": "PER",
+    "span": "Eugne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID823": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID824": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID825": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID826": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID827": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID828": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID829": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID830": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID831": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID832": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID833": {
+    "label": "PER",
+    "span": "Jean",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q15988",
+    "ID": "Q15988"
+  },
+  "ID834": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID835": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID836": {
+    "label": "LOC",
+    "span": "bcheron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID837": {
+    "label": "PER",
+    "span": "bcheron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID838": {
+    "label": "MISC",
+    "span": "Noel",
+    "score": 0.3821,
+    "URL": "https://www.wikidata.org/wiki/Q1614388",
+    "ID": "Q1614388"
+  },
+  "ID839": {
+    "label": "PER",
+    "span": "preparer le reveillon",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID840": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID841": {
+    "label": "LOC",
+    "span": "bcheron",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID842": {
+    "label": "LOC",
+    "span": "MARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID843": {
+    "label": "MISC",
+    "span": "Jean",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q15988",
+    "ID": "Q15988"
+  },
+  "ID844": {
+    "label": "PER",
+    "span": "jetee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID845": {
+    "label": "PER",
+    "span": "Jean",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q15988",
+    "ID": "Q15988"
+  },
+  "ID846": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID847": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID848": {
+    "label": "PER",
+    "span": "M. Tirande",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID849": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID850": {
+    "label": "PER",
+    "span": "defricher laMARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID851": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID852": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID853": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID854": {
+    "label": "ORG",
+    "span": "Texpliquai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID855": {
+    "label": "PER",
+    "span": "Sylvain",
+    "score": 0.3516,
+    "URL": "https://www.wikidata.org/wiki/Q16281827",
+    "ID": "Q16281827"
+  },
+  "ID856": {
+    "label": "PER",
+    "span": "Nme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID857": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.6895,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID858": {
+    "label": "PER",
+    "span": "Aussitot ean",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID859": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID860": {
+    "label": "LOC",
+    "span": "Ad2le",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID861": {
+    "label": "PER",
+    "span": "gonner",
+    "score": 0.4457,
+    "URL": "https://www.wikidata.org/wiki/Q28452204",
+    "ID": "Q28452204"
+  },
+  "ID862": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3772,
+    "URL": "https://www.wikidata.org/wiki/Q343969",
+    "ID": "Q343969"
+  },
+  "ID863": {
+    "label": "LOC",
+    "span": "ILl",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID864": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID865": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID866": {
+    "label": "PER",
+    "span": "ecouter",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID867": {
+    "label": "ORG",
+    "span": "mo-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID868": {
+    "label": "PER",
+    "span": "c6te",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID869": {
+    "label": "MISC",
+    "span": "I1",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q428853",
+    "ID": "Q428853"
+  },
+  "ID870": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID871": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID872": {
+    "label": "MISC",
+    "span": "aec mon mouchoir",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID873": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID874": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID875": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID876": {
+    "label": "PER",
+    "span": "regardee de trkes pres",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID877": {
+    "label": "LOC",
+    "span": "Gue Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID878": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID879": {
+    "label": "LOC",
+    "span": "petite riviere",
+    "score": 0.317,
+    "URL": "https://www.wikidata.org/wiki/Q7178405",
+    "ID": "Q7178405"
+  },
+  "ID880": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID881": {
+    "label": "MISC",
+    "span": "chuchotementsecet",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID882": {
+    "label": "LOC",
+    "span": "Gue\nPerdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID883": {
+    "label": "LOC",
+    "span": "Ville-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID884": {
+    "label": "MISC",
+    "span": "ete post",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID885": {
+    "label": "PER",
+    "span": "plutot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID886": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID887": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID888": {
+    "label": "ORG",
+    "span": "mo-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID889": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID890": {
+    "label": "PER",
+    "span": "ecouter le bruit des betes",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID891": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID892": {
+    "label": "PER",
+    "span": "rikre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID893": {
+    "label": "LOC",
+    "span": "tournai",
+    "score": 0.3738,
+    "URL": "https://www.wikidata.org/wiki/Q178858",
+    "ID": "Q178858"
+  },
+  "ID894": {
+    "label": "MISC",
+    "span": "Ils'",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID895": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID896": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID897": {
+    "label": "PER",
+    "span": "Pauline",
+    "score": 0.3514,
+    "URL": "https://www.wikidata.org/wiki/Q846687",
+    "ID": "Q846687"
+  },
+  "ID898": {
+    "label": "MISC",
+    "span": "siege",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q188055",
+    "ID": "Q188055"
+  },
+  "ID899": {
+    "label": "MISC",
+    "span": "Gue Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID900": {
+    "label": "MISC",
+    "span": "Paques",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID901": {
+    "label": "PER",
+    "span": "Adele",
+    "score": 0.4624,
+    "URL": "https://www.wikidata.org/wiki/Q23215",
+    "ID": "Q23215"
+  },
+  "ID902": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID903": {
+    "label": "PER",
+    "span": "eloignee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID904": {
+    "label": "PER",
+    "span": "Narie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID905": {
+    "label": "MISC",
+    "span": "aSophie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID906": {
+    "label": "MISC",
+    "span": "Paques",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID907": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID908": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID909": {
+    "label": "LOC",
+    "span": "duvisage",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID910": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID911": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID912": {
+    "label": "MISC",
+    "span": "pre les ombres longues",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID913": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID914": {
+    "label": "PER",
+    "span": "Ie",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q1193528",
+    "ID": "Q1193528"
+  },
+  "ID915": {
+    "label": "PER",
+    "span": "fixs",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID916": {
+    "label": "LOC",
+    "span": "Apres",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q2339007",
+    "ID": "Q2339007"
+  },
+  "ID917": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID918": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID919": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID920": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID921": {
+    "label": "PER",
+    "span": "Adele",
+    "score": 0.4624,
+    "URL": "https://www.wikidata.org/wiki/Q23215",
+    "ID": "Q23215"
+  },
+  "ID922": {
+    "label": "ORG",
+    "span": "Gue-\nPerdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID923": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID924": {
+    "label": "PER",
+    "span": "Adele",
+    "score": 0.4624,
+    "URL": "https://www.wikidata.org/wiki/Q23215",
+    "ID": "Q23215"
+  },
+  "ID925": {
+    "label": "PER",
+    "span": "ailne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID926": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90"
+  },
+  "ID927": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID928": {
+    "label": "PER",
+    "span": "Eugkne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID929": {
+    "label": "ORG",
+    "span": "nute",
+    "score": 0.202,
+    "URL": "https://www.wikidata.org/wiki/Q59627195",
+    "ID": "Q59627195"
+  },
+  "ID930": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID931": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID932": {
+    "label": "PER",
+    "span": "voila Henri",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID933": {
+    "label": "PER",
+    "span": "Adele",
+    "score": 0.4624,
+    "URL": "https://www.wikidata.org/wiki/Q23215",
+    "ID": "Q23215"
+  },
+  "ID934": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID935": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID936": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID937": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID938": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID939": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID940": {
+    "label": "PER",
+    "span": "vitais",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID941": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.369,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID942": {
+    "label": "MISC",
+    "span": "IIllll",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID943": {
+    "label": "LOC",
+    "span": "G",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q25113",
+    "ID": "Q25113"
+  },
+  "ID944": {
+    "label": "LOC",
+    "span": "F",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q42289",
+    "ID": "Q42289"
+  },
+  "ID945": {
+    "label": "LOC",
+    "span": "N5",
+    "score": 0.456,
+    "URL": "https://www.wikidata.org/wiki/Q6630672",
+    "ID": "Q6630672"
+  },
+  "ID946": {
+    "label": "LOC",
+    "span": "E",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q1622022",
+    "ID": "Q1622022"
+  },
+  "ID947": {
+    "label": "LOC",
+    "span": "F",
+    "score": 0.374,
+    "URL": "https://www.wikidata.org/wiki/Q42289",
+    "ID": "Q42289"
+  },
+  "ID948": {
+    "label": "ORG",
+    "span": "AUs ue Jean le Rouge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID949": {
+    "label": "ORG",
+    "span": "ie",
+    "score": 0.3743,
+    "URL": "https://www.wikidata.org/wiki/Q3700522",
+    "ID": "Q3700522"
+  },
+  "ID950": {
+    "label": "ORG",
+    "span": "ue",
+    "score": 0.2019,
+    "URL": "https://www.wikidata.org/wiki/Q425091",
+    "ID": "Q425091"
+  },
+  "ID951": {
+    "label": "MISC",
+    "span": "Un dimanche, je remarquai que la porte",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID952": {
+    "label": "PER",
+    "span": "clarte",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q1778768",
+    "ID": "Q1778768"
+  },
+  "ID953": {
+    "label": "PER",
+    "span": "ean le Rouge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID954": {
+    "label": "PER",
+    "span": "vai bientot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID955": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.6895,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID956": {
+    "label": "MISC",
+    "span": "Gue Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID957": {
+    "label": "PER",
+    "span": "Mme Al-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID958": {
+    "label": "PER",
+    "span": "houx",
+    "score": 0.4898,
+    "URL": "https://www.wikidata.org/wiki/Q1344443",
+    "ID": "Q1344443"
+  },
+  "ID959": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID960": {
+    "label": "LOC",
+    "span": ".Hier",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID961": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID962": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID963": {
+    "label": "PER",
+    "span": "Henri\nDeslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID964": {
+    "label": "LOC",
+    "span": "Ville-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID965": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID966": {
+    "label": "PER",
+    "span": "Ioo",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q7742205",
+    "ID": "Q7742205"
+  },
+  "ID967": {
+    "label": "MISC",
+    "span": "I1",
+    "score": 0.4319,
+    "URL": "https://www.wikidata.org/wiki/Q428853",
+    "ID": "Q428853"
+  },
+  "ID968": {
+    "label": "PER",
+    "span": "bres",
+    "score": 0.3114,
+    "URL": "https://www.wikidata.org/wiki/Q910293",
+    "ID": "Q910293"
+  },
+  "ID969": {
+    "label": "MISC",
+    "span": "Hen-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID970": {
+    "label": "LOC",
+    "span": "Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID971": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID972": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID973": {
+    "label": "LOC",
+    "span": "chitaigniers",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID974": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID975": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID976": {
+    "label": "PER",
+    "span": "ean le Rouge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID977": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID978": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID979": {
+    "label": "PER",
+    "span": "seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID980": {
+    "label": "MISC",
+    "span": "Eugene",
+    "score": 0.3934,
+    "URL": "https://www.wikidata.org/wiki/Q171224",
+    "ID": "Q171224"
+  },
+  "ID981": {
+    "label": "MISC",
+    "span": "ete mauvaise bergkre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID982": {
+    "label": "MISC",
+    "span": "I1",
+    "score": 0.5346,
+    "URL": "https://www.wikidata.org/wiki/Q428853",
+    "ID": "Q428853"
+  },
+  "ID983": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID984": {
+    "label": "PER",
+    "span": "elan",
+    "score": 0.4326,
+    "URL": "https://www.wikidata.org/wiki/Q294353",
+    "ID": "Q294353"
+  },
+  "ID985": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID986": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID987": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID988": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID989": {
+    "label": "PER",
+    "span": "Adele",
+    "score": 0.4624,
+    "URL": "https://www.wikidata.org/wiki/Q23215",
+    "ID": "Q23215"
+  },
+  "ID990": {
+    "label": "MISC",
+    "span": "Presque chaque iour",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID991": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID992": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID993": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID994": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID995": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID996": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID997": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID998": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID999": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID1000": {
+    "label": "PER",
+    "span": "A1-",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q217441",
+    "ID": "Q217441"
+  },
+  "ID1001": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1002": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1003": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1004": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID1005": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1006": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID1007": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID1008": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1009": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1010": {
+    "label": "ORG",
+    "span": "tra",
+    "score": 0.3684,
+    "URL": "https://www.wikidata.org/wiki/Q24723603",
+    "ID": "Q24723603"
+  },
+  "ID1011": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1012": {
+    "label": "PER",
+    "span": "veniez",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1013": {
+    "label": "PER",
+    "span": "Mme Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1014": {
+    "label": "LOC",
+    "span": "Sainte-Montagne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1015": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1016": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1017": {
+    "label": "PER",
+    "span": "bientot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1018": {
+    "label": "PER",
+    "span": "Mme",
+    "score": 0.3831,
+    "URL": "https://www.wikidata.org/wiki/Q17146837",
+    "ID": "Q17146837"
+  },
+  "ID1019": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1020": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1021": {
+    "label": "PER",
+    "span": "Alphonse",
+    "score": 0.3814,
+    "URL": "https://www.wikidata.org/wiki/Q2494198",
+    "ID": "Q2494198"
+  },
+  "ID1022": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1023": {
+    "label": "PER",
+    "span": "Ohl",
+    "score": 0.3472,
+    "URL": "https://www.wikidata.org/wiki/Q1606866",
+    "ID": "Q1606866"
+  },
+  "ID1024": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID1025": {
+    "label": "MISC",
+    "span": "Qu'elle est morte en sautillant",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1026": {
+    "label": "LOC",
+    "span": "Tireli",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q105763987",
+    "ID": "Q105763987"
+  },
+  "ID1027": {
+    "label": "LOC",
+    "span": "Sautons",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1028": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1029": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1030": {
+    "label": "PER",
+    "span": "M. Alphonse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1031": {
+    "label": "PER",
+    "span": "seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1032": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1033": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID1034": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1035": {
+    "label": "PER",
+    "span": "e",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1036": {
+    "label": "PER",
+    "span": "Mme Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1037": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE\n",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1038": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1039": {
+    "label": "PER",
+    "span": "Henri\nDeslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1040": {
+    "label": "ORG",
+    "span": "L5",
+    "score": 0.6992,
+    "URL": "https://www.wikidata.org/wiki/Q1348939",
+    "ID": "Q1348939"
+  },
+  "ID1041": {
+    "label": "PER",
+    "span": "M",
+    "score": 0.3694,
+    "URL": "https://www.wikidata.org/wiki/Q246154",
+    "ID": "Q246154"
+  },
+  "ID1042": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.3664,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID1043": {
+    "label": "ORG",
+    "span": "IlI",
+    "score": 0.2952,
+    "URL": "https://www.wikidata.org/wiki/Q848127",
+    "ID": "Q848127"
+  },
+  "ID1044": {
+    "label": "LOC",
+    "span": "IlIi",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q728889",
+    "ID": "Q728889"
+  },
+  "ID1045": {
+    "label": "LOC",
+    "span": "I",
+    "score": 0.3664,
+    "URL": "https://www.wikidata.org/wiki/Q429334",
+    "ID": "Q429334"
+  },
+  "ID1046": {
+    "label": "MISC",
+    "span": "I\n\nta\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1047": {
+    "label": "MISC",
+    "span": "II\n\nS\n h\n\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1048": {
+    "label": "MISC",
+    "span": "U",
+    "score": 0.3651,
+    "URL": "https://www.wikidata.org/wiki/Q9747",
+    "ID": "Q9747"
+  },
+  "ID1049": {
+    "label": "ORG",
+    "span": "IE1",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q2026165",
+    "ID": "Q2026165"
+  },
+  "ID1050": {
+    "label": "MISC",
+    "span": "S\nII\n",
+    "score": 0.2136,
+    "URL": "https://www.wikidata.org/wiki/Q154851",
+    "ID": "Q154851"
+  },
+  "ID1051": {
+    "label": "MISC",
+    "span": "IIIIIII",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1052": {
+    "label": "MISC",
+    "span": "I\nR",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1053": {
+    "label": "PER",
+    "span": "sonnai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1054": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1055": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1056": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1057": {
+    "label": "LOC",
+    "span": "I'",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q28554",
+    "ID": "Q28554"
+  },
+  "ID1058": {
+    "label": "LOC",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1059": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1060": {
+    "label": "PER",
+    "span": "Lobscurite",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1061": {
+    "label": "PER",
+    "span": "Seur Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1062": {
+    "label": "PER",
+    "span": "toussai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1063": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1064": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1065": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1066": {
+    "label": "PER",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1067": {
+    "label": "LOC",
+    "span": "allees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1068": {
+    "label": "LOC",
+    "span": "Seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1069": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1070": {
+    "label": "PER",
+    "span": "Ie",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q1193528",
+    "ID": "Q1193528"
+  },
+  "ID1071": {
+    "label": "LOC",
+    "span": "mainMARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1072": {
+    "label": "PER",
+    "span": "N.",
+    "score": 0.3708,
+    "URL": "https://www.wikidata.org/wiki/Q1142091",
+    "ID": "Q1142091"
+  },
+  "ID1073": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1074": {
+    "label": "PER",
+    "span": "mousseline brodee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1075": {
+    "label": "LOC",
+    "span": "allees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1076": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1077": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1078": {
+    "label": "PER",
+    "span": "voila",
+    "score": 0.6721,
+    "URL": "https://www.wikidata.org/wiki/Q2351943",
+    "ID": "Q2351943"
+  },
+  "ID1079": {
+    "label": "PER",
+    "span": "Marie-Claire",
+    "score": 0.3948,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1080": {
+    "label": "PER",
+    "span": "Vronique",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1081": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1082": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1083": {
+    "label": "LOC",
+    "span": "Mlanie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1084": {
+    "label": "MISC",
+    "span": "leuse",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1085": {
+    "label": "PER",
+    "span": "de-\nriere le rideau",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1086": {
+    "label": "LOC",
+    "span": "Mlanie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1087": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.3716,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1088": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.3716,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1089": {
+    "label": "LOC",
+    "span": "Mlanie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1090": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1091": {
+    "label": "PER",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1092": {
+    "label": "LOC",
+    "span": "tete",
+    "score": 0.4167,
+    "URL": "https://www.wikidata.org/wiki/Q388242",
+    "ID": "Q388242"
+  },
+  "ID1093": {
+    "label": "PER",
+    "span": "repondre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1094": {
+    "label": "MISC",
+    "span": "meme sre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1095": {
+    "label": "ORG",
+    "span": "pt",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1096": {
+    "label": "PER",
+    "span": "Desiree Joly",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1097": {
+    "label": "PER",
+    "span": "Desiree Joly",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1098": {
+    "label": "MISC",
+    "span": "I C'etait une jeune\nfille",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1099": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1100": {
+    "label": "PER",
+    "span": "mademoiselle oly",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1101": {
+    "label": "PER",
+    "span": "noux",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q867580",
+    "ID": "Q867580"
+  },
+  "ID1102": {
+    "label": "LOC",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1103": {
+    "label": "PER",
+    "span": "Desiree Joly",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1104": {
+    "label": "PER",
+    "span": "vivacite",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1105": {
+    "label": "MISC",
+    "span": "Desiree-des-\nAnges bien vieille et bien mechante",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1106": {
+    "label": "ORG",
+    "span": "INous",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1107": {
+    "label": "LOC",
+    "span": "Apres",
+    "score": 0.3478,
+    "URL": "https://www.wikidata.org/wiki/Q2339007",
+    "ID": "Q2339007"
+  },
+  "ID1108": {
+    "label": "PER",
+    "span": "aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1109": {
+    "label": "LOC",
+    "span": "marchais",
+    "score": 0.2681,
+    "URL": "https://www.wikidata.org/wiki/Q1020195",
+    "ID": "Q1020195"
+  },
+  "ID1110": {
+    "label": "LOC",
+    "span": "degot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1111": {
+    "label": "PER",
+    "span": "jie",
+    "score": 0.4585,
+    "URL": "https://www.wikidata.org/wiki/Q56281",
+    "ID": "Q56281"
+  },
+  "ID1112": {
+    "label": "PER",
+    "span": "reveillai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1113": {
+    "label": "PER",
+    "span": "Vierge",
+    "score": 0.4484,
+    "URL": "https://www.wikidata.org/wiki/Q170538",
+    "ID": "Q170538"
+  },
+  "ID1114": {
+    "label": "ORG",
+    "span": "eit",
+    "score": 0.4098,
+    "URL": "https://www.wikidata.org/wiki/Q5350030",
+    "ID": "Q5350030"
+  },
+  "ID1115": {
+    "label": "PER",
+    "span": "Desiree-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1116": {
+    "label": "PER",
+    "span": "MARIE-CLAIRB",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1117": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.4055,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1118": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.4055,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1119": {
+    "label": "PER",
+    "span": "malgre le froid",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1120": {
+    "label": "MISC",
+    "span": "De-",
+    "score": 0.4069,
+    "URL": "https://www.wikidata.org/wiki/Q219328",
+    "ID": "Q219328"
+  },
+  "ID1121": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.4062,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1122": {
+    "label": "MISC",
+    "span": "cte",
+    "score": 0.6433,
+    "URL": "https://www.wikidata.org/wiki/Q6480183",
+    "ID": "Q6480183"
+  },
+  "ID1123": {
+    "label": "LOC",
+    "span": "Sur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1124": {
+    "label": "ORG",
+    "span": "r6",
+    "score": 0.1923,
+    "URL": "https://www.wikidata.org/wiki/Q1854043",
+    "ID": "Q1854043"
+  },
+  "ID1125": {
+    "label": "PER",
+    "span": "Melanie\nau recurage des marmites",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1126": {
+    "label": "PER",
+    "span": "Aussi-\ntot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1127": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.3716,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1128": {
+    "label": "MISC",
+    "span": "Les gargons",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1129": {
+    "label": "PER",
+    "span": "Desiree-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1130": {
+    "label": "PER",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1131": {
+    "label": "PER",
+    "span": "Seur Dsiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1132": {
+    "label": "ORG",
+    "span": "garcon",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q5526254",
+    "ID": "Q5526254"
+  },
+  "ID1133": {
+    "label": "PER",
+    "span": "Jean le Rouge",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q161202",
+    "ID": "Q161202"
+  },
+  "ID1134": {
+    "label": "LOC",
+    "span": "trouveMIARIE-CLAIRE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1135": {
+    "label": "LOC",
+    "span": "chateau du Gue Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1136": {
+    "label": "MISC",
+    "span": "Gue Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1137": {
+    "label": "LOC",
+    "span": "Villevieille",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q550014",
+    "ID": "Q550014"
+  },
+  "ID1138": {
+    "label": "PER",
+    "span": "M. Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1139": {
+    "label": "PER",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1140": {
+    "label": "PER",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1141": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1142": {
+    "label": "MISC",
+    "span": "Mla-",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1143": {
+    "label": "PER",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1144": {
+    "label": "MISC",
+    "span": "ean",
+    "score": 0.3305,
+    "URL": "https://www.wikidata.org/wiki/Q18354214",
+    "ID": "Q18354214"
+  },
+  "ID1145": {
+    "label": "PER",
+    "span": "Ie",
+    "score": 0.412,
+    "URL": "https://www.wikidata.org/wiki/Q1193528",
+    "ID": "Q1193528"
+  },
+  "ID1146": {
+    "label": "PER",
+    "span": "seur\nDesiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1147": {
+    "label": "PER",
+    "span": "Jesus-Christ",
+    "score": 0.3432,
+    "URL": "https://www.wikidata.org/wiki/Q302",
+    "ID": "Q302"
+  },
+  "ID1148": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1149": {
+    "label": "MISC",
+    "span": "ean le Rouge",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1150": {
+    "label": "MISC",
+    "span": "Gu Perdu",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1151": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID1152": {
+    "label": "PER",
+    "span": "II",
+    "score": 0.3676,
+    "URL": "https://www.wikidata.org/wiki/Q362",
+    "ID": "Q362"
+  },
+  "ID1153": {
+    "label": "PER",
+    "span": "W\nH1",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1154": {
+    "label": "MISC",
+    "span": "II\n\nl\nXI",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1155": {
+    "label": "MISC",
+    "span": "ENp",
+    "score": 0.2735,
+    "URL": "https://www.wikidata.org/wiki/Q583535",
+    "ID": "Q583535"
+  },
+  "ID1156": {
+    "label": "MISC",
+    "span": "beausoup de religieuses\n",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1157": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3662,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID1158": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.4053,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1159": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1160": {
+    "label": "LOC",
+    "span": "La grosse cuillere",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1161": {
+    "label": "PER",
+    "span": "Veronique",
+    "score": 0.4053,
+    "URL": "https://www.wikidata.org/wiki/Q3564266",
+    "ID": "Q3564266"
+  },
+  "ID1162": {
+    "label": "LOC",
+    "span": "Mlanie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1163": {
+    "label": "LOC",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1164": {
+    "label": "PER",
+    "span": "jetee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1165": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1166": {
+    "label": "PER",
+    "span": "transportee",
+    "score": 0.6514,
+    "URL": "https://www.wikidata.org/wiki/Q1770529",
+    "ID": "Q1770529"
+  },
+  "ID1167": {
+    "label": "ORG",
+    "span": "ete",
+    "score": 0.2306,
+    "URL": "https://www.wikidata.org/wiki/Q16249946",
+    "ID": "Q16249946"
+  },
+  "ID1168": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1169": {
+    "label": "LOC",
+    "span": "Marie-Aimee lavit",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1170": {
+    "label": "PER",
+    "span": "eloignat",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1171": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1172": {
+    "label": "PER",
+    "span": "Aussitot",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1173": {
+    "label": "PER",
+    "span": "Marie-\nAimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1174": {
+    "label": "LOC",
+    "span": "allees",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1175": {
+    "label": "MISC",
+    "span": "Tes yeux sont tristes",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1176": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1177": {
+    "label": "PER",
+    "span": "clarte",
+    "score": 0.1714,
+    "URL": "https://www.wikidata.org/wiki/Q1778768",
+    "ID": "Q1778768"
+  },
+  "ID1178": {
+    "label": "PER",
+    "span": "gravee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1179": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1180": {
+    "label": "LOC",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1181": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1182": {
+    "label": "LOC",
+    "span": "Sur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1183": {
+    "label": "PER",
+    "span": "Seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1184": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1185": {
+    "label": "ORG",
+    "span": "our",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1186": {
+    "label": "MISC",
+    "span": "Desiree-des-\nAnges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1187": {
+    "label": "PER",
+    "span": "Desiree\nJoly",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1188": {
+    "label": "LOC",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1189": {
+    "label": "PER",
+    "span": "ecouter la sienne",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1190": {
+    "label": "MISC",
+    "span": "aspirai",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1191": {
+    "label": "ORG",
+    "span": "MIARIE",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1192": {
+    "label": "LOC",
+    "span": "seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1193": {
+    "label": "PER",
+    "span": "allee seur Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1194": {
+    "label": "LOC",
+    "span": "Desire-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1195": {
+    "label": "LOC",
+    "span": "Mlanie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1196": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1197": {
+    "label": "LOC",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1198": {
+    "label": "PER",
+    "span": "Vronique",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1199": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1200": {
+    "label": "LOC",
+    "span": "Le soleil",
+    "score": 0.416,
+    "URL": "https://www.wikidata.org/wiki/Q3227253",
+    "ID": "Q3227253"
+  },
+  "ID1201": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1202": {
+    "label": "LOC",
+    "span": "Desiree-des-Anges",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1203": {
+    "label": "LOC",
+    "span": "Bel-Eil",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1204": {
+    "label": "MISC",
+    "span": "meme",
+    "score": 0.4597,
+    "URL": "https://www.wikidata.org/wiki/Q978",
+    "ID": "Q978"
+  },
+  "ID1205": {
+    "label": "MISC",
+    "span": "Notre Mere Superieure",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1206": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID1207": {
+    "label": "PER",
+    "span": "Isme-\nrie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1208": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1209": {
+    "label": "PER",
+    "span": "Colette",
+    "score": 0.4493,
+    "URL": "https://www.wikidata.org/wiki/Q218679",
+    "ID": "Q218679"
+  },
+  "ID1210": {
+    "label": "LOC",
+    "span": "mariee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1211": {
+    "label": "PER",
+    "span": "Ismerie",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1212": {
+    "label": "PER",
+    "span": "Marie-Aimee",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1213": {
+    "label": "PER",
+    "span": "Melanie",
+    "score": 0.3702,
+    "URL": "https://www.wikidata.org/wiki/Q157293",
+    "ID": "Q157293"
+  },
+  "ID1214": {
+    "label": "PER",
+    "span": "Elie",
+    "score": 0.3754,
+    "URL": "https://www.wikidata.org/wiki/Q1010092",
+    "ID": "Q1010092"
+  },
+  "ID1215": {
+    "label": "ORG",
+    "span": "autorite",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1216": {
+    "label": "LOC",
+    "span": "A",
+    "score": 0.3687,
+    "URL": "https://www.wikidata.org/wiki/Q744346",
+    "ID": "Q744346"
+  },
+  "ID1217": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90"
+  },
+  "ID1218": {
+    "label": "MISC",
+    "span": "Dans l'instant meme",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1219": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90"
+  },
+  "ID1220": {
+    "label": "MISC",
+    "span": "nuages.a6",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1221": {
+    "label": "PER",
+    "span": "MARIE-CLAIRE",
+    "score": 0.4371,
+    "URL": "https://www.wikidata.org/wiki/Q2909086",
+    "ID": "Q2909086"
+  },
+  "ID1222": {
+    "label": "LOC",
+    "span": "Paris",
+    "score": 0.4627,
+    "URL": "https://www.wikidata.org/wiki/Q90",
+    "ID": "Q90"
+  },
+  "ID1223": {
+    "label": "PER",
+    "span": "repondre",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1224": {
+    "label": "LOC",
+    "span": "pele-mele",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1225": {
+    "label": "PER",
+    "span": "Henri Deslois",
+    "score": null,
+    "URL": null,
+    "ID": null
+  },
+  "ID1226": {
+    "label": "LOC",
+    "span": "YL",
+    "score": 0.3974,
+    "URL": "https://www.wikidata.org/wiki/Q6305271",
+    "ID": "Q6305271"
+  },
+  "ID1227": {
+    "label": "MISC",
+    "span": "S5",
+    "score": 0.4544,
+    "URL": "https://www.wikidata.org/wiki/Q7388335",
+    "ID": "Q7388335"
+  }
+}
