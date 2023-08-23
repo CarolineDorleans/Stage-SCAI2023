@@ -1,0 +1,5399 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q157",
+    "span": "Hollande",
+    "label": "Fran\u00e7ois Hollande",
+    "description": "French official and statesman",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q3213381",
+    "span": "Normande",
+    "label": "Normande",
+    "description": "1975 film by Gilles Carle",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q674325",
+    "span": "Caux",
+    "label": "Caux",
+    "description": "village in Switzerland",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q31482",
+    "span": "ter",
+    "label": "Ter",
+    "description": "river in Catalonia, Spain",
+    "type": "ORG"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q58680",
+    "span": "ps",
+    "label": "Pashto",
+    "description": "Indo-Iranian language spoken in Afghanistan",
+    "type": "ORG"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q283976",
+    "span": "CR",
+    "label": "carriage return",
+    "description": "control character, or mechanism, used to reset a device's position to the beginning of a line of text",
+    "type": "ORG"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q779",
+    "span": "CT",
+    "label": "Connecticut",
+    "description": "state of the United States of America",
+    "type": "ORG"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q2944412",
+    "span": "CNE",
+    "label": "Central New England Railway",
+    "description": "railroad in the USA",
+    "type": "ORG"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q2561124",
+    "span": "Renard",
+    "label": "Renard",
+    "description": "opera by Stravinsky",
+    "type": "PER"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q7742",
+    "span": "Louis XIV",
+    "label": "Louis XIV of France",
+    "description": "King of France and Navarra, from 1643 to 1715",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q7738",
+    "span": "Louis XV",
+    "label": "Louis XV of France",
+    "description": "Bourbon monarch who ruled as King of France and of Navarre 1715-1774",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q5360691",
+    "span": "Elie",
+    "label": "Elie",
+    "description": "Village in Manitoba, Canada",
+    "type": "MISC"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q2902126",
+    "span": "uit",
+    "label": "Jaluit Airport",
+    "description": "airport in Marshall Islands",
+    "type": "ORG"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q20657456",
+    "span": "Normandie",
+    "label": "Normandie",
+    "description": "human settlement in Sea Bright, New Jersey, United States of America",
+    "type": "LOC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q428946",
+    "span": "FE",
+    "label": "iron(II)",
+    "description": "dication of iron",
+    "type": "ORG"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q2902126",
+    "span": "uit",
+    "label": "Jaluit Airport",
+    "description": "airport in Marshall Islands",
+    "type": "ORG"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q29",
+    "span": "ES",
+    "label": "Spain",
+    "description": "constitutional monarchy in Southwest Europe",
+    "type": "LOC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q205653",
+    "span": "Orient",
+    "label": "Orient",
+    "description": "term for the Eastern world",
+    "type": "MISC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q1868524",
+    "span": "LS",
+    "label": "local search",
+    "description": "method for problem solving in optimization",
+    "type": "MISC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q1068752",
+    "span": "HU",
+    "label": "Howard University",
+    "description": "university in Washington D.C.",
+    "type": "LOC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q16992512",
+    "span": "Empire",
+    "label": "Empire",
+    "description": "American musical drama television series",
+    "type": "LOC"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q20995939",
+    "span": "B\u00e9ranger",
+    "label": "B\u00e9ranger",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q11330762",
+    "span": "Walter",
+    "label": "Walter",
+    "description": "Austrian professional wrestler",
+    "type": "PER"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q4354391",
+    "span": "Scott",
+    "label": "Amanda Lindhout",
+    "description": "journalist and humanitarian",
+    "type": "PER"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q21449755",
+    "span": "ule",
+    "label": "Ule",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q3372",
+    "span": "Eure",
+    "label": "Eure",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q598449",
+    "span": "Courville",
+    "label": "Courville",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q21493571",
+    "span": "Aubert",
+    "label": "Aubert",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q290936",
+    "span": "\u00c9tretat",
+    "label": "\u00c9tretat",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q42132",
+    "span": "up",
+    "label": "eup",
+    "description": "administrative unit in North and South Korea similar to the unit of town",
+    "type": "ORG"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q290936",
+    "span": "\u00c9tretat",
+    "label": "\u00c9tretat",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q135085",
+    "span": "GO",
+    "label": "Gene Ontology",
+    "description": "biomedical ontology which describes biological processes, cellular components and molecular functions in living organisms",
+    "type": "MISC"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q39",
+    "span": "Suisse",
+    "label": "Switzerland",
+    "description": "federal republic in Central Europe",
+    "type": "LOC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q3774493",
+    "span": "pes",
+    "label": "pes",
+    "description": "Ancient Roman unit of length; approximately 29.6 cm",
+    "type": "MISC"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q988104",
+    "span": "\u00e9quateur",
+    "label": "\u00c9quateur",
+    "description": "former province of the Democratic Republic of the Congo",
+    "type": "LOC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q1244595",
+    "span": "Ille",
+    "label": "Ille",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q18383",
+    "span": "Providence",
+    "label": "Providence",
+    "description": "city in and state capital of Rhode Island, United States; county seat of Providence County",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q3774493",
+    "span": "pes",
+    "label": "pes",
+    "description": "Ancient Roman unit of length; approximately 29.6 cm",
+    "type": "MISC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q5322942",
+    "span": "EE",
+    "label": "EE",
+    "description": "telecommunications company",
+    "type": "MISC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q13629441",
+    "span": "EV",
+    "label": "electric vehicle",
+    "description": "vehicle propelled by one or more electric motors",
+    "type": "ORG"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q2946",
+    "span": "Versailles",
+    "label": "Palace of Versailles",
+    "description": "palace in Versailles, France and location of the Museum of the History of France",
+    "type": "LOC"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q468474",
+    "span": "PTE",
+    "label": "Portuguese escudo",
+    "description": "currency",
+    "type": "MISC"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q28622",
+    "span": "\u00ce",
+    "label": "\u00ce",
+    "description": "Letter",
+    "type": "LOC"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q129793",
+    "span": "Ps",
+    "label": "Adobe Photoshop",
+    "description": "raster graphics editor with limited vector graphics and 3D graphics editing capabilities",
+    "type": "MISC"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q745934",
+    "span": "SOTk",
+    "label": "Sotk",
+    "description": "village in Gegharkunik Province of Armenia",
+    "type": "ORG"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q487391",
+    "span": "Lee",
+    "label": "Ailee",
+    "description": "Korean-American singer",
+    "type": "PER"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q1655788",
+    "span": "Dre",
+    "label": "Drummond Island Airport",
+    "description": "airport in Michigan, United States of America",
+    "type": "PER"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q129793",
+    "span": "Ps",
+    "label": "Adobe Photoshop",
+    "description": "raster graphics editor with limited vector graphics and 3D graphics editing capabilities",
+    "type": "MISC"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q61037170",
+    "span": "Roi",
+    "label": "Roi",
+    "description": "2019 song by Bilal Hassani",
+    "type": "PER"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q40104",
+    "span": "Ajaccio",
+    "label": "Ajaccio",
+    "description": "commune in Corse-du-Sud, Corsica, France",
+    "type": "LOC"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q1632158",
+    "span": "Napol\u00e9on",
+    "label": "Napol\u00e9on",
+    "description": "1927 film by Abel Gance",
+    "type": "PER"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q48699908",
+    "span": "C\u00f4te",
+    "label": "C\u00f4te",
+    "description": "British cafe chain",
+    "type": "LOC"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q101081",
+    "span": "Provence",
+    "label": "Provence",
+    "description": "region and historical province of southeastern France",
+    "type": "LOC"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q128196",
+    "span": "Mie",
+    "label": "Mie Prefecture",
+    "description": "prefecture of Japan",
+    "type": "LOC"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q55347481",
+    "span": "Iles",
+    "label": "Iles",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q4690138",
+    "span": "Afrique",
+    "label": "Afrique",
+    "description": "album by Count Basie",
+    "type": "LOC"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q4690138",
+    "span": "Afrique",
+    "label": "Afrique",
+    "description": "album by Count Basie",
+    "type": "LOC"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q720177",
+    "span": "Sainte-H\u00e9l\u00e8ne",
+    "label": "Sainte-H\u00e9l\u00e8ne",
+    "description": "commune in Gironde, France",
+    "type": "LOC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q7399340",
+    "span": "Sagone",
+    "label": "Sagone",
+    "description": "village in Salega, Samoa",
+    "type": "LOC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q391964",
+    "span": "Carg\u00e8se",
+    "label": "Carg\u00e8se",
+    "description": "commune in Corse-du-Sud, France",
+    "type": "LOC"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q2036693",
+    "span": "poi",
+    "label": "poi",
+    "description": "Hawa\u00ef food",
+    "type": "ORG"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q1021562",
+    "span": "Paoli",
+    "label": "Paoli",
+    "description": "census designated place",
+    "type": "PER"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q5460764",
+    "span": "FLO",
+    "label": "Florence Regional Airport",
+    "description": "airport in South Carolina, United States of America",
+    "type": "ORG"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q19165",
+    "span": "Rinaldi",
+    "label": "Antonio Rinaldi",
+    "description": "Italian architect",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q15829824",
+    "span": "Mathieu",
+    "label": "Mathieu",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q15829824",
+    "span": "Mathieu",
+    "label": "Mathieu",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q18009833",
+    "span": "Pauline",
+    "label": "Pauline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q15829824",
+    "span": "Mathieu",
+    "label": "Mathieu",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q15829824",
+    "span": "Mathieu",
+    "label": "Mathieu",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q7029481",
+    "span": "Nicolas",
+    "label": "Nicolas",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q56539918",
+    "span": "Morali",
+    "label": "Morali",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q208399",
+    "span": "Bastia",
+    "label": "SC Bastia",
+    "description": "association football club in Furiani, France",
+    "type": "LOC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q2044",
+    "span": "Florence",
+    "label": "Florence",
+    "description": "Italian city, located in Tuscany",
+    "type": "LOC"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q489768",
+    "span": "Corniche",
+    "label": "Corniche",
+    "description": "A ledge-like stretch of road",
+    "type": "LOC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q347",
+    "span": "LI",
+    "label": "Liechtenstein",
+    "description": "principality in western-central Europe",
+    "type": "LOC"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q1196550",
+    "span": "rec",
+    "label": "Rec",
+    "description": "manga series",
+    "type": "ORG"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q128196",
+    "span": "Mie",
+    "label": "Mie Prefecture",
+    "description": "prefecture of Japan",
+    "type": "LOC"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q680286",
+    "span": "Bolbec",
+    "label": "Bolbec",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q979862",
+    "span": "Bataille",
+    "label": "Michelangelo Cerquozzi",
+    "description": "painter from Italy (1602-1660)",
+    "type": "PER"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q979862",
+    "span": "Bataille",
+    "label": "Michelangelo Cerquozzi",
+    "description": "painter from Italy (1602-1660)",
+    "type": "PER"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q979862",
+    "span": "Bataille",
+    "label": "Michelangelo Cerquozzi",
+    "description": "painter from Italy (1602-1660)",
+    "type": "PER"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q1409202",
+    "span": "vez",
+    "label": "Vez",
+    "description": "commune in Oise, France",
+    "type": "ORG"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q1191147",
+    "span": "net",
+    "label": "net",
+    "description": "topological generalization of the notion of a sequence",
+    "type": "MISC"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q56000996",
+    "span": "Us",
+    "label": "Us",
+    "description": "2019 film by Jordan Peele",
+    "type": "MISC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q20657456",
+    "span": "Normandie",
+    "label": "Normandie",
+    "description": "human settlement in Sea Bright, New Jersey, United States of America",
+    "type": "LOC"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q1508927",
+    "span": "M\u00e9diterran\u00e9e",
+    "label": "M\u00e9diterran\u00e9e",
+    "description": "former French department in Italy (1808-1814)",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q1508927",
+    "span": "M\u00e9diterran\u00e9e",
+    "label": "M\u00e9diterran\u00e9e",
+    "description": "former French department in Italy (1808-1814)",
+    "type": "LOC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q960648",
+    "span": "POI",
+    "label": "point of interest",
+    "description": "specific point location that someone may find useful or interesting",
+    "type": "ORG"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q652482",
+    "span": "yme",
+    "label": "Matane Airport",
+    "description": "airport",
+    "type": "ORG"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q4515557",
+    "span": "Gi",
+    "label": "Ji",
+    "description": "Korean family name (\uc9c0)",
+    "type": "MISC"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q42132",
+    "span": "up",
+    "label": "eup",
+    "description": "administrative unit in North and South Korea similar to the unit of town",
+    "type": "ORG"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q13501137",
+    "span": "Jon",
+    "label": "Jon",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q18357664",
+    "span": "oir",
+    "label": "Operation Inherent Resolve",
+    "description": "military intervention against the Islamic State of Iraq and the Levant",
+    "type": "ORG"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q16744120",
+    "span": "ng",
+    "label": "New Ground",
+    "description": "episode of Star Trek: The Next Generation (S5 E10)",
+    "type": "MISC"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q111509",
+    "span": "jura",
+    "label": "Jura",
+    "description": "island in the Inner Hebrides of Scotland",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q51664",
+    "span": "isa",
+    "label": "Jesus in Islam",
+    "description": "Jesus considered to be a Messenger of God and al-Masih (the Messiah) in Islam",
+    "type": "PER"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q65068556",
+    "span": "alade",
+    "label": "Alade",
+    "description": "rural community",
+    "type": "LOC"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q451580",
+    "span": "ine",
+    "label": "Ine",
+    "description": "King of Wessex",
+    "type": "ORG"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q1009893",
+    "span": "Barville",
+    "label": "Barville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q1044",
+    "span": "sl",
+    "label": "Sierra Leone",
+    "description": "republic in West Africa",
+    "type": "ORG"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q580312",
+    "span": "nades",
+    "label": "Nades",
+    "description": "commune in Allier, France",
+    "type": "LOC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q1009893",
+    "span": "Barville",
+    "label": "Barville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q12056156",
+    "span": "den",
+    "label": "den",
+    "description": "type of room in a house",
+    "type": "LOC"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q29",
+    "span": "ES",
+    "label": "Spain",
+    "description": "constitutional monarchy in Southwest Europe",
+    "type": "LOC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q182333",
+    "span": "R",
+    "label": "gas constant",
+    "description": "physical constant",
+    "type": "MISC"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q5699",
+    "span": "Ur",
+    "label": "Ur",
+    "description": "archaeological site in Iraq",
+    "type": "MISC"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q1212",
+    "span": "MT",
+    "label": "Montana",
+    "description": "state of the United States of America",
+    "type": "MISC"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q1009893",
+    "span": "Barville",
+    "label": "Barville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q1042388",
+    "span": "Pape",
+    "label": "Pape",
+    "description": "station on the Bloor\u2013Danforth subway line in Toronto, Ontario, Canada",
+    "type": "PER"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q17063638",
+    "span": "\u00d9",
+    "label": "\ud808\udd47",
+    "description": "cuneiform sign \u00d9, used as a conjunction",
+    "type": "LOC"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q220",
+    "span": "rome",
+    "label": "Rome",
+    "description": "capital and largest city of Italy",
+    "type": "LOC"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q1026962",
+    "span": "Dh",
+    "label": "digital humanities",
+    "description": "an area of scholarly activity at the intersection of computing or digital technologies and the disciplines of the humanities",
+    "type": "ORG"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q206493",
+    "span": "S\u00e8vres",
+    "label": "S\u00e8vres",
+    "description": "Commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q21507830",
+    "span": "Lemaire",
+    "label": "Lemaire",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q58680",
+    "span": "ps",
+    "label": "Pashto",
+    "description": "Indo-Iranian language spoken in Afghanistan",
+    "type": "ORG"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q290936",
+    "span": "\u00c9tretat",
+    "label": "\u00c9tretat",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q3774493",
+    "span": "pes",
+    "label": "pes",
+    "description": "Ancient Roman unit of length; approximately 29.6 cm",
+    "type": "MISC"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "Ile",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "LOC"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q675355",
+    "span": "EH",
+    "label": "Endress+Hauser",
+    "description": "Endress+Hauser is a Swiss-based instrumentation and process automation company",
+    "type": "LOC"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q16275238",
+    "span": "Corinne",
+    "label": "Corinne",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q1659578",
+    "span": "Lamartine",
+    "label": "Lamartine",
+    "description": "civil town in Fond du Lac County, Wisconsin",
+    "type": "PER"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q11248500",
+    "span": "ux",
+    "label": "user experience design",
+    "description": "field of design focusing on the creation of user centered products and services",
+    "type": "MISC"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q365",
+    "span": "Cologne",
+    "label": "Cologne",
+    "description": "city in North Rhine-Westphalia, Germany",
+    "type": "LOC"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q128267",
+    "span": "Joseph",
+    "label": "Joseph",
+    "description": "Christian saint; husband of Mary and father of Jesus",
+    "type": "PER"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q128267",
+    "span": "Joseph",
+    "label": "Joseph",
+    "description": "Christian saint; husband of Mary and father of Jesus",
+    "type": "PER"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q207375",
+    "span": "ER",
+    "label": "ER",
+    "description": "American medical drama television series (1994-2009)",
+    "type": "ORG"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q19786",
+    "span": "OT",
+    "label": "Old Testament",
+    "description": "part of the Christian Bible, composed prior to the 1st century BCE, mostly consisting of texts inherited from Judaism",
+    "type": "ORG"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q34327",
+    "span": "ts",
+    "label": "Tsonga",
+    "description": "southern African Bantu language spoken by the Tsonga people",
+    "type": "ORG"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q11248500",
+    "span": "ux",
+    "label": "user experience design",
+    "description": "field of design focusing on the creation of user centered products and services",
+    "type": "MISC"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q1669492",
+    "span": "PRE",
+    "label": "Prince Edward station",
+    "description": "MTR station",
+    "type": "ORG"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q2429253",
+    "span": "IS",
+    "label": "Islamic State of Iraq and the Levant",
+    "description": "Salafi jihadist terrorist and militant group",
+    "type": "LOC"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q3640287",
+    "span": "bir",
+    "label": "Bir",
+    "description": "album by Mezarkabul",
+    "type": "LOC"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q2902126",
+    "span": "uit",
+    "label": "Jaluit Airport",
+    "description": "airport in Marshall Islands",
+    "type": "ORG"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q560",
+    "span": "He",
+    "label": "helium",
+    "description": "chemical element with the chemical symbol He and the atomic number of 2",
+    "type": "MISC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q560",
+    "span": "He",
+    "label": "helium",
+    "description": "chemical element with the chemical symbol He and the atomic number of 2",
+    "type": "MISC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q114147",
+    "span": "usa",
+    "label": "Usa",
+    "description": "city in \u014cita Prefecture, Japan",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q18357664",
+    "span": "oir",
+    "label": "Operation Inherent Resolve",
+    "description": "military intervention against the Islamic State of Iraq and the Levant",
+    "type": "ORG"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q1110763",
+    "span": "Goderville",
+    "label": "Goderville",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Christ",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q302",
+    "span": "Christ",
+    "label": "Jesus Christ",
+    "description": "Jewish preacher and religious leader, central figure of Christianity",
+    "type": "PER"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q16865802",
+    "span": "Couillard",
+    "label": "Couillard",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q3459747",
+    "span": "once",
+    "label": "Once",
+    "description": "musical",
+    "type": "LOC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q83259",
+    "span": "ENS",
+    "label": "\u00c9cole normale sup\u00e9rieure",
+    "description": "French \"grande \u00e9cole\" (ENS Paris)",
+    "type": "ORG"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q21491842",
+    "span": "Paulet",
+    "label": "Paulet",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q1368412",
+    "span": "Esprit",
+    "label": "Esprit",
+    "description": "literary magazine",
+    "type": "ORG"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q1368412",
+    "span": "Esprit",
+    "label": "Esprit",
+    "description": "literary magazine",
+    "type": "ORG"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q1368412",
+    "span": "Esprit",
+    "label": "Esprit",
+    "description": "literary magazine",
+    "type": "ORG"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q1368412",
+    "span": "Esprit",
+    "label": "Esprit",
+    "description": "literary magazine",
+    "type": "ORG"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q35230",
+    "span": "Satan",
+    "label": "Satan",
+    "description": "Christian devil",
+    "type": "PER"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q1368412",
+    "span": "Esprit",
+    "label": "Esprit",
+    "description": "literary magazine",
+    "type": "ORG"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q1868524",
+    "span": "LS",
+    "label": "local search",
+    "description": "method for problem solving in optimization",
+    "type": "MISC"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q208528",
+    "span": "grad",
+    "label": "gradian",
+    "description": "angle unit",
+    "type": "LOC"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q40340",
+    "span": "racine",
+    "label": "Racine",
+    "description": "city in and county seat of Racine County, Wisconsin, United States",
+    "type": "PER"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q727066",
+    "span": "Jet",
+    "label": "Jet Airways",
+    "description": "airline based in India",
+    "type": "LOC"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q1827715",
+    "span": "ler",
+    "label": "Ler",
+    "description": "sea god in Irish mythology, also known as Lir",
+    "type": "LOC"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q36986",
+    "span": "vo",
+    "label": "Volap\u00fck",
+    "description": "constructed international auxiliary language",
+    "type": "MISC"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q2301037",
+    "span": "Len",
+    "label": "Len",
+    "description": "Canadian alternative rock band",
+    "type": "PER"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q771071",
+    "span": "Juif",
+    "label": "Juif",
+    "description": "commune in Sa\u00f4ne-et-Loire, France",
+    "type": "MISC"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q197615",
+    "span": "Sen",
+    "label": "Koxinga",
+    "description": "Chinese military leader",
+    "type": "PER"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rs",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "ORG"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q3372",
+    "span": "EURE",
+    "label": "Eure",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q895259",
+    "span": "Bourse",
+    "label": "Bourse",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q547711",
+    "span": "J1",
+    "label": "J-1 visa",
+    "description": "non-immigrant visa issued by the United States to research scholars, professors and exchange visitors participating in programs that promote cultural exchange, especially to obtain medical or business training within the U.S.",
+    "type": "LOC"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q930973",
+    "span": "Londres",
+    "label": "Londres",
+    "description": "city in Catamarca, Argentina",
+    "type": "LOC"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q451580",
+    "span": "ine",
+    "label": "Ine",
+    "description": "King of Wessex",
+    "type": "ORG"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q188904",
+    "span": "Gao",
+    "label": "Gao",
+    "description": "city in Mali",
+    "type": "LOC"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q974",
+    "span": "cd",
+    "label": "Democratic Republic of the Congo",
+    "description": "country in Central Africa",
+    "type": "MISC"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q985187",
+    "span": "Saint-L\u00e9onard",
+    "label": "Saint-L\u00e9onard, New Brunswick",
+    "description": "town of Canada",
+    "type": "LOC"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q161790",
+    "span": "AS",
+    "label": "Asperger syndrome",
+    "description": "neurodevelopmental condition",
+    "type": "LOC"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q213684",
+    "span": "ita",
+    "label": "Tamara Bunke",
+    "description": "Argentinian revolutionary",
+    "type": "ORG"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q1110763",
+    "span": "Goderville",
+    "label": "Goderville",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q34327",
+    "span": "ts",
+    "label": "Tsonga",
+    "description": "southern African Bantu language spoken by the Tsonga people",
+    "type": "ORG"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q560",
+    "span": "He",
+    "label": "helium",
+    "description": "chemical element with the chemical symbol He and the atomic number of 2",
+    "type": "MISC"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q201904",
+    "span": "Qt",
+    "label": "Qt",
+    "description": "object-oriented framework for GUI creation",
+    "type": "MISC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q490032",
+    "span": "Chine",
+    "label": "chine",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q34327",
+    "span": "ts",
+    "label": "Tsonga",
+    "description": "southern African Bantu language spoken by the Tsonga people",
+    "type": "ORG"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q6501349",
+    "span": "lot",
+    "label": "parking lot",
+    "description": "cleared area that is intended for parking vehicles",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q1144202",
+    "span": "VI",
+    "label": "VI",
+    "description": "album by Circle Jerks",
+    "type": "PER"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "MISC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q2159938",
+    "span": "Marius",
+    "label": "Marius",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q665938",
+    "span": "Dour",
+    "label": "Dour",
+    "description": "Walloon municipality in Hainaut, Belgium",
+    "type": "LOC"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q1598365",
+    "span": "HIT",
+    "label": "heparin-induced thrombocytopenia",
+    "description": "development of thrombocytopenia (a low platelet count), due to the administration of various forms of heparin, an anticoagulant",
+    "type": "ORG"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q1576648",
+    "span": "Tolbiac",
+    "label": "Tolbiac",
+    "description": "Paris M\u00e9tro station",
+    "type": "LOC"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q451580",
+    "span": "ine",
+    "label": "Ine",
+    "description": "King of Wessex",
+    "type": "ORG"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q269732",
+    "span": "F\u00e9camp",
+    "label": "F\u00e9camp",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q1110763",
+    "span": "Goderville",
+    "label": "Goderville",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q420423",
+    "span": "dez",
+    "label": "diethylzinc",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q648432",
+    "span": "tilbury",
+    "label": "Tilbury",
+    "description": "town in the borough of Thurrock, Essex, England",
+    "type": "LOC"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q11248500",
+    "span": "ux",
+    "label": "user experience design",
+    "description": "field of design focusing on the creation of user centered products and services",
+    "type": "MISC"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q1110763",
+    "span": "Goderville",
+    "label": "Goderville",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q533859",
+    "span": "Roussel",
+    "label": "Ker-Xavier Roussel",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q20657456",
+    "span": "Normandie",
+    "label": "Normandie",
+    "description": "human settlement in Sea Bright, New Jersey, United States of America",
+    "type": "LOC"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q2005",
+    "span": "JS",
+    "label": "JavaScript",
+    "description": "programming language",
+    "type": "MISC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q533859",
+    "span": "Roussel",
+    "label": "Ker-Xavier Roussel",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q533859",
+    "span": "Roussel",
+    "label": "Ker-Xavier Roussel",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q1857",
+    "span": "Lu",
+    "label": "lutetium",
+    "description": "element with the atomic number of 71",
+    "type": "LOC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q207375",
+    "span": "ER",
+    "label": "ER",
+    "description": "American medical drama television series (1994-2009)",
+    "type": "ORG"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q20657456",
+    "span": "Normandie",
+    "label": "Normandie",
+    "description": "human settlement in Sea Bright, New Jersey, United States of America",
+    "type": "LOC"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q1110763",
+    "span": "Goderville",
+    "label": "Goderville",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q33111",
+    "span": "Corse",
+    "label": "Corsican",
+    "description": "Italo-Dalmatian language spoken in Corsica and part of Sardinia",
+    "type": "LOC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q64002642",
+    "span": "Julien",
+    "label": "Julien",
+    "description": "2019 single by Carly Rae Jepsen",
+    "type": "PER"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q1553",
+    "span": "NE",
+    "label": "Nebraska",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q369331",
+    "span": "Lison",
+    "label": "Lison",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q13434396",
+    "span": "VIF",
+    "label": "variance inflation factor",
+    "description": "measure of collinearity in statistical regression models",
+    "type": "ORG"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q1011483",
+    "span": "Beuzeville",
+    "label": "Beuzeville",
+    "description": "commune in Eure, France",
+    "type": "LOC"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q9200",
+    "span": "Paul",
+    "label": "Paul",
+    "description": "Early Christian apostle and missionary",
+    "type": "PER"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q2748793",
+    "span": "Rosalie",
+    "label": "Rosalie",
+    "description": "1937 film by W. S. Van Dyke",
+    "type": "PER"
+  }
+}

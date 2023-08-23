@@ -1,0 +1,4772 @@
+{
+  "0": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1800,
+    "type": "EL puis REN"
+  },
+  "1": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2236,
+    "type": "EL puis REN"
+  },
+  "2": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1800,
+    "type": "EL puis REN"
+  },
+  "3": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2150,
+    "type": "EL puis REN"
+  },
+  "4": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1800,
+    "type": "EL puis REN"
+  },
+  "5": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1932,
+    "type": "EL puis REN"
+  },
+  "6": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1800,
+    "type": "EL puis REN"
+  },
+  "7": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1942,
+    "type": "EL puis REN"
+  },
+  "8": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1165,
+    "type": "EL puis REN"
+  },
+  "9": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 1836,
+    "type": "EL puis REN"
+  },
+  "10": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1165,
+    "type": "EL puis REN"
+  },
+  "11": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1847,
+    "type": "EL puis REN"
+  },
+  "12": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1165,
+    "type": "EL puis REN"
+  },
+  "13": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1710,
+    "type": "EL puis REN"
+  },
+  "14": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1165,
+    "type": "EL puis REN"
+  },
+  "15": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1500,
+    "type": "EL puis REN"
+  },
+  "16": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 455,
+    "type": "EL puis REN"
+  },
+  "17": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 518,
+    "type": "EL puis REN"
+  },
+  "18": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 455,
+    "type": "EL puis REN"
+  },
+  "19": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 789,
+    "type": "EL puis REN"
+  },
+  "20": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 455,
+    "type": "EL puis REN"
+  },
+  "21": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 978,
+    "type": "EL puis REN"
+  },
+  "22": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 455,
+    "type": "EL puis REN"
+  },
+  "23": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 785,
+    "type": "EL puis REN"
+  },
+  "24": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1349,
+    "type": "EL puis REN"
+  },
+  "25": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1814,
+    "type": "EL puis REN"
+  },
+  "26": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1349,
+    "type": "EL puis REN"
+  },
+  "27": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1843,
+    "type": "EL puis REN"
+  },
+  "28": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1349,
+    "type": "EL puis REN"
+  },
+  "29": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1699,
+    "type": "EL puis REN"
+  },
+  "30": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1349,
+    "type": "EL puis REN"
+  },
+  "31": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1720,
+    "type": "EL puis REN"
+  },
+  "32": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1787,
+    "type": "EL puis REN"
+  },
+  "33": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2167,
+    "type": "EL puis REN"
+  },
+  "34": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1787,
+    "type": "EL puis REN"
+  },
+  "35": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2324,
+    "type": "EL puis REN"
+  },
+  "36": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1787,
+    "type": "EL puis REN"
+  },
+  "37": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 2555,
+    "type": "EL puis REN"
+  },
+  "38": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1787,
+    "type": "EL puis REN"
+  },
+  "39": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2468,
+    "type": "EL puis REN"
+  },
+  "40": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3221,
+    "type": "EL puis REN"
+  },
+  "41": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 3977,
+    "type": "EL puis REN"
+  },
+  "42": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3221,
+    "type": "EL puis REN"
+  },
+  "43": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 3664,
+    "type": "EL puis REN"
+  },
+  "44": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3221,
+    "type": "EL puis REN"
+  },
+  "45": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4795,
+    "type": "EL puis REN"
+  },
+  "46": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3221,
+    "type": "EL puis REN"
+  },
+  "47": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3688,
+    "type": "EL puis REN"
+  },
+  "48": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2176,
+    "type": "EL puis REN"
+  },
+  "49": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3283,
+    "type": "EL puis REN"
+  },
+  "50": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2176,
+    "type": "EL puis REN"
+  },
+  "51": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 3376,
+    "type": "EL puis REN"
+  },
+  "52": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2176,
+    "type": "EL puis REN"
+  },
+  "53": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6185,
+    "type": "EL puis REN"
+  },
+  "54": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2176,
+    "type": "EL puis REN"
+  },
+  "55": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2380,
+    "type": "EL puis REN"
+  },
+  "56": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1461,
+    "type": "EL puis REN"
+  },
+  "57": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1614,
+    "type": "EL puis REN"
+  },
+  "58": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1461,
+    "type": "EL puis REN"
+  },
+  "59": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2239,
+    "type": "EL puis REN"
+  },
+  "60": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1461,
+    "type": "EL puis REN"
+  },
+  "61": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1884,
+    "type": "EL puis REN"
+  },
+  "62": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1461,
+    "type": "EL puis REN"
+  },
+  "63": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1642,
+    "type": "EL puis REN"
+  },
+  "64": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1548,
+    "type": "EL puis REN"
+  },
+  "65": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1985,
+    "type": "EL puis REN"
+  },
+  "66": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1548,
+    "type": "EL puis REN"
+  },
+  "67": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1966,
+    "type": "EL puis REN"
+  },
+  "68": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1548,
+    "type": "EL puis REN"
+  },
+  "69": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1981,
+    "type": "EL puis REN"
+  },
+  "70": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1548,
+    "type": "EL puis REN"
+  },
+  "71": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2112,
+    "type": "EL puis REN"
+  },
+  "72": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 515,
+    "type": "EL puis REN"
+  },
+  "73": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 804,
+    "type": "EL puis REN"
+  },
+  "74": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 515,
+    "type": "EL puis REN"
+  },
+  "75": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 624,
+    "type": "EL puis REN"
+  },
+  "76": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 515,
+    "type": "EL puis REN"
+  },
+  "77": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1078,
+    "type": "EL puis REN"
+  },
+  "78": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 515,
+    "type": "EL puis REN"
+  },
+  "79": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 987,
+    "type": "EL puis REN"
+  },
+  "80": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1143,
+    "type": "EL puis REN"
+  },
+  "81": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 3500,
+    "type": "EL puis REN"
+  },
+  "82": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1143,
+    "type": "EL puis REN"
+  },
+  "83": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2279,
+    "type": "EL puis REN"
+  },
+  "84": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1143,
+    "type": "EL puis REN"
+  },
+  "85": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2562,
+    "type": "EL puis REN"
+  },
+  "86": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1143,
+    "type": "EL puis REN"
+  },
+  "87": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3501,
+    "type": "EL puis REN"
+  },
+  "88": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1657,
+    "type": "EL puis REN"
+  },
+  "89": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1339,
+    "type": "EL puis REN"
+  },
+  "90": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1657,
+    "type": "EL puis REN"
+  },
+  "91": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1860,
+    "type": "EL puis REN"
+  },
+  "92": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1657,
+    "type": "EL puis REN"
+  },
+  "93": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1776,
+    "type": "EL puis REN"
+  },
+  "94": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1657,
+    "type": "EL puis REN"
+  },
+  "95": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1767,
+    "type": "EL puis REN"
+  },
+  "96": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1294,
+    "type": "EL puis REN"
+  },
+  "97": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 1572,
+    "type": "EL puis REN"
+  },
+  "98": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1294,
+    "type": "EL puis REN"
+  },
+  "99": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1585,
+    "type": "EL puis REN"
+  },
+  "100": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1294,
+    "type": "EL puis REN"
+  },
+  "101": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1392,
+    "type": "EL puis REN"
+  },
+  "102": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1294,
+    "type": "EL puis REN"
+  },
+  "103": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1383,
+    "type": "EL puis REN"
+  },
+  "104": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 509,
+    "type": "EL puis REN"
+  },
+  "105": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 691,
+    "type": "EL puis REN"
+  },
+  "106": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 509,
+    "type": "EL puis REN"
+  },
+  "107": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 969,
+    "type": "EL puis REN"
+  },
+  "108": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 509,
+    "type": "EL puis REN"
+  },
+  "109": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 789,
+    "type": "EL puis REN"
+  },
+  "110": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 509,
+    "type": "EL puis REN"
+  },
+  "111": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 926,
+    "type": "EL puis REN"
+  },
+  "112": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1260,
+    "type": "EL puis REN"
+  },
+  "113": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1614,
+    "type": "EL puis REN"
+  },
+  "114": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1260,
+    "type": "EL puis REN"
+  },
+  "115": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1604,
+    "type": "EL puis REN"
+  },
+  "116": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1260,
+    "type": "EL puis REN"
+  },
+  "117": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1506,
+    "type": "EL puis REN"
+  },
+  "118": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1260,
+    "type": "EL puis REN"
+  },
+  "119": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1679,
+    "type": "EL puis REN"
+  },
+  "120": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1908,
+    "type": "EL puis REN"
+  },
+  "121": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2189,
+    "type": "EL puis REN"
+  },
+  "122": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1908,
+    "type": "EL puis REN"
+  },
+  "123": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2071,
+    "type": "EL puis REN"
+  },
+  "124": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1908,
+    "type": "EL puis REN"
+  },
+  "125": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 2479,
+    "type": "EL puis REN"
+  },
+  "126": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 1908,
+    "type": "EL puis REN"
+  },
+  "127": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2402,
+    "type": "EL puis REN"
+  },
+  "128": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3133,
+    "type": "EL puis REN"
+  },
+  "129": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4005,
+    "type": "EL puis REN"
+  },
+  "130": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3133,
+    "type": "EL puis REN"
+  },
+  "131": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 3322,
+    "type": "EL puis REN"
+  },
+  "132": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3133,
+    "type": "EL puis REN"
+  },
+  "133": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 3580,
+    "type": "EL puis REN"
+  },
+  "134": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3133,
+    "type": "EL puis REN"
+  },
+  "135": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3284,
+    "type": "EL puis REN"
+  },
+  "136": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2208,
+    "type": "EL puis REN"
+  },
+  "137": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3253,
+    "type": "EL puis REN"
+  },
+  "138": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2208,
+    "type": "EL puis REN"
+  },
+  "139": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 3335,
+    "type": "EL puis REN"
+  },
+  "140": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2208,
+    "type": "EL puis REN"
+  },
+  "141": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5516,
+    "type": "EL puis REN"
+  },
+  "142": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2208,
+    "type": "EL puis REN"
+  },
+  "143": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2498,
+    "type": "EL puis REN"
+  },
+  "144": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1527,
+    "type": "EL puis REN"
+  },
+  "145": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1450,
+    "type": "EL puis REN"
+  },
+  "146": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1527,
+    "type": "EL puis REN"
+  },
+  "147": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1788,
+    "type": "EL puis REN"
+  },
+  "148": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1527,
+    "type": "EL puis REN"
+  },
+  "149": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1555,
+    "type": "EL puis REN"
+  },
+  "150": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1527,
+    "type": "EL puis REN"
+  },
+  "151": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1457,
+    "type": "EL puis REN"
+  },
+  "152": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1309,
+    "type": "EL puis REN"
+  },
+  "153": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1959,
+    "type": "EL puis REN"
+  },
+  "154": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1309,
+    "type": "EL puis REN"
+  },
+  "155": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1581,
+    "type": "EL puis REN"
+  },
+  "156": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1309,
+    "type": "EL puis REN"
+  },
+  "157": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1943,
+    "type": "EL puis REN"
+  },
+  "158": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1309,
+    "type": "EL puis REN"
+  },
+  "159": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1959,
+    "type": "EL puis REN"
+  },
+  "160": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 563,
+    "type": "EL puis REN"
+  },
+  "161": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 798,
+    "type": "EL puis REN"
+  },
+  "162": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 563,
+    "type": "EL puis REN"
+  },
+  "163": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 555,
+    "type": "EL puis REN"
+  },
+  "164": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 563,
+    "type": "EL puis REN"
+  },
+  "165": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 724,
+    "type": "EL puis REN"
+  },
+  "166": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 563,
+    "type": "EL puis REN"
+  },
+  "167": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 721,
+    "type": "EL puis REN"
+  },
+  "168": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 947,
+    "type": "EL puis REN"
+  },
+  "169": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2382,
+    "type": "EL puis REN"
+  },
+  "170": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 947,
+    "type": "EL puis REN"
+  },
+  "171": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1961,
+    "type": "EL puis REN"
+  },
+  "172": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 947,
+    "type": "EL puis REN"
+  },
+  "173": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1834,
+    "type": "EL puis REN"
+  },
+  "174": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 947,
+    "type": "EL puis REN"
+  },
+  "175": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 2362,
+    "type": "EL puis REN"
+  },
+  "176": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1763,
+    "type": "EL puis REN"
+  },
+  "177": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2215,
+    "type": "EL puis REN"
+  },
+  "178": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1763,
+    "type": "EL puis REN"
+  },
+  "179": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2244,
+    "type": "EL puis REN"
+  },
+  "180": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1763,
+    "type": "EL puis REN"
+  },
+  "181": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1991,
+    "type": "EL puis REN"
+  },
+  "182": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 1763,
+    "type": "EL puis REN"
+  },
+  "183": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1990,
+    "type": "EL puis REN"
+  },
+  "184": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1317,
+    "type": "EL puis REN"
+  },
+  "185": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 2061,
+    "type": "EL puis REN"
+  },
+  "186": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1317,
+    "type": "EL puis REN"
+  },
+  "187": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2062,
+    "type": "EL puis REN"
+  },
+  "188": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1317,
+    "type": "EL puis REN"
+  },
+  "189": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1938,
+    "type": "EL puis REN"
+  },
+  "190": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 1317,
+    "type": "EL puis REN"
+  },
+  "191": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1538,
+    "type": "EL puis REN"
+  },
+  "192": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 513,
+    "type": "EL puis REN"
+  },
+  "193": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 659,
+    "type": "EL puis REN"
+  },
+  "194": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 513,
+    "type": "EL puis REN"
+  },
+  "195": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 948,
+    "type": "EL puis REN"
+  },
+  "196": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 513,
+    "type": "EL puis REN"
+  },
+  "197": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1223,
+    "type": "EL puis REN"
+  },
+  "198": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 513,
+    "type": "EL puis REN"
+  },
+  "199": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 928,
+    "type": "EL puis REN"
+  },
+  "200": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1507,
+    "type": "EL puis REN"
+  },
+  "201": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 1982,
+    "type": "EL puis REN"
+  },
+  "202": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1507,
+    "type": "EL puis REN"
+  },
+  "203": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 1980,
+    "type": "EL puis REN"
+  },
+  "204": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1507,
+    "type": "EL puis REN"
+  },
+  "205": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 1871,
+    "type": "EL puis REN"
+  },
+  "206": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 1507,
+    "type": "EL puis REN"
+  },
+  "207": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2184,
+    "type": "EL puis REN"
+  },
+  "208": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 2147,
+    "type": "EL puis REN"
+  },
+  "209": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2804,
+    "type": "EL puis REN"
+  },
+  "210": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 2147,
+    "type": "EL puis REN"
+  },
+  "211": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2833,
+    "type": "EL puis REN"
+  },
+  "212": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 2147,
+    "type": "EL puis REN"
+  },
+  "213": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 3051,
+    "type": "EL puis REN"
+  },
+  "214": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 2147,
+    "type": "EL puis REN"
+  },
+  "215": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3128,
+    "type": "EL puis REN"
+  },
+  "216": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3488,
+    "type": "EL puis REN"
+  },
+  "217": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4717,
+    "type": "EL puis REN"
+  },
+  "218": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3488,
+    "type": "EL puis REN"
+  },
+  "219": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 4051,
+    "type": "EL puis REN"
+  },
+  "220": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3488,
+    "type": "EL puis REN"
+  },
+  "221": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4963,
+    "type": "EL puis REN"
+  },
+  "222": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 3488,
+    "type": "EL puis REN"
+  },
+  "223": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 4051,
+    "type": "EL puis REN"
+  },
+  "224": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2449,
+    "type": "EL puis REN"
+  },
+  "225": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3915,
+    "type": "EL puis REN"
+  },
+  "226": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2449,
+    "type": "EL puis REN"
+  },
+  "227": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 3959,
+    "type": "EL puis REN"
+  },
+  "228": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2449,
+    "type": "EL puis REN"
+  },
+  "229": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5325,
+    "type": "EL puis REN"
+  },
+  "230": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 2449,
+    "type": "EL puis REN"
+  },
+  "231": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2958,
+    "type": "EL puis REN"
+  },
+  "232": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1628,
+    "type": "EL puis REN"
+  },
+  "233": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 2038,
+    "type": "EL puis REN"
+  },
+  "234": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1628,
+    "type": "EL puis REN"
+  },
+  "235": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2386,
+    "type": "EL puis REN"
+  },
+  "236": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1628,
+    "type": "EL puis REN"
+  },
+  "237": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2261,
+    "type": "EL puis REN"
+  },
+  "238": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 1628,
+    "type": "EL puis REN"
+  },
+  "239": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2051,
+    "type": "EL puis REN"
+  },
+  "240": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1665,
+    "type": "EL puis REN"
+  },
+  "241": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2332,
+    "type": "EL puis REN"
+  },
+  "242": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1665,
+    "type": "EL puis REN"
+  },
+  "243": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2174,
+    "type": "EL puis REN"
+  },
+  "244": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1665,
+    "type": "EL puis REN"
+  },
+  "245": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 2326,
+    "type": "EL puis REN"
+  },
+  "246": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 1665,
+    "type": "EL puis REN"
+  },
+  "247": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 2467,
+    "type": "EL puis REN"
+  },
+  "248": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 658,
+    "type": "EL puis REN"
+  },
+  "249": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 949,
+    "type": "EL puis REN"
+  },
+  "250": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 658,
+    "type": "EL puis REN"
+  },
+  "251": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 731,
+    "type": "EL puis REN"
+  },
+  "252": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 658,
+    "type": "EL puis REN"
+  },
+  "253": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 1143,
+    "type": "EL puis REN"
+  },
+  "254": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 658,
+    "type": "EL puis REN"
+  },
+  "255": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 1052,
+    "type": "EL puis REN"
+  },
+  "256": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1206,
+    "type": "EL puis REN"
+  },
+  "257": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4043,
+    "type": "EL puis REN"
+  },
+  "258": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1206,
+    "type": "EL puis REN"
+  },
+  "259": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 2568,
+    "type": "EL puis REN"
+  },
+  "260": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1206,
+    "type": "EL puis REN"
+  },
+  "261": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 2858,
+    "type": "EL puis REN"
+  },
+  "262": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 1206,
+    "type": "EL puis REN"
+  },
+  "263": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 4027,
+    "type": "EL puis REN"
+  },
+  "264": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "265": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "266": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "267": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6124,
+    "type": "EL sans REN"
+  },
+  "268": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 7008,
+    "type": "EL sans REN"
+  },
+  "269": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6124,
+    "type": "EL sans REN"
+  },
+  "270": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 6724,
+    "type": "EL sans REN"
+  },
+  "271": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6124,
+    "type": "EL sans REN"
+  },
+  "272": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6459,
+    "type": "EL sans REN"
+  },
+  "273": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6124,
+    "type": "EL sans REN"
+  },
+  "274": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6443,
+    "type": "EL sans REN"
+  },
+  "275": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 10914,
+    "type": "EL sans REN"
+  },
+  "276": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 11734,
+    "type": "EL sans REN"
+  },
+  "277": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 10914,
+    "type": "EL sans REN"
+  },
+  "278": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11768,
+    "type": "EL sans REN"
+  },
+  "279": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 10914,
+    "type": "EL sans REN"
+  },
+  "280": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11238,
+    "type": "EL sans REN"
+  },
+  "281": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 10914,
+    "type": "EL sans REN"
+  },
+  "282": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10612,
+    "type": "EL sans REN"
+  },
+  "283": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "284": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3834,
+    "type": "EL sans REN"
+  },
+  "285": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "286": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 4231,
+    "type": "EL sans REN"
+  },
+  "287": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "288": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4726,
+    "type": "EL sans REN"
+  },
+  "289": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "290": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3727,
+    "type": "EL sans REN"
+  },
+  "291": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6462,
+    "type": "EL sans REN"
+  },
+  "292": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 7654,
+    "type": "EL sans REN"
+  },
+  "293": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6462,
+    "type": "EL sans REN"
+  },
+  "294": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 7667,
+    "type": "EL sans REN"
+  },
+  "295": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6462,
+    "type": "EL sans REN"
+  },
+  "296": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 7099,
+    "type": "EL sans REN"
+  },
+  "297": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6462,
+    "type": "EL sans REN"
+  },
+  "298": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7904,
+    "type": "EL sans REN"
+  },
+  "299": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10555,
+    "type": "EL sans REN"
+  },
+  "300": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11495,
+    "type": "EL sans REN"
+  },
+  "301": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10555,
+    "type": "EL sans REN"
+  },
+  "302": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 12454,
+    "type": "EL sans REN"
+  },
+  "303": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10555,
+    "type": "EL sans REN"
+  },
+  "304": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 11824,
+    "type": "EL sans REN"
+  },
+  "305": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10555,
+    "type": "EL sans REN"
+  },
+  "306": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11808,
+    "type": "EL sans REN"
+  },
+  "307": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 17928,
+    "type": "EL sans REN"
+  },
+  "308": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 20973,
+    "type": "EL sans REN"
+  },
+  "309": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 17928,
+    "type": "EL sans REN"
+  },
+  "310": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 18867,
+    "type": "EL sans REN"
+  },
+  "311": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 17928,
+    "type": "EL sans REN"
+  },
+  "312": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 20683,
+    "type": "EL sans REN"
+  },
+  "313": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 17928,
+    "type": "EL sans REN"
+  },
+  "314": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 19485,
+    "type": "EL sans REN"
+  },
+  "315": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16116,
+    "type": "EL sans REN"
+  },
+  "316": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 19619,
+    "type": "EL sans REN"
+  },
+  "317": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16116,
+    "type": "EL sans REN"
+  },
+  "318": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 19656,
+    "type": "EL sans REN"
+  },
+  "319": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16116,
+    "type": "EL sans REN"
+  },
+  "320": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 23389,
+    "type": "EL sans REN"
+  },
+  "321": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16116,
+    "type": "EL sans REN"
+  },
+  "322": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 17991,
+    "type": "EL sans REN"
+  },
+  "323": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9066,
+    "type": "EL sans REN"
+  },
+  "324": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 9392,
+    "type": "EL sans REN"
+  },
+  "325": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9066,
+    "type": "EL sans REN"
+  },
+  "326": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10364,
+    "type": "EL sans REN"
+  },
+  "327": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9066,
+    "type": "EL sans REN"
+  },
+  "328": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 9744,
+    "type": "EL sans REN"
+  },
+  "329": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9066,
+    "type": "EL sans REN"
+  },
+  "330": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9419,
+    "type": "EL sans REN"
+  },
+  "331": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5817,
+    "type": "EL sans REN"
+  },
+  "332": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6760,
+    "type": "EL sans REN"
+  },
+  "333": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5817,
+    "type": "EL sans REN"
+  },
+  "334": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6586,
+    "type": "EL sans REN"
+  },
+  "335": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5817,
+    "type": "EL sans REN"
+  },
+  "336": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6770,
+    "type": "EL sans REN"
+  },
+  "337": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5817,
+    "type": "EL sans REN"
+  },
+  "338": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 6892,
+    "type": "EL sans REN"
+  },
+  "339": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3623,
+    "type": "EL sans REN"
+  },
+  "340": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4335,
+    "type": "EL sans REN"
+  },
+  "341": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3623,
+    "type": "EL sans REN"
+  },
+  "342": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3982,
+    "type": "EL sans REN"
+  },
+  "343": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3623,
+    "type": "EL sans REN"
+  },
+  "344": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4524,
+    "type": "EL sans REN"
+  },
+  "345": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3623,
+    "type": "EL sans REN"
+  },
+  "346": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 4321,
+    "type": "EL sans REN"
+  },
+  "347": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5388,
+    "type": "EL sans REN"
+  },
+  "348": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 13525,
+    "type": "EL sans REN"
+  },
+  "349": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5388,
+    "type": "EL sans REN"
+  },
+  "350": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10746,
+    "type": "EL sans REN"
+  },
+  "351": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5388,
+    "type": "EL sans REN"
+  },
+  "352": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10957,
+    "type": "EL sans REN"
+  },
+  "353": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5388,
+    "type": "EL sans REN"
+  },
+  "354": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 13610,
+    "type": "EL sans REN"
+  },
+  "355": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6659,
+    "type": "EL sans REN"
+  },
+  "356": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6479,
+    "type": "EL sans REN"
+  },
+  "357": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6659,
+    "type": "EL sans REN"
+  },
+  "358": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7179,
+    "type": "EL sans REN"
+  },
+  "359": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6659,
+    "type": "EL sans REN"
+  },
+  "360": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6969,
+    "type": "EL sans REN"
+  },
+  "361": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6659,
+    "type": "EL sans REN"
+  },
+  "362": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6913,
+    "type": "EL sans REN"
+  },
+  "363": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11114,
+    "type": "EL sans REN"
+  },
+  "364": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 11465,
+    "type": "EL sans REN"
+  },
+  "365": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11114,
+    "type": "EL sans REN"
+  },
+  "366": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11449,
+    "type": "EL sans REN"
+  },
+  "367": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11114,
+    "type": "EL sans REN"
+  },
+  "368": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11118,
+    "type": "EL sans REN"
+  },
+  "369": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11114,
+    "type": "EL sans REN"
+  },
+  "370": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10566,
+    "type": "EL sans REN"
+  },
+  "371": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "372": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 4299,
+    "type": "EL sans REN"
+  },
+  "373": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "374": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 4729,
+    "type": "EL sans REN"
+  },
+  "375": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "376": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4132,
+    "type": "EL sans REN"
+  },
+  "377": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "378": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3901,
+    "type": "EL sans REN"
+  },
+  "379": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6463,
+    "type": "EL sans REN"
+  },
+  "380": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 7622,
+    "type": "EL sans REN"
+  },
+  "381": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6463,
+    "type": "EL sans REN"
+  },
+  "382": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 7597,
+    "type": "EL sans REN"
+  },
+  "383": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6463,
+    "type": "EL sans REN"
+  },
+  "384": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 7124,
+    "type": "EL sans REN"
+  },
+  "385": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6463,
+    "type": "EL sans REN"
+  },
+  "386": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7864,
+    "type": "EL sans REN"
+  },
+  "387": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 11460,
+    "type": "EL sans REN"
+  },
+  "388": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 12161,
+    "type": "EL sans REN"
+  },
+  "389": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 11460,
+    "type": "EL sans REN"
+  },
+  "390": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 12573,
+    "type": "EL sans REN"
+  },
+  "391": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 11460,
+    "type": "EL sans REN"
+  },
+  "392": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 12328,
+    "type": "EL sans REN"
+  },
+  "393": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 11460,
+    "type": "EL sans REN"
+  },
+  "394": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 12333,
+    "type": "EL sans REN"
+  },
+  "395": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 19147,
+    "type": "EL sans REN"
+  },
+  "396": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 22951,
+    "type": "EL sans REN"
+  },
+  "397": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 19147,
+    "type": "EL sans REN"
+  },
+  "398": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 20126,
+    "type": "EL sans REN"
+  },
+  "399": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 19147,
+    "type": "EL sans REN"
+  },
+  "400": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 19980,
+    "type": "EL sans REN"
+  },
+  "401": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 19147,
+    "type": "EL sans REN"
+  },
+  "402": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 21368,
+    "type": "EL sans REN"
+  },
+  "403": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "EL sans REN"
+  },
+  "404": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 21164,
+    "type": "EL sans REN"
+  },
+  "405": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "EL sans REN"
+  },
+  "406": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 21348,
+    "type": "EL sans REN"
+  },
+  "407": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "EL sans REN"
+  },
+  "408": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 23488,
+    "type": "EL sans REN"
+  },
+  "409": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "EL sans REN"
+  },
+  "410": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 19811,
+    "type": "EL sans REN"
+  },
+  "411": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9652,
+    "type": "EL sans REN"
+  },
+  "412": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 10119,
+    "type": "EL sans REN"
+  },
+  "413": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9652,
+    "type": "EL sans REN"
+  },
+  "414": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9864,
+    "type": "EL sans REN"
+  },
+  "415": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9652,
+    "type": "EL sans REN"
+  },
+  "416": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 10480,
+    "type": "EL sans REN"
+  },
+  "417": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9652,
+    "type": "EL sans REN"
+  },
+  "418": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10117,
+    "type": "EL sans REN"
+  },
+  "419": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5911,
+    "type": "EL sans REN"
+  },
+  "420": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6943,
+    "type": "EL sans REN"
+  },
+  "421": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5911,
+    "type": "EL sans REN"
+  },
+  "422": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6524,
+    "type": "EL sans REN"
+  },
+  "423": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5911,
+    "type": "EL sans REN"
+  },
+  "424": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6937,
+    "type": "EL sans REN"
+  },
+  "425": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5911,
+    "type": "EL sans REN"
+  },
+  "426": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7030,
+    "type": "EL sans REN"
+  },
+  "427": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "EL sans REN"
+  },
+  "428": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4292,
+    "type": "EL sans REN"
+  },
+  "429": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "EL sans REN"
+  },
+  "430": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3843,
+    "type": "EL sans REN"
+  },
+  "431": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "EL sans REN"
+  },
+  "432": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4135,
+    "type": "EL sans REN"
+  },
+  "433": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "EL sans REN"
+  },
+  "434": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3950,
+    "type": "EL sans REN"
+  },
+  "435": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5405,
+    "type": "EL sans REN"
+  },
+  "436": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 12846,
+    "type": "EL sans REN"
+  },
+  "437": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5405,
+    "type": "EL sans REN"
+  },
+  "438": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10652,
+    "type": "EL sans REN"
+  },
+  "439": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5405,
+    "type": "EL sans REN"
+  },
+  "440": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10405,
+    "type": "EL sans REN"
+  },
+  "441": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5405,
+    "type": "EL sans REN"
+  },
+  "442": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 12852,
+    "type": "EL sans REN"
+  },
+  "443": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6205,
+    "type": "EL sans REN"
+  },
+  "444": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 7122,
+    "type": "EL sans REN"
+  },
+  "445": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6205,
+    "type": "EL sans REN"
+  },
+  "446": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 6815,
+    "type": "EL sans REN"
+  },
+  "447": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6205,
+    "type": "EL sans REN"
+  },
+  "448": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6568,
+    "type": "EL sans REN"
+  },
+  "449": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 6205,
+    "type": "EL sans REN"
+  },
+  "450": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6536,
+    "type": "EL sans REN"
+  },
+  "451": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11083,
+    "type": "EL sans REN"
+  },
+  "452": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 11869,
+    "type": "EL sans REN"
+  },
+  "453": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11083,
+    "type": "EL sans REN"
+  },
+  "454": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11885,
+    "type": "EL sans REN"
+  },
+  "455": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11083,
+    "type": "EL sans REN"
+  },
+  "456": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11354,
+    "type": "EL sans REN"
+  },
+  "457": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 11083,
+    "type": "EL sans REN"
+  },
+  "458": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10816,
+    "type": "EL sans REN"
+  },
+  "459": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "460": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3377,
+    "type": "EL sans REN"
+  },
+  "461": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "462": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 3937,
+    "type": "EL sans REN"
+  },
+  "463": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "464": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4633,
+    "type": "EL sans REN"
+  },
+  "465": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "466": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3578,
+    "type": "EL sans REN"
+  },
+  "467": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6482,
+    "type": "EL sans REN"
+  },
+  "468": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 7527,
+    "type": "EL sans REN"
+  },
+  "469": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6482,
+    "type": "EL sans REN"
+  },
+  "470": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 7542,
+    "type": "EL sans REN"
+  },
+  "471": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6482,
+    "type": "EL sans REN"
+  },
+  "472": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 7144,
+    "type": "EL sans REN"
+  },
+  "473": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 6482,
+    "type": "EL sans REN"
+  },
+  "474": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7809,
+    "type": "EL sans REN"
+  },
+  "475": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10594,
+    "type": "EL sans REN"
+  },
+  "476": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11777,
+    "type": "EL sans REN"
+  },
+  "477": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10594,
+    "type": "EL sans REN"
+  },
+  "478": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 12590,
+    "type": "EL sans REN"
+  },
+  "479": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10594,
+    "type": "EL sans REN"
+  },
+  "480": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 11889,
+    "type": "EL sans REN"
+  },
+  "481": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 10594,
+    "type": "EL sans REN"
+  },
+  "482": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11990,
+    "type": "EL sans REN"
+  },
+  "483": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 18170,
+    "type": "EL sans REN"
+  },
+  "484": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 20831,
+    "type": "EL sans REN"
+  },
+  "485": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 18170,
+    "type": "EL sans REN"
+  },
+  "486": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 19116,
+    "type": "EL sans REN"
+  },
+  "487": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 18170,
+    "type": "EL sans REN"
+  },
+  "488": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 20800,
+    "type": "EL sans REN"
+  },
+  "489": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 18170,
+    "type": "EL sans REN"
+  },
+  "490": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 20040,
+    "type": "EL sans REN"
+  },
+  "491": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16334,
+    "type": "EL sans REN"
+  },
+  "492": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 19906,
+    "type": "EL sans REN"
+  },
+  "493": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16334,
+    "type": "EL sans REN"
+  },
+  "494": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 19875,
+    "type": "EL sans REN"
+  },
+  "495": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16334,
+    "type": "EL sans REN"
+  },
+  "496": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 22233,
+    "type": "EL sans REN"
+  },
+  "497": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16334,
+    "type": "EL sans REN"
+  },
+  "498": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 17687,
+    "type": "EL sans REN"
+  },
+  "499": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9161,
+    "type": "EL sans REN"
+  },
+  "500": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 9528,
+    "type": "EL sans REN"
+  },
+  "501": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9161,
+    "type": "EL sans REN"
+  },
+  "502": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10453,
+    "type": "EL sans REN"
+  },
+  "503": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9161,
+    "type": "EL sans REN"
+  },
+  "504": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 9801,
+    "type": "EL sans REN"
+  },
+  "505": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 9161,
+    "type": "EL sans REN"
+  },
+  "506": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9542,
+    "type": "EL sans REN"
+  },
+  "507": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "EL sans REN"
+  },
+  "508": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6708,
+    "type": "EL sans REN"
+  },
+  "509": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "EL sans REN"
+  },
+  "510": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6750,
+    "type": "EL sans REN"
+  },
+  "511": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "EL sans REN"
+  },
+  "512": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6726,
+    "type": "EL sans REN"
+  },
+  "513": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "EL sans REN"
+  },
+  "514": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 6960,
+    "type": "EL sans REN"
+  },
+  "515": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3706,
+    "type": "EL sans REN"
+  },
+  "516": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 4407,
+    "type": "EL sans REN"
+  },
+  "517": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3706,
+    "type": "EL sans REN"
+  },
+  "518": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3989,
+    "type": "EL sans REN"
+  },
+  "519": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3706,
+    "type": "EL sans REN"
+  },
+  "520": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4540,
+    "type": "EL sans REN"
+  },
+  "521": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3706,
+    "type": "EL sans REN"
+  },
+  "522": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 4280,
+    "type": "EL sans REN"
+  },
+  "523": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5358,
+    "type": "EL sans REN"
+  },
+  "524": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 13179,
+    "type": "EL sans REN"
+  },
+  "525": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5358,
+    "type": "EL sans REN"
+  },
+  "526": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10674,
+    "type": "EL sans REN"
+  },
+  "527": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5358,
+    "type": "EL sans REN"
+  },
+  "528": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11108,
+    "type": "EL sans REN"
+  },
+  "529": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 5358,
+    "type": "EL sans REN"
+  },
+  "530": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 13155,
+    "type": "EL sans REN"
+  },
+  "531": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8417,
+    "type": "REN puis EL"
+  },
+  "532": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11792,
+    "type": "REN puis EL"
+  },
+  "533": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8417,
+    "type": "REN puis EL"
+  },
+  "534": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 10054,
+    "type": "REN puis EL"
+  },
+  "535": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8417,
+    "type": "REN puis EL"
+  },
+  "536": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6459,
+    "type": "REN puis EL"
+  },
+  "537": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8417,
+    "type": "REN puis EL"
+  },
+  "538": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9226,
+    "type": "REN puis EL"
+  },
+  "539": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13062,
+    "type": "REN puis EL"
+  },
+  "540": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 16655,
+    "type": "REN puis EL"
+  },
+  "541": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13062,
+    "type": "REN puis EL"
+  },
+  "542": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 16685,
+    "type": "REN puis EL"
+  },
+  "543": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13062,
+    "type": "REN puis EL"
+  },
+  "544": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 15231,
+    "type": "REN puis EL"
+  },
+  "545": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13062,
+    "type": "REN puis EL"
+  },
+  "546": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 14326,
+    "type": "REN puis EL"
+  },
+  "547": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3526,
+    "type": "REN puis EL"
+  },
+  "548": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 5352,
+    "type": "REN puis EL"
+  },
+  "549": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3526,
+    "type": "REN puis EL"
+  },
+  "550": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 6085,
+    "type": "REN puis EL"
+  },
+  "551": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3526,
+    "type": "REN puis EL"
+  },
+  "552": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6485,
+    "type": "REN puis EL"
+  },
+  "553": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3526,
+    "type": "REN puis EL"
+  },
+  "554": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 5363,
+    "type": "REN puis EL"
+  },
+  "555": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8005,
+    "type": "REN puis EL"
+  },
+  "556": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9820,
+    "type": "REN puis EL"
+  },
+  "557": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8005,
+    "type": "REN puis EL"
+  },
+  "558": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 9840,
+    "type": "REN puis EL"
+  },
+  "559": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8005,
+    "type": "REN puis EL"
+  },
+  "560": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9716,
+    "type": "REN puis EL"
+  },
+  "561": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8005,
+    "type": "REN puis EL"
+  },
+  "562": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 10721,
+    "type": "REN puis EL"
+  },
+  "563": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13712,
+    "type": "REN puis EL"
+  },
+  "564": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11495,
+    "type": "REN puis EL"
+  },
+  "565": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13712,
+    "type": "REN puis EL"
+  },
+  "566": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 16840,
+    "type": "REN puis EL"
+  },
+  "567": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13712,
+    "type": "REN puis EL"
+  },
+  "568": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 15373,
+    "type": "REN puis EL"
+  },
+  "569": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13712,
+    "type": "REN puis EL"
+  },
+  "570": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11808,
+    "type": "REN puis EL"
+  },
+  "571": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24240,
+    "type": "REN puis EL"
+  },
+  "572": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 30245,
+    "type": "REN puis EL"
+  },
+  "573": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24240,
+    "type": "REN puis EL"
+  },
+  "574": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 26669,
+    "type": "REN puis EL"
+  },
+  "575": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24240,
+    "type": "REN puis EL"
+  },
+  "576": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 30652,
+    "type": "REN puis EL"
+  },
+  "577": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24240,
+    "type": "REN puis EL"
+  },
+  "578": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 27425,
+    "type": "REN puis EL"
+  },
+  "579": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 19801,
+    "type": "REN puis EL"
+  },
+  "580": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 28083,
+    "type": "REN puis EL"
+  },
+  "581": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 19801,
+    "type": "REN puis EL"
+  },
+  "582": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 19656,
+    "type": "REN puis EL"
+  },
+  "583": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 19801,
+    "type": "REN puis EL"
+  },
+  "584": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 33324,
+    "type": "REN puis EL"
+  },
+  "585": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 19801,
+    "type": "REN puis EL"
+  },
+  "586": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 17991,
+    "type": "REN puis EL"
+  },
+  "587": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 10790,
+    "type": "REN puis EL"
+  },
+  "588": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 11981,
+    "type": "REN puis EL"
+  },
+  "589": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 10790,
+    "type": "REN puis EL"
+  },
+  "590": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10364,
+    "type": "REN puis EL"
+  },
+  "591": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 10790,
+    "type": "REN puis EL"
+  },
+  "592": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 9744,
+    "type": "REN puis EL"
+  },
+  "593": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 10790,
+    "type": "REN puis EL"
+  },
+  "594": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11980,
+    "type": "REN puis EL"
+  },
+  "595": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 7978,
+    "type": "REN puis EL"
+  },
+  "596": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9433,
+    "type": "REN puis EL"
+  },
+  "597": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 7978,
+    "type": "REN puis EL"
+  },
+  "598": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6586,
+    "type": "REN puis EL"
+  },
+  "599": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 7978,
+    "type": "REN puis EL"
+  },
+  "600": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6770,
+    "type": "REN puis EL"
+  },
+  "601": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 7978,
+    "type": "REN puis EL"
+  },
+  "602": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 9901,
+    "type": "REN puis EL"
+  },
+  "603": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4457,
+    "type": "REN puis EL"
+  },
+  "604": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5562,
+    "type": "REN puis EL"
+  },
+  "605": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4457,
+    "type": "REN puis EL"
+  },
+  "606": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 3982,
+    "type": "REN puis EL"
+  },
+  "607": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4457,
+    "type": "REN puis EL"
+  },
+  "608": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4524,
+    "type": "REN puis EL"
+  },
+  "609": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4457,
+    "type": "REN puis EL"
+  },
+  "610": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 5991,
+    "type": "REN puis EL"
+  },
+  "611": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7508,
+    "type": "REN puis EL"
+  },
+  "612": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 21187,
+    "type": "REN puis EL"
+  },
+  "613": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7508,
+    "type": "REN puis EL"
+  },
+  "614": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 15872,
+    "type": "REN puis EL"
+  },
+  "615": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7508,
+    "type": "REN puis EL"
+  },
+  "616": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 17140,
+    "type": "REN puis EL"
+  },
+  "617": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7508,
+    "type": "REN puis EL"
+  },
+  "618": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 21283,
+    "type": "REN puis EL"
+  },
+  "619": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 9163,
+    "type": "REN puis EL"
+  },
+  "620": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9832,
+    "type": "REN puis EL"
+  },
+  "621": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 9163,
+    "type": "REN puis EL"
+  },
+  "622": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11066,
+    "type": "REN puis EL"
+  },
+  "623": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 9163,
+    "type": "REN puis EL"
+  },
+  "624": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6969,
+    "type": "REN puis EL"
+  },
+  "625": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 9163,
+    "type": "REN puis EL"
+  },
+  "626": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9948,
+    "type": "REN puis EL"
+  },
+  "627": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13257,
+    "type": "REN puis EL"
+  },
+  "628": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 18452,
+    "type": "REN puis EL"
+  },
+  "629": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13257,
+    "type": "REN puis EL"
+  },
+  "630": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 18436,
+    "type": "REN puis EL"
+  },
+  "631": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13257,
+    "type": "REN puis EL"
+  },
+  "632": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11118,
+    "type": "REN puis EL"
+  },
+  "633": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13257,
+    "type": "REN puis EL"
+  },
+  "634": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 16967,
+    "type": "REN puis EL"
+  },
+  "635": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3704,
+    "type": "REN puis EL"
+  },
+  "636": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 6691,
+    "type": "REN puis EL"
+  },
+  "637": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3704,
+    "type": "REN puis EL"
+  },
+  "638": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 7292,
+    "type": "REN puis EL"
+  },
+  "639": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3704,
+    "type": "REN puis EL"
+  },
+  "640": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5771,
+    "type": "REN puis EL"
+  },
+  "641": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3704,
+    "type": "REN puis EL"
+  },
+  "642": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 6342,
+    "type": "REN puis EL"
+  },
+  "643": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8086,
+    "type": "REN puis EL"
+  },
+  "644": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11405,
+    "type": "REN puis EL"
+  },
+  "645": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8086,
+    "type": "REN puis EL"
+  },
+  "646": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 11324,
+    "type": "REN puis EL"
+  },
+  "647": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8086,
+    "type": "REN puis EL"
+  },
+  "648": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9269,
+    "type": "REN puis EL"
+  },
+  "649": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8086,
+    "type": "REN puis EL"
+  },
+  "650": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 7864,
+    "type": "REN puis EL"
+  },
+  "651": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 14893,
+    "type": "REN puis EL"
+  },
+  "652": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 19683,
+    "type": "REN puis EL"
+  },
+  "653": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 14893,
+    "type": "REN puis EL"
+  },
+  "654": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 16538,
+    "type": "REN puis EL"
+  },
+  "655": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 14893,
+    "type": "REN puis EL"
+  },
+  "656": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 18790,
+    "type": "REN puis EL"
+  },
+  "657": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 14893,
+    "type": "REN puis EL"
+  },
+  "658": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 19034,
+    "type": "REN puis EL"
+  },
+  "659": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 25641,
+    "type": "REN puis EL"
+  },
+  "660": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 34548,
+    "type": "REN puis EL"
+  },
+  "661": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 25641,
+    "type": "REN puis EL"
+  },
+  "662": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 28892,
+    "type": "REN puis EL"
+  },
+  "663": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 25641,
+    "type": "REN puis EL"
+  },
+  "664": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 27833,
+    "type": "REN puis EL"
+  },
+  "665": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 25641,
+    "type": "REN puis EL"
+  },
+  "666": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 30859,
+    "type": "REN puis EL"
+  },
+  "667": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "REN puis EL"
+  },
+  "668": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 32303,
+    "type": "REN puis EL"
+  },
+  "669": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "REN puis EL"
+  },
+  "670": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 32524,
+    "type": "REN puis EL"
+  },
+  "671": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "REN puis EL"
+  },
+  "672": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 31917,
+    "type": "REN puis EL"
+  },
+  "673": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 16643,
+    "type": "REN puis EL"
+  },
+  "674": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 29401,
+    "type": "REN puis EL"
+  },
+  "675": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11535,
+    "type": "REN puis EL"
+  },
+  "676": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 13536,
+    "type": "REN puis EL"
+  },
+  "677": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11535,
+    "type": "REN puis EL"
+  },
+  "678": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9864,
+    "type": "REN puis EL"
+  },
+  "679": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11535,
+    "type": "REN puis EL"
+  },
+  "680": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 14974,
+    "type": "REN puis EL"
+  },
+  "681": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11535,
+    "type": "REN puis EL"
+  },
+  "682": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 13601,
+    "type": "REN puis EL"
+  },
+  "683": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 8381,
+    "type": "REN puis EL"
+  },
+  "684": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10463,
+    "type": "REN puis EL"
+  },
+  "685": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 8381,
+    "type": "REN puis EL"
+  },
+  "686": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6524,
+    "type": "REN puis EL"
+  },
+  "687": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 8381,
+    "type": "REN puis EL"
+  },
+  "688": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 10473,
+    "type": "REN puis EL"
+  },
+  "689": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 8381,
+    "type": "REN puis EL"
+  },
+  "690": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11484,
+    "type": "REN puis EL"
+  },
+  "691": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "REN puis EL"
+  },
+  "692": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5434,
+    "type": "REN puis EL"
+  },
+  "693": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "REN puis EL"
+  },
+  "694": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 5479,
+    "type": "REN puis EL"
+  },
+  "695": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "REN puis EL"
+  },
+  "696": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 4135,
+    "type": "REN puis EL"
+  },
+  "697": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 3720,
+    "type": "REN puis EL"
+  },
+  "698": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 3950,
+    "type": "REN puis EL"
+  },
+  "699": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7629,
+    "type": "REN puis EL"
+  },
+  "700": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 12846,
+    "type": "REN puis EL"
+  },
+  "701": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7629,
+    "type": "REN puis EL"
+  },
+  "702": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 10652,
+    "type": "REN puis EL"
+  },
+  "703": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7629,
+    "type": "REN puis EL"
+  },
+  "704": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 10405,
+    "type": "REN puis EL"
+  },
+  "705": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7629,
+    "type": "REN puis EL"
+  },
+  "706": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 12852,
+    "type": "REN puis EL"
+  },
+  "707": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8539,
+    "type": "REN puis EL"
+  },
+  "708": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 11900,
+    "type": "REN puis EL"
+  },
+  "709": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8539,
+    "type": "REN puis EL"
+  },
+  "710": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 10166,
+    "type": "REN puis EL"
+  },
+  "711": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8539,
+    "type": "REN puis EL"
+  },
+  "712": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 9428,
+    "type": "REN puis EL"
+  },
+  "713": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_REF.txt",
+    "nb entit\u00e9s reconnues": 8539,
+    "type": "REN puis EL"
+  },
+  "714": {
+    "Mod\u00e8le": "md",
+    "Fichier": "CARRAUD_petite-Jeanne_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9401,
+    "type": "REN puis EL"
+  },
+  "715": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13356,
+    "type": "REN puis EL"
+  },
+  "716": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 16697,
+    "type": "REN puis EL"
+  },
+  "717": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13356,
+    "type": "REN puis EL"
+  },
+  "718": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 16748,
+    "type": "REN puis EL"
+  },
+  "719": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13356,
+    "type": "REN puis EL"
+  },
+  "720": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 15220,
+    "type": "REN puis EL"
+  },
+  "721": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_REF.txt",
+    "nb entit\u00e9s reconnues": 13356,
+    "type": "REN puis EL"
+  },
+  "722": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_les-trappeurs_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 14439,
+    "type": "REN puis EL"
+  },
+  "723": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3620,
+    "type": "REN puis EL"
+  },
+  "724": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 4898,
+    "type": "REN puis EL"
+  },
+  "725": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3620,
+    "type": "REN puis EL"
+  },
+  "726": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesserat-PNG.txt",
+    "nb entit\u00e9s reconnues": 5887,
+    "type": "REN puis EL"
+  },
+  "727": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3620,
+    "type": "REN puis EL"
+  },
+  "728": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6417,
+    "type": "REN puis EL"
+  },
+  "729": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3620,
+    "type": "REN puis EL"
+  },
+  "730": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 5287,
+    "type": "REN puis EL"
+  },
+  "731": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8037,
+    "type": "REN puis EL"
+  },
+  "732": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9748,
+    "type": "REN puis EL"
+  },
+  "733": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8037,
+    "type": "REN puis EL"
+  },
+  "734": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 9781,
+    "type": "REN puis EL"
+  },
+  "735": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8037,
+    "type": "REN puis EL"
+  },
+  "736": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 9581,
+    "type": "REN puis EL"
+  },
+  "737": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_REF.txt",
+    "nb entit\u00e9s reconnues": 8037,
+    "type": "REN puis EL"
+  },
+  "738": {
+    "Mod\u00e8le": "md",
+    "Fichier": "NOAILLES_la-nouvelle-esperance_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 10445,
+    "type": "REN puis EL"
+  },
+  "739": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13787,
+    "type": "REN puis EL"
+  },
+  "740": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 11777,
+    "type": "REN puis EL"
+  },
+  "741": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13787,
+    "type": "REN puis EL"
+  },
+  "742": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 12590,
+    "type": "REN puis EL"
+  },
+  "743": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13787,
+    "type": "REN puis EL"
+  },
+  "744": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 15459,
+    "type": "REN puis EL"
+  },
+  "745": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_REF.txt",
+    "nb entit\u00e9s reconnues": 13787,
+    "type": "REN puis EL"
+  },
+  "746": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DAUDET_petit-chose_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 11990,
+    "type": "REN puis EL"
+  },
+  "747": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24574,
+    "type": "REN puis EL"
+  },
+  "748": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 29917,
+    "type": "REN puis EL"
+  },
+  "749": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24574,
+    "type": "REN puis EL"
+  },
+  "750": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 26949,
+    "type": "REN puis EL"
+  },
+  "751": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24574,
+    "type": "REN puis EL"
+  },
+  "752": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 30353,
+    "type": "REN puis EL"
+  },
+  "753": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_REF.txt",
+    "nb entit\u00e9s reconnues": 24574,
+    "type": "REN puis EL"
+  },
+  "754": {
+    "Mod\u00e8le": "md",
+    "Fichier": "FLAUBERT_education-sentimentale_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 28014,
+    "type": "REN puis EL"
+  },
+  "755": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 20189,
+    "type": "REN puis EL"
+  },
+  "756": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 28712,
+    "type": "REN puis EL"
+  },
+  "757": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 20189,
+    "type": "REN puis EL"
+  },
+  "758": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-rivi\u00e8re_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 28827,
+    "type": "REN puis EL"
+  },
+  "759": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 20189,
+    "type": "REN puis EL"
+  },
+  "760": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 22233,
+    "type": "REN puis EL"
+  },
+  "761": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_REF.txt",
+    "nb entit\u00e9s reconnues": 20189,
+    "type": "REN puis EL"
+  },
+  "762": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AIMARD_belle-riviere_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 17687,
+    "type": "REN puis EL"
+  },
+  "763": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11023,
+    "type": "REN puis EL"
+  },
+  "764": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 12020,
+    "type": "REN puis EL"
+  },
+  "765": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11023,
+    "type": "REN puis EL"
+  },
+  "766": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 14573,
+    "type": "REN puis EL"
+  },
+  "767": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11023,
+    "type": "REN puis EL"
+  },
+  "768": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 12948,
+    "type": "REN puis EL"
+  },
+  "769": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_REF.txt",
+    "nb entit\u00e9s reconnues": 11023,
+    "type": "REN puis EL"
+  },
+  "770": {
+    "Mod\u00e8le": "md",
+    "Fichier": "MAUPASSANT_une-vie_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 12006,
+    "type": "REN puis EL"
+  },
+  "771": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "REN puis EL"
+  },
+  "772": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 9408,
+    "type": "REN puis EL"
+  },
+  "773": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "REN puis EL"
+  },
+  "774": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 6750,
+    "type": "REN puis EL"
+  },
+  "775": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "REN puis EL"
+  },
+  "776": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_TesseractFra-BIN.txt",
+    "nb entit\u00e9s reconnues": 6726,
+    "type": "REN puis EL"
+  },
+  "777": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_REF.txt",
+    "nb entit\u00e9s reconnues": 5847,
+    "type": "REN puis EL"
+  },
+  "778": {
+    "Mod\u00e8le": "md",
+    "Fichier": "DASH_chateau-de-Pinon-V1_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 9968,
+    "type": "REN puis EL"
+  },
+  "779": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4569,
+    "type": "REN puis EL"
+  },
+  "780": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 5586,
+    "type": "REN puis EL"
+  },
+  "781": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4569,
+    "type": "REN puis EL"
+  },
+  "782": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 5218,
+    "type": "REN puis EL"
+  },
+  "783": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4569,
+    "type": "REN puis EL"
+  },
+  "784": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 6502,
+    "type": "REN puis EL"
+  },
+  "785": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_REF.txt",
+    "nb entit\u00e9s reconnues": 4569,
+    "type": "REN puis EL"
+  },
+  "786": {
+    "Mod\u00e8le": "md",
+    "Fichier": "AUDOUX_Marie-Claire_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 6013,
+    "type": "REN puis EL"
+  },
+  "787": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7533,
+    "type": "REN puis EL"
+  },
+  "788": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-PNG.txt",
+    "nb entit\u00e9s reconnues": 20820,
+    "type": "REN puis EL"
+  },
+  "789": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7533,
+    "type": "REN puis EL"
+  },
+  "790": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_TesseractFra-PNG.txt",
+    "nb entit\u00e9s reconnues": 15584,
+    "type": "REN puis EL"
+  },
+  "791": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7533,
+    "type": "REN puis EL"
+  },
+  "792": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Kraken-base.txt",
+    "nb entit\u00e9s reconnues": 17180,
+    "type": "REN puis EL"
+  },
+  "793": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_REF.txt",
+    "nb entit\u00e9s reconnues": 7533,
+    "type": "REN puis EL"
+  },
+  "794": {
+    "Mod\u00e8le": "md",
+    "Fichier": "BALZAC_Savarus_Tesseract-BIN.txt",
+    "nb entit\u00e9s reconnues": 20804,
+    "type": "REN puis EL"
+  }
+}

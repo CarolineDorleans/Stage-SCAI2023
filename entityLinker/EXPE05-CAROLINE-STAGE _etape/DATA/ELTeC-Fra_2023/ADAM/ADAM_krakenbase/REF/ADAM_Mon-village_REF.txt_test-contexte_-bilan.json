@@ -1,0 +1,56 @@
+{
+  "0": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 455,
+    "type": "EL puis REN"
+  },
+  "1": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 509,
+    "type": "EL puis REN"
+  },
+  "2": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 513,
+    "type": "EL puis REN"
+  },
+  "3": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2621,
+    "type": "EL sans REN"
+  },
+  "4": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2693,
+    "type": "EL sans REN"
+  },
+  "5": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 2686,
+    "type": "EL sans REN"
+  },
+  "6": {
+    "Mod\u00e8le": "lg",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3526,
+    "type": "REN puis EL"
+  },
+  "7": {
+    "Mod\u00e8le": "sm",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3704,
+    "type": "REN puis EL"
+  },
+  "8": {
+    "Mod\u00e8le": "md",
+    "Fichier": "ADAM_Mon-village_REF.txt",
+    "nb entit\u00e9s reconnues": 3620,
+    "type": "REN puis EL"
+  }
+}

@@ -1,0 +1,3558 @@
+{
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q21450529",
+    "span": "Duclos",
+    "label": "Duclos",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q3822506",
+    "span": "gar\u00e7onni\u00e8re",
+    "label": "La gar\u00e7onni\u00e8re",
+    "description": "1960 film by Giuseppe De Santis",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q182744",
+    "span": "Saint-Quentin",
+    "label": "Saint-Quentin",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q2961656",
+    "span": "Chausson",
+    "label": "Chausson",
+    "description": "French manufacturer of recreational vehicles",
+    "type": "PER"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q190531",
+    "span": "Fondue",
+    "label": "fondue",
+    "description": "dish of melted cheese",
+    "type": "LOC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q1013514",
+    "span": "Vieux",
+    "label": "Vieux",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q178122",
+    "span": "aria",
+    "label": "aria",
+    "description": "musical piece for a single voice as part of a larger work",
+    "type": "LOC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q7277413",
+    "span": "ROSE",
+    "label": "ROSE",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q180887",
+    "span": "Maman",
+    "label": "Maman",
+    "description": "sculpture by Louise Bourgeois",
+    "type": "PER"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "MONSIEUR",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "ORG"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q60797",
+    "span": "sermon",
+    "label": "sermon",
+    "description": "oration by a member of the clergy",
+    "type": "PER"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q20995925",
+    "span": "buis",
+    "label": "Buis",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q20995925",
+    "span": "buis",
+    "label": "Buis",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q457002",
+    "span": "Riez",
+    "label": "Riez",
+    "description": "commune in Alpes-de-Haute-Provence, France",
+    "type": "PER"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q60797",
+    "span": "sermon",
+    "label": "sermon",
+    "description": "oration by a member of the clergy",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q511777",
+    "span": "renie",
+    "label": "Reni\u00e9",
+    "description": "Hollywood costume designer",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q448910",
+    "span": "Doroth\u00e9e",
+    "label": "Doroth\u00e9e",
+    "description": "French singer and TV presenter",
+    "type": "PER"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q385720",
+    "span": "PIGNON",
+    "label": "Pignon",
+    "description": "human settlement",
+    "type": "ORG"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00c9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q58373",
+    "span": "Amen",
+    "label": "Amun",
+    "description": "Egyptian and Berber deity",
+    "type": "MISC"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "MADAME",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q56539707",
+    "span": "MAIRESSE",
+    "label": "Mairesse",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q3577064",
+    "span": "\u00c2me",
+    "label": "\u00c2me",
+    "description": "German house/techno duo",
+    "type": "ORG"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q5962411",
+    "span": "CONSCRIPTION",
+    "label": "Conscription in Iran",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q581707",
+    "span": "Sainte-Radegonde",
+    "label": "Sainte-Radegonde",
+    "description": "commune in Gironde, France",
+    "type": "LOC"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q1145140",
+    "span": "corbeau",
+    "label": "Le Corbeau",
+    "description": "1943 film by Henri-Georges Clouzot",
+    "type": "PER"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q3561465",
+    "span": "Vive la France",
+    "label": "Vive la France",
+    "description": "2013 French comedy film directed by Micha\u00ebl Youn",
+    "type": "LOC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q18002795",
+    "span": "REVENANT",
+    "label": "The Revenant",
+    "description": "2015 film by Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+    "type": "ORG"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q1003503",
+    "span": "courtils",
+    "label": "Courtils",
+    "description": "commune in Manche, France",
+    "type": "LOC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q27477490",
+    "span": "NOCES",
+    "label": "A Wedding",
+    "description": "2016 film by Stephan Streker",
+    "type": "MISC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q212420",
+    "span": "Sens",
+    "label": "Sens",
+    "description": "commune in Yonne, France",
+    "type": "LOC"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q117934",
+    "span": "Tour",
+    "label": "The Tour",
+    "description": "2008 film by Goran Markovi\u0107",
+    "type": "LOC"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q111",
+    "span": "mars",
+    "label": "Mars",
+    "description": "fourth planet from the Sun",
+    "type": "PER"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q7192558",
+    "span": "Pierrette",
+    "label": "Pierrette",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q5480752",
+    "span": "douce",
+    "label": "Francis Douce",
+    "description": "English antiquary",
+    "type": "PER"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q1234920",
+    "span": "colonne",
+    "label": "Colonne",
+    "description": "commune in Jura, France",
+    "type": "LOC"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q214575",
+    "span": "Vend\u00f4me",
+    "label": "Vend\u00f4me",
+    "description": "commune in Loir-et-Cher, France",
+    "type": "LOC"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q2102344",
+    "span": "Royal",
+    "label": "Koninklijk",
+    "description": "honorary title for companies and organizations in Belgium and the Netherlands",
+    "type": "PER"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q2102344",
+    "span": "Royal",
+    "label": "Koninklijk",
+    "description": "honorary title for companies and organizations in Belgium and the Netherlands",
+    "type": "PER"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q37136",
+    "span": "XI",
+    "label": "11",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q22661961",
+    "span": "Alerte",
+    "label": "HMS Alert",
+    "description": "",
+    "type": "PER"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q22661961",
+    "span": "Alerte",
+    "label": "HMS Alert",
+    "description": "",
+    "type": "PER"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q742227",
+    "span": "Assis",
+    "label": "Assis",
+    "description": "municipality in the state of S\u00e3o Paulo in Brazil",
+    "type": "PER"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q3527389",
+    "span": "R\u00e9volution",
+    "label": "Th\u00e9s\u00e9e",
+    "description": "French warship of 1790",
+    "type": "MISC"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q61668028",
+    "span": "Cadet",
+    "label": "Blaine Johnson",
+    "description": "British rapper",
+    "type": "PER"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q4696777",
+    "span": "aides",
+    "label": "Aides",
+    "description": "genus of insects",
+    "type": "PER"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q511777",
+    "span": "renie",
+    "label": "Reni\u00e9",
+    "description": "Hollywood costume designer",
+    "type": "PER"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q19898149",
+    "span": "V\u00e9nus",
+    "label": "Venus",
+    "description": "1929 film by Louis Mercanton",
+    "type": "LOC"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q19877407",
+    "span": "B\u00e9r\u00e9nice",
+    "label": "B\u00e9r\u00e9nice",
+    "description": "opera",
+    "type": "LOC"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q2941296",
+    "span": "Cassiop\u00e9e",
+    "label": "Cassiop\u00e9e",
+    "description": "Canadian singer",
+    "type": "LOC"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q6587194",
+    "span": "centre",
+    "label": "centrism",
+    "description": "describes a political outlook or specific position",
+    "type": "LOC"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q7835862",
+    "span": "TRAVAIL",
+    "label": "Travail",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  }
+}

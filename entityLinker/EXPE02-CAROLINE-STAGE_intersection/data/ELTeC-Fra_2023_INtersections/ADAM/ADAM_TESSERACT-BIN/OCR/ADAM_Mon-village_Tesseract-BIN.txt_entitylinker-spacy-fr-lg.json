@@ -1,0 +1,2403 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q244323",
+    "span": "v4",
+    "label": "Visegr\u00e1d Group",
+    "description": "intergovernmental organization",
+    "type": "MISC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q21473986",
+    "span": "q.",
+    "label": "Quintus",
+    "description": "Roman praenomen",
+    "type": "ORG"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q33788",
+    "span": "nc",
+    "label": "New Caledonia",
+    "description": "overseas territory of France in the southwest Pacific Ocean",
+    "type": "ORG"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q281096",
+    "span": "nt",
+    "label": "candela per square metre",
+    "description": "SI derived unit of luminance",
+    "type": "MISC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q1073512",
+    "span": "CSSC",
+    "label": "China State Shipbuilding Corporation",
+    "description": "company",
+    "type": "ORG"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q1343179",
+    "span": "tor",
+    "label": "tor",
+    "description": "large, free-standing rock outcrop that rises abruptly from the surrounding smooth and gentle slopes of a rounded hill summit or ridge crest",
+    "type": "MISC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q451580",
+    "span": "ine",
+    "label": "Ine",
+    "description": "King of Wessex",
+    "type": "ORG"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q1138185",
+    "span": "L7",
+    "label": "L7",
+    "description": "band",
+    "type": "ORG"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q4998049",
+    "span": "Bur",
+    "label": "Bur",
+    "description": "locality in Yemen",
+    "type": "PER"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q34138",
+    "span": "tum",
+    "label": "Tumbuka",
+    "description": "Niger-Congo language originating in parts of Malawi, Zambia, and Tanzania",
+    "type": "ORG"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q33788",
+    "span": "nc",
+    "label": "New Caledonia",
+    "description": "overseas territory of France in the southwest Pacific Ocean",
+    "type": "ORG"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q1803025",
+    "span": "gator",
+    "label": "Landing Vehicle Tracked",
+    "description": "class of amphibious warfare vehicle",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q980534",
+    "span": "Clarissa",
+    "label": "Clarissa",
+    "description": "epistolary novel by Samuel Richardson",
+    "type": "MISC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q20463713",
+    "span": "c3",
+    "label": "S3",
+    "description": "2016 Indian Tamil action film directed by Hari",
+    "type": "ORG"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q58373",
+    "span": "Amen",
+    "label": "Amun",
+    "description": "Egyptian and Berber deity",
+    "type": "MISC"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q56539707",
+    "span": "MAIRESSE",
+    "label": "Mairesse",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q1144202",
+    "span": "VI",
+    "label": "VI",
+    "description": "album by Circle Jerks",
+    "type": "PER"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q6713927",
+    "span": "M7",
+    "label": "M7",
+    "description": "Railcar of the Long Island Rail Road (LIRR) and the Metro North Railroad",
+    "type": "MISC"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q14864152",
+    "span": "k7",
+    "label": "KRT7",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "ORG"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q31482",
+    "span": "ter",
+    "label": "Ter",
+    "description": "river in Catalonia, Spain",
+    "type": "ORG"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q1827715",
+    "span": "ler",
+    "label": "Ler",
+    "description": "sea god in Irish mythology, also known as Lir",
+    "type": "LOC"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q19654399",
+    "span": "scs",
+    "label": "ScS",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q7804",
+    "span": "IMF",
+    "label": "International Monetary Fund",
+    "description": "international organisation",
+    "type": "ORG"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q1484457",
+    "span": "Joan",
+    "label": "Joan",
+    "description": "unisex given name",
+    "type": "MISC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q17100626",
+    "span": "IEL",
+    "label": "intraepithelial lymphocyte",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q767627",
+    "span": "JQ",
+    "label": "Jetstar Airways",
+    "description": "Australian low-cost airline",
+    "type": "ORG"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q627",
+    "span": "N",
+    "label": "nitrogen",
+    "description": "element with the atomic number of 7",
+    "type": "LOC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q16890578",
+    "span": "Hi",
+    "label": "Germ\u00e1n Garmendia",
+    "description": "Chilean singer and YouTube comedian",
+    "type": "MISC"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q42132",
+    "span": "up",
+    "label": "eup",
+    "description": "administrative unit in North and South Korea similar to the unit of town",
+    "type": "ORG"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q7192558",
+    "span": "Pierrette",
+    "label": "Pierrette",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q1408",
+    "span": "NJ",
+    "label": "New Jersey",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q214575",
+    "span": "VendOme",
+    "label": "Vend\u00f4me",
+    "description": "commune in Loir-et-Cher, France",
+    "type": "MISC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q1461413",
+    "span": "MOISSON",
+    "label": "Moisson",
+    "description": "commune in Yvelines, France",
+    "type": "LOC"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q1461413",
+    "span": "MOISSON",
+    "label": "Moisson",
+    "description": "commune in Yvelines, France",
+    "type": "LOC"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q10934",
+    "span": "m1",
+    "label": "Crab Nebula",
+    "description": "Supernova remnant",
+    "type": "MISC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "MISC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q623",
+    "span": "C",
+    "label": "carbon",
+    "description": "chemical element with the atomic number of 6",
+    "type": "MISC"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q17100626",
+    "span": "IEL",
+    "label": "intraepithelial lymphocyte",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q23350",
+    "span": "M3",
+    "label": "7",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q19898149",
+    "span": "V\u00e9nus",
+    "label": "Venus",
+    "description": "1929 film by Louis Mercanton",
+    "type": "LOC"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q627",
+    "span": "N",
+    "label": "nitrogen",
+    "description": "element with the atomic number of 7",
+    "type": "LOC"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q1049511",
+    "span": "WA",
+    "label": "WhatsApp",
+    "description": "Facebook-owned mobile instant messenger and social media service",
+    "type": "LOC"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q131454",
+    "span": "LC",
+    "label": "Library of Congress",
+    "description": "(de facto) national library of the United States of America",
+    "type": "MISC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  }
+}

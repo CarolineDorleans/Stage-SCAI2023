@@ -1,0 +1,6918 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q1241308",
+    "span": "Passy",
+    "label": "Passy",
+    "description": "former commune in Seine, France",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q4949702",
+    "span": "Boulogne",
+    "label": "Boulogne",
+    "description": "unincorporated community in Florida",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q2438046",
+    "span": "Arc",
+    "label": "Arc",
+    "description": "dialect of the Lisp programming language.",
+    "type": "LOC"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q2958359",
+    "span": "Charles",
+    "label": "Charles",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q35802",
+    "span": "Spinoza",
+    "label": "Benedictus de Spinoza",
+    "description": "Dutch philosopher",
+    "type": "PER"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q605051",
+    "span": "Touraine",
+    "label": "Touraine",
+    "description": "traditional province of France",
+    "type": "LOC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00c9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q220",
+    "span": "Rome",
+    "label": "Rome",
+    "description": "capital and largest city of Italy",
+    "type": "LOC"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q420128",
+    "span": "Mauri",
+    "label": "Mauri",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q605051",
+    "span": "Touraine",
+    "label": "Touraine",
+    "description": "traditional province of France",
+    "type": "LOC"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q1098820",
+    "span": "G\u00eanes",
+    "label": "G\u00eanes",
+    "description": "former French department in Italy (1805-1814)",
+    "type": "LOC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q26849",
+    "span": "Vienne",
+    "label": "Vienne",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q255",
+    "span": "Beethoven",
+    "label": "Ludwig van Beethoven",
+    "description": "German classical and romantic composer",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q21507916",
+    "span": "Michelet",
+    "label": "Michelet",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q21450735",
+    "span": "Faur\u00e9",
+    "label": "Faur\u00e9",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q42053",
+    "span": "Ispahan",
+    "label": "Isfahan",
+    "description": "capital of Isfahan Province in Iran",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q205653",
+    "span": "Orient",
+    "label": "Orient",
+    "description": "term for the Eastern world",
+    "type": "MISC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q6731851",
+    "span": "magnolia",
+    "label": "magnolia",
+    "description": "color named after the flowering plant of the genus Magnolia",
+    "type": "LOC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q7738",
+    "span": "Louis XV",
+    "label": "Louis XV of France",
+    "description": "Bourbon monarch who ruled as King of France and of Navarre 1715-1774",
+    "type": "PER"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q4949702",
+    "span": "Boulogne",
+    "label": "Boulogne",
+    "description": "unincorporated community in Florida",
+    "type": "LOC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q687",
+    "span": "Moli\u00e8re",
+    "label": "Moli\u00e8re",
+    "description": "French playwright and actor",
+    "type": "PER"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q3527366",
+    "span": "Th\u00e9r\u00e8se",
+    "label": "In Secret",
+    "description": "2013 film",
+    "type": "PER"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q1005702",
+    "span": "HENRIETTE",
+    "label": "Henriette",
+    "description": "city in Minnesota, United States",
+    "type": "MISC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "FONTENAY",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q2946",
+    "span": "Versailles",
+    "label": "Palace of Versailles",
+    "description": "palace in Versailles, France and location of the Museum of the History of France",
+    "type": "LOC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q12675",
+    "span": "Oise",
+    "label": "Oise",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q35500",
+    "span": "Aphrodite",
+    "label": "Aphrodite",
+    "description": "Greek goddess of love, beauty, pleasure, and procreation",
+    "type": "PER"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q9068",
+    "span": "Voltaire",
+    "label": "Voltaire",
+    "description": "French writer, historian, and philosopher",
+    "type": "PER"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q2102884",
+    "span": "Rameau",
+    "label": "Rameau",
+    "description": "crater on Mercury",
+    "type": "PER"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q183221",
+    "span": "Watteau",
+    "label": "Antoine Watteau",
+    "description": "French painter of the Rococo era",
+    "type": "PER"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q205653",
+    "span": "Orient",
+    "label": "Orient",
+    "description": "term for the Eastern world",
+    "type": "MISC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q7428771",
+    "span": "Saxe",
+    "label": "Saxe",
+    "description": "unincorporated community in Virginia",
+    "type": "LOC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q7738",
+    "span": "Louis XV",
+    "label": "Louis XV of France",
+    "description": "Bourbon monarch who ruled as King of France and of Navarre 1715-1774",
+    "type": "PER"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q57302",
+    "span": "Adolphe",
+    "label": "Adolphe",
+    "description": "Duke of Nassau (1839\u20131966), later Grand Duke of Luxembourg (1890\u20131905)",
+    "type": "MISC"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q697681",
+    "span": "Constant",
+    "label": "Constant Nieuwenhuys",
+    "description": "Dutch painter",
+    "type": "PER"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q926468",
+    "span": "Werther",
+    "label": "Werther",
+    "description": "1892 opera by Jules Massenet",
+    "type": "PER"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q842063",
+    "span": "Manon",
+    "label": "Manon",
+    "description": "opera by Jules Massenet",
+    "type": "MISC"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q2044",
+    "span": "Florence",
+    "label": "Florence",
+    "description": "Italian city, located in Tuscany",
+    "type": "LOC"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q1241308",
+    "span": "Passy",
+    "label": "Passy",
+    "description": "former commune in Seine, France",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q501",
+    "span": "Baudelaire",
+    "label": "Charles Baudelaire",
+    "description": "French poet",
+    "type": "PER"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q7428771",
+    "span": "Saxe",
+    "label": "Saxe",
+    "description": "unincorporated community in Virginia",
+    "type": "LOC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q16763977",
+    "span": "Laurent",
+    "label": "Laurent",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q2624417",
+    "span": "Ren\u00e9",
+    "label": "Ren\u00e9",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q861715",
+    "span": "Marsan",
+    "label": "Marsan",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q732586",
+    "span": "noyers",
+    "label": "Noyers",
+    "description": "commune in Yonne, France",
+    "type": "LOC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q7885310",
+    "span": "\u00c8ve",
+    "label": "\u00c8ve",
+    "description": "oratorio in four parts by Jules Massenet",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q3058360",
+    "span": "Espagne",
+    "label": "SS Espagne",
+    "description": "11,155 GRT ocean liner which was built in 1909",
+    "type": "LOC"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q166791",
+    "span": "Grenade",
+    "label": "Grenade",
+    "description": "2010 song performed by Bruno Mars",
+    "type": "LOC"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q193929",
+    "span": "Suresnes",
+    "label": "Suresnes",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q206493",
+    "span": "S\u00e8vres",
+    "label": "S\u00e8vres",
+    "description": "Commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q1142",
+    "span": "Alsace",
+    "label": "Alsace",
+    "description": "former administrative region and former province of France",
+    "type": "LOC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q216004",
+    "span": "Heine",
+    "label": "Thomas Theodor Heine",
+    "description": "German artist",
+    "type": "PER"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q28052877",
+    "span": "Trocad\u00e9ro",
+    "label": "Trocad\u00e9ro",
+    "description": "site of the Palais de Chaillot in Paris, France",
+    "type": "LOC"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q9348",
+    "span": "Parme",
+    "label": "Parmigianino",
+    "description": "Italian Mannerist painter and printmaker (1503-1540)",
+    "type": "LOC"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q544220",
+    "span": "Anzin",
+    "label": "Anzin",
+    "description": "commune in Nord, France",
+    "type": "LOC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q21507916",
+    "span": "Michelet",
+    "label": "Michelet",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q184623",
+    "span": "Danton",
+    "label": "Georges Danton",
+    "description": "French revolutionary",
+    "type": "PER"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q856651",
+    "span": "Biblioth\u00e8que Nationale",
+    "label": "National Library of Luxembourg",
+    "description": "national library",
+    "type": "LOC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q926468",
+    "span": "Werther",
+    "label": "Werther",
+    "description": "1892 opera by Jules Massenet",
+    "type": "PER"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q2634",
+    "span": "Naples",
+    "label": "Naples",
+    "description": "city in Campania, Italy",
+    "type": "LOC"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q1130655",
+    "span": "cresson",
+    "label": "Cresson",
+    "description": "borough in Pennsylvania",
+    "type": "PER"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q11863640",
+    "span": "Hortense",
+    "label": "Hortense",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q193929",
+    "span": "Suresnes",
+    "label": "Suresnes",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q189153",
+    "span": "Saint-Cloud",
+    "label": "Saint-Cloud",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q206493",
+    "span": "S\u00e8vres",
+    "label": "S\u00e8vres",
+    "description": "Commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q205653",
+    "span": "Orient",
+    "label": "Orient",
+    "description": "term for the Eastern world",
+    "type": "MISC"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q1315624",
+    "span": "lanterne rouge",
+    "label": "Lanterne rouge",
+    "description": "last classified rider in a contest",
+    "type": "MISC"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q39",
+    "span": "Suisse",
+    "label": "Switzerland",
+    "description": "federal republic in Central Europe",
+    "type": "LOC"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q12675",
+    "span": "Oise",
+    "label": "Oise",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q728200",
+    "span": "Jean-Jacques",
+    "label": "Jean-Jacques",
+    "description": "French male given name",
+    "type": "PER"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q4256652",
+    "span": "Ferney",
+    "label": "Ferney",
+    "description": "unincorporated community in South Dakota",
+    "type": "LOC"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q4256652",
+    "span": "Ferney",
+    "label": "Ferney",
+    "description": "unincorporated community in South Dakota",
+    "type": "LOC"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q347699",
+    "span": "Perrault",
+    "label": "Claude Perrault",
+    "description": "French architect",
+    "type": "PER"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q4256652",
+    "span": "Ferney",
+    "label": "Ferney",
+    "description": "unincorporated community in South Dakota",
+    "type": "LOC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q179700",
+    "span": "statue",
+    "label": "statue",
+    "description": "sculpture primarily concerned as a representational figure",
+    "type": "LOC"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q9068",
+    "span": "Voltaire",
+    "label": "Voltaire",
+    "description": "French writer, historian, and philosopher",
+    "type": "PER"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q807",
+    "span": "Lausanne",
+    "label": "Lausanne",
+    "description": "capital city of the Swiss Canton of Vaud",
+    "type": "LOC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q1166840",
+    "span": "Fran\u00e7ois",
+    "label": "Fran\u00e7ois",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q64",
+    "span": "Berlin",
+    "label": "Berlin",
+    "description": "capital and largest city of Germany",
+    "type": "LOC"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q1216951",
+    "span": "Tournon",
+    "label": "Tournon",
+    "description": "commune in Savoie, France",
+    "type": "LOC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q787629",
+    "span": "Jean-Bart",
+    "label": "Jean-Bart",
+    "description": "automobile manufacturer",
+    "type": "PER"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q787629",
+    "span": "Jean-Bart",
+    "label": "Jean-Bart",
+    "description": "automobile manufacturer",
+    "type": "PER"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q32",
+    "span": "Luxembourg",
+    "label": "Luxembourg",
+    "description": "country in Western Europe",
+    "type": "LOC"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q1216951",
+    "span": "Tournon",
+    "label": "Tournon",
+    "description": "commune in Savoie, France",
+    "type": "LOC"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q30042309",
+    "span": "Anatolie",
+    "label": "Anatolie",
+    "description": "male given name",
+    "type": "LOC"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q21507916",
+    "span": "Michelet",
+    "label": "Michelet",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q9711",
+    "span": "Balzac",
+    "label": "Honor\u00e9 de Balzac",
+    "description": "French writer",
+    "type": "PER"
+  },
+  "ID785": {
+    "url": "https://www.wikidata.org/wiki/Q955386",
+    "span": "Rolla",
+    "label": "Rolla",
+    "description": "city in Phelps County, Missouri, United States",
+    "type": "PER"
+  },
+  "ID786": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID787": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID788": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID789": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID790": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID791": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID792": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID793": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID794": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID795": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID796": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID797": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID798": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID799": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID800": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID801": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID802": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID803": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID804": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID805": {
+    "url": "https://www.wikidata.org/wiki/Q2946",
+    "span": "Versailles",
+    "label": "Palace of Versailles",
+    "description": "palace in Versailles, France and location of the Museum of the History of France",
+    "type": "LOC"
+  },
+  "ID806": {
+    "url": "https://www.wikidata.org/wiki/Q187843",
+    "span": "Vosges",
+    "label": "Vosges Mountains",
+    "description": "low mountain range in France",
+    "type": "LOC"
+  },
+  "ID807": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID808": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID809": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID810": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID811": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID812": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID813": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID814": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID815": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID816": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID817": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID818": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID819": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID820": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID821": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "MISC"
+  },
+  "ID822": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID823": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID824": {
+    "url": "https://www.wikidata.org/wiki/Q187843",
+    "span": "Vosges",
+    "label": "Vosges Mountains",
+    "description": "low mountain range in France",
+    "type": "LOC"
+  },
+  "ID825": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID826": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID827": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID828": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID829": {
+    "url": "https://www.wikidata.org/wiki/Q8848",
+    "span": "Valence",
+    "label": "Valence",
+    "description": "commune in Dr\u00f4me, France",
+    "type": "LOC"
+  },
+  "ID830": {
+    "url": "https://www.wikidata.org/wiki/Q12675",
+    "span": "Oise",
+    "label": "Oise",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID831": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID832": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID833": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID834": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID835": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID836": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID837": {
+    "url": "https://www.wikidata.org/wiki/Q32",
+    "span": "Luxembourg",
+    "label": "Luxembourg",
+    "description": "country in Western Europe",
+    "type": "LOC"
+  },
+  "ID838": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID839": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID840": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID841": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID842": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID843": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID844": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID845": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID846": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID847": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID848": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID849": {
+    "url": "https://www.wikidata.org/wiki/Q71",
+    "span": "Gen\u00e8ve",
+    "label": "Geneva",
+    "description": "city in Switzerland and capital of its canton",
+    "type": "LOC"
+  },
+  "ID850": {
+    "url": "https://www.wikidata.org/wiki/Q1216951",
+    "span": "Tournon",
+    "label": "Tournon",
+    "description": "commune in Savoie, France",
+    "type": "LOC"
+  },
+  "ID851": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID852": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID853": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID854": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID855": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID856": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID857": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID858": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID859": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID860": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID861": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID862": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID863": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID864": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID865": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID866": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID867": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID868": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID869": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID870": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID871": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID872": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID873": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID874": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID875": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID876": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID877": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID878": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID879": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID880": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID881": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID882": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID883": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID884": {
+    "url": "https://www.wikidata.org/wiki/Q42880",
+    "span": "Tyrol",
+    "label": "Tyrol",
+    "description": "federal state in western Austria",
+    "type": "LOC"
+  },
+  "ID885": {
+    "url": "https://www.wikidata.org/wiki/Q65117675",
+    "span": "terre",
+    "label": "Terre",
+    "description": "1998 song by C\u00e9line Dion",
+    "type": "LOC"
+  },
+  "ID886": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID887": {
+    "url": "https://www.wikidata.org/wiki/Q605051",
+    "span": "Touraine",
+    "label": "Touraine",
+    "description": "traditional province of France",
+    "type": "LOC"
+  },
+  "ID888": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID889": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID890": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID891": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID892": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID893": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID894": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID895": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID896": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID897": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID898": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID899": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID900": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID901": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID902": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID903": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID904": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID905": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID906": {
+    "url": "https://www.wikidata.org/wiki/Q728200",
+    "span": "Jean-Jacques",
+    "label": "Jean-Jacques",
+    "description": "French male given name",
+    "type": "PER"
+  },
+  "ID907": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID908": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID909": {
+    "url": "https://www.wikidata.org/wiki/Q9358",
+    "span": "Nietzsche",
+    "label": "Friedrich Nietzsche",
+    "description": "German philosopher, poet, composer, cultural critic, and classical philologist",
+    "type": "PER"
+  },
+  "ID910": {
+    "url": "https://www.wikidata.org/wiki/Q187843",
+    "span": "Vosges",
+    "label": "Vosges Mountains",
+    "description": "low mountain range in France",
+    "type": "LOC"
+  },
+  "ID911": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID912": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID913": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID914": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID915": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID916": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID917": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID918": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID919": {
+    "url": "https://www.wikidata.org/wiki/Q12675",
+    "span": "Oise",
+    "label": "Oise",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID920": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID921": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID922": {
+    "url": "https://www.wikidata.org/wiki/Q280856",
+    "span": "Albert",
+    "label": "George VI",
+    "description": "King of the United Kingdom",
+    "type": "PER"
+  },
+  "ID923": {
+    "url": "https://www.wikidata.org/wiki/Q5580",
+    "span": "D\u00fcrer",
+    "label": "Albrecht D\u00fcrer",
+    "description": "German painter, printmaker, mathematician, and theorist",
+    "type": "PER"
+  },
+  "ID924": {
+    "url": "https://www.wikidata.org/wiki/Q2704152",
+    "span": "bouda",
+    "label": "Bouda",
+    "description": "Commune in Adrar Province, Algeria",
+    "type": "LOC"
+  },
+  "ID925": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID926": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID927": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID928": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID929": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID930": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID931": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID932": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID933": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID934": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID935": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID936": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID937": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID938": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID939": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID940": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID941": {
+    "url": "https://www.wikidata.org/wiki/Q172353",
+    "span": "Pyrrhus",
+    "label": "Pyrrhus",
+    "description": "Epirot Illyrian military leader",
+    "type": "PER"
+  },
+  "ID942": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID943": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID944": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID945": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID946": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID947": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID948": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID949": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID950": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID951": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID952": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID953": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID954": {
+    "url": "https://www.wikidata.org/wiki/Q3058360",
+    "span": "Espagne",
+    "label": "SS Espagne",
+    "description": "11,155 GRT ocean liner which was built in 1909",
+    "type": "LOC"
+  },
+  "ID955": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID956": {
+    "url": "https://www.wikidata.org/wiki/Q201982",
+    "span": "Clichy",
+    "label": "Clichy",
+    "description": "commune in Hauts-de-Seine, France",
+    "type": "LOC"
+  },
+  "ID957": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID958": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID959": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID960": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID961": {
+    "url": "https://www.wikidata.org/wiki/Q84497",
+    "span": "Jacquin",
+    "label": "Nikolaus Joseph von Jacquin",
+    "description": "chemist, physician and botanist from the Netherlands",
+    "type": "PER"
+  },
+  "ID962": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID963": {
+    "url": "https://www.wikidata.org/wiki/Q84497",
+    "span": "Jacquin",
+    "label": "Nikolaus Joseph von Jacquin",
+    "description": "chemist, physician and botanist from the Netherlands",
+    "type": "PER"
+  },
+  "ID964": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID965": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID966": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID967": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID968": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID969": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID970": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID971": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID972": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID973": {
+    "url": "https://www.wikidata.org/wiki/Q40898",
+    "span": "Nancy",
+    "label": "Nancy",
+    "description": "city in Meurthe-et-Moselle, France",
+    "type": "LOC"
+  },
+  "ID974": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID975": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID976": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID977": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID978": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID979": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID980": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID981": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID982": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID983": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID984": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID985": {
+    "url": "https://www.wikidata.org/wiki/Q157098",
+    "span": "Philippe",
+    "label": "Philip I of Castile",
+    "description": "Duke of Burgundy and King of Castile",
+    "type": "MISC"
+  },
+  "ID986": {
+    "url": "https://www.wikidata.org/wiki/Q12589",
+    "span": "manche",
+    "label": "Manche",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID987": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  }
+}

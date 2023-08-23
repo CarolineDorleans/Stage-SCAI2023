@@ -1,0 +1,5518 @@
+{
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q21450529",
+    "span": "Duclos",
+    "label": "Duclos",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q467925",
+    "span": "Desiree",
+    "label": "Desire\u00e9 Cousteau",
+    "description": "American pornographic actress",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q4398011",
+    "span": "Rosel",
+    "label": "Ruselectronics",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q467925",
+    "span": "Desiree",
+    "label": "Desire\u00e9 Cousteau",
+    "description": "American pornographic actress",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q191589",
+    "span": "Hel",
+    "label": "Hel",
+    "description": "Norse mythical character",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q37105",
+    "span": "line",
+    "label": "line",
+    "description": "one-dimensional infinite geometric object",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q2301037",
+    "span": "lEn",
+    "label": "Len",
+    "description": "Canadian alternative rock band",
+    "type": "PER"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "ORG"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q56540250",
+    "span": "Pierre-Louis",
+    "label": "Pierre-Louis",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q182744",
+    "span": "Saint-Quentin",
+    "label": "Saint-Quentin",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q5046378",
+    "span": "Carriere",
+    "label": "Carriere",
+    "description": "unincoporated community in Pearl River County, Mississippi",
+    "type": "PER"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q190531",
+    "span": "Fondue",
+    "label": "fondue",
+    "description": "dish of melted cheese",
+    "type": "LOC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q6520159",
+    "span": "Ft",
+    "label": "Fourier transform",
+    "description": "mathematical transform that expresses a mathematical function of time as a function of frequency",
+    "type": "MISC"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q1013514",
+    "span": "Vieux",
+    "label": "Vieux",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q6526597",
+    "span": "Leonie",
+    "label": "Leonie",
+    "description": "2010 film",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q178122",
+    "span": "aria",
+    "label": "aria",
+    "description": "musical piece for a single voice as part of a larger work",
+    "type": "LOC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q1716401",
+    "span": "LLL",
+    "label": "La Leche League International",
+    "description": "non-profit organisation in the USA",
+    "type": "MISC"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q6666169",
+    "span": "Locution",
+    "label": "Locution",
+    "description": "mode of supernatural revelation",
+    "type": "MISC"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q4897398",
+    "span": "bete",
+    "label": "bete",
+    "description": "traditional type of priest in Fiji",
+    "type": "LOC"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q4696777",
+    "span": "aides",
+    "label": "Aides",
+    "description": "genus of insects",
+    "type": "PER"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q180887",
+    "span": "Maman",
+    "label": "Maman",
+    "description": "sculpture by Louise Bourgeois",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q18711",
+    "span": "VILLA",
+    "label": "Aston Villa F.C.",
+    "description": "association football club in Birmingham, England",
+    "type": "MISC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q10533272",
+    "span": "Iais",
+    "label": "Iais",
+    "description": "genus of crustaceans",
+    "type": "LOC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q5114004",
+    "span": "cte",
+    "label": "chronic traumatic encephalopathy",
+    "description": "neurodegenerative disease caused by repeated head injuries",
+    "type": "PER"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q37479922",
+    "span": "bahl",
+    "label": "Bahl",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q2298877",
+    "span": "Therese",
+    "label": "Th\u00e9r\u00e8se",
+    "description": "1986 film by Alain Cavalier",
+    "type": "PER"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q5181875",
+    "span": "Cran",
+    "label": "Cran",
+    "description": "unit of measure",
+    "type": "MISC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q1784692",
+    "span": "salete",
+    "label": "Salete",
+    "description": "human settlement in Brazil",
+    "type": "LOC"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q2298877",
+    "span": "Therese",
+    "label": "Th\u00e9r\u00e8se",
+    "description": "1986 film by Alain Cavalier",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "MISC"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "ILe",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q5114004",
+    "span": "cte",
+    "label": "chronic traumatic encephalopathy",
+    "description": "neurodegenerative disease caused by repeated head injuries",
+    "type": "PER"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q1144476",
+    "span": "CURE",
+    "label": "Cure",
+    "description": "1997 film by Kiyoshi Kurosawa",
+    "type": "ORG"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q1144476",
+    "span": "CURE",
+    "label": "Cure",
+    "description": "1997 film by Kiyoshi Kurosawa",
+    "type": "ORG"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q60797",
+    "span": "sermon",
+    "label": "sermon",
+    "description": "oration by a member of the clergy",
+    "type": "PER"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q2479238",
+    "span": "I8",
+    "label": "straight-eight",
+    "description": "inline piston engine with eight cylinders",
+    "type": "ORG"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MiON",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "MISC"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q20995925",
+    "span": "buis",
+    "label": "Buis",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q20995925",
+    "span": "buis",
+    "label": "Buis",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q1600805",
+    "span": "vaila",
+    "label": "Vaila",
+    "description": "island in Shetland, Scotland, lying south of the Westland peninsula of the Shetland Mainland",
+    "type": "MISC"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q457002",
+    "span": "Riez",
+    "label": "Riez",
+    "description": "commune in Alpes-de-Haute-Provence, France",
+    "type": "PER"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "MISC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q410857",
+    "span": "OX",
+    "label": "Orexin",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q60797",
+    "span": "sermon",
+    "label": "sermon",
+    "description": "oration by a member of the clergy",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q7042684",
+    "span": "nMON",
+    "label": "nmon",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q511777",
+    "span": "renie",
+    "label": "Reni\u00e9",
+    "description": "Hollywood costume designer",
+    "type": "PER"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q1615533",
+    "span": "ane",
+    "label": "Ane",
+    "description": "farm village in the Netherlands",
+    "type": "PER"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q26555",
+    "span": "ede",
+    "label": "Ede",
+    "description": "municipality in the center of the Netherlands",
+    "type": "LOC"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q131566",
+    "span": "IEee",
+    "label": "Institute of Electrical and Electronics Engineers",
+    "description": "scholarly society, publisher and standards organization, headquartered in US",
+    "type": "ORG"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q58680",
+    "span": "ps",
+    "label": "Pashto",
+    "description": "Indo-Iranian language spoken in Afghanistan",
+    "type": "ORG"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q283992",
+    "span": "ed",
+    "label": "ed",
+    "description": "line editor for the Unix operating system",
+    "type": "ORG"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q2114394",
+    "span": ".5",
+    "label": "\u00bd",
+    "description": "irreducible fraction",
+    "type": "MISC"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q1090",
+    "span": "Ag",
+    "label": "silver",
+    "description": "chemical element with atomic number 47",
+    "type": "PER"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q30449",
+    "span": "AL",
+    "label": "Avril Lavigne",
+    "description": "Canadian singer, songwriter and actress",
+    "type": "ORG"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q926323",
+    "span": "Mi",
+    "label": "Miri",
+    "description": "episode of Star Trek: The Original Series (S1 E8)",
+    "type": "MISC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q1423866",
+    "span": "S.2",
+    "label": "S.2",
+    "description": "airliner by SABCA",
+    "type": "LOC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q336168",
+    "span": "e3",
+    "label": "Electronic Entertainment Expo",
+    "description": "annual trade fair for the computer and video games industry",
+    "type": "MISC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q1266",
+    "span": "ds",
+    "label": "darmstadtium",
+    "description": "chemical element with atomic number 110",
+    "type": "MISC"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q30449",
+    "span": "AL",
+    "label": "Avril Lavigne",
+    "description": "Canadian singer, songwriter and actress",
+    "type": "ORG"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q3112388",
+    "span": "Sui",
+    "label": "Sui",
+    "description": "Tai\u2013Kadai language spoken by the Sui people of Guizhou, China",
+    "type": "MISC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q20969980",
+    "span": "oes",
+    "label": "KRAS",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q336168",
+    "span": "e3",
+    "label": "Electronic Entertainment Expo",
+    "description": "annual trade fair for the computer and video games industry",
+    "type": "MISC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q720314",
+    "span": "ac",
+    "label": "Spring Framework",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q3566217",
+    "span": "ier",
+    "label": "Natchitoches Regional Airport",
+    "description": "airport in Louisiana, United States of America",
+    "type": "ORG"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q56816581",
+    "span": "sT",
+    "label": "Star Trek: Short Treks",
+    "description": "spin-off miniseries",
+    "type": "MISC"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q180687",
+    "span": "Cpi",
+    "label": "consumer price index",
+    "description": "indicates tracking prices of consumer goods as an economic measure",
+    "type": "LOC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q717",
+    "span": "VE",
+    "label": "Venezuela",
+    "description": "Bolivarian republic in northern South America",
+    "type": "ORG"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q29",
+    "span": "eS",
+    "label": "Spain",
+    "description": "constitutional monarchy in Southwest Europe",
+    "type": "LOC"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q283992",
+    "span": "ed",
+    "label": "ed",
+    "description": "line editor for the Unix operating system",
+    "type": "ORG"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q9946",
+    "span": "pee",
+    "label": "P",
+    "description": "letter of the Latin alphabet",
+    "type": "ORG"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q5441152",
+    "span": "Fee",
+    "label": "Fee",
+    "description": "",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q385720",
+    "span": "PIGNON",
+    "label": "Pignon",
+    "description": "human settlement",
+    "type": "ORG"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q37479922",
+    "span": "Bahl",
+    "label": "Bahl",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q2328727",
+    "span": "sez",
+    "label": "Special Economic Zone",
+    "description": "special economic zone in China",
+    "type": "MISC"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q1527",
+    "span": "MN",
+    "label": "Minnesota",
+    "description": "state of the United States of America",
+    "type": "ORG"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q2298877",
+    "span": "Therese",
+    "label": "Th\u00e9r\u00e8se",
+    "description": "1986 film by Alain Cavalier",
+    "type": "PER"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MIoN",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "MISC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q1661655",
+    "span": "Tache",
+    "label": "Tach\u00e9",
+    "description": "rural municipality in Manitoba, Canada",
+    "type": "PER"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q706",
+    "span": "Ca",
+    "label": "calcium",
+    "description": "element with the atomic number of 20",
+    "type": "LOC"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q37479922",
+    "span": "bahl",
+    "label": "Bahl",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q58373",
+    "span": "Amen",
+    "label": "Amun",
+    "description": "Egyptian and Berber deity",
+    "type": "MISC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "Aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q2233057",
+    "span": "Bte",
+    "label": "Sherbro International Airport",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q214377",
+    "span": "ell",
+    "label": "ell",
+    "description": "unit of length",
+    "type": "ORG"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q36583",
+    "span": "Seri",
+    "label": "Seri",
+    "description": "language",
+    "type": "ORG"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q1340361",
+    "span": "Sbi",
+    "label": "State Bank of India",
+    "description": "Indian public banking and financial services statutory body",
+    "type": "PER"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q4661265",
+    "span": "aai",
+    "label": "Aai",
+    "description": "2004 film by A. Venkatesh",
+    "type": "MISC"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q18205149",
+    "span": "s1",
+    "label": "Apple S1",
+    "description": "Apple SiP in Apple Watch",
+    "type": "MISC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q804",
+    "span": "pa",
+    "label": "Panama",
+    "description": "republic in Central America",
+    "type": "MISC"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "eA",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "LOC"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q403",
+    "span": "rS",
+    "label": "Serbia",
+    "description": "republic in Southeastern Europe",
+    "type": "LOC"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q26555",
+    "span": "ede",
+    "label": "Ede",
+    "description": "municipality in the center of the Netherlands",
+    "type": "LOC"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q38908",
+    "span": ".ee",
+    "label": ".ee",
+    "description": "Internet country-code top level domain for Estonia",
+    "type": "MISC"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q3566217",
+    "span": "ier",
+    "label": "Natchitoches Regional Airport",
+    "description": "airport in Louisiana, United States of America",
+    "type": "ORG"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q129793",
+    "span": "PS",
+    "label": "Adobe Photoshop",
+    "description": "raster graphics editor with limited vector graphics and 3D graphics editing capabilities",
+    "type": "ORG"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q29",
+    "span": "eS",
+    "label": "Spain",
+    "description": "constitutional monarchy in Southwest Europe",
+    "type": "LOC"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q5347142",
+    "span": "ees",
+    "label": "Ees",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q568",
+    "span": "Li",
+    "label": "lithium",
+    "description": "element with the chemical symbol Li and the atomic number of 3",
+    "type": "PER"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q6192180",
+    "span": "Jie",
+    "label": "Jie",
+    "description": "",
+    "type": "PER"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q3566217",
+    "span": "ier",
+    "label": "Natchitoches Regional Airport",
+    "description": "airport in Louisiana, United States of America",
+    "type": "ORG"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "Eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "PER"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q26555",
+    "span": "ede",
+    "label": "Ede",
+    "description": "municipality in the center of the Netherlands",
+    "type": "LOC"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q2805272",
+    "span": "ens",
+    "label": "Ens",
+    "description": "village in the Netherlands",
+    "type": "ORG"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q23809",
+    "span": "Z",
+    "label": "atomic number",
+    "description": "number of protons found in the nucleus of an atom",
+    "type": "MISC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q4671598",
+    "span": "aee",
+    "label": "Acadiana Educational Endowment",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q7800938",
+    "span": "Tie",
+    "label": "Tie",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q9946",
+    "span": "pee",
+    "label": "P",
+    "description": "letter of the Latin alphabet",
+    "type": "ORG"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q9927",
+    "span": "el",
+    "label": "L",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q5322383",
+    "span": "e2",
+    "label": "e2",
+    "description": "Turkish TV channel",
+    "type": "ORG"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q16890909",
+    "span": "Slee",
+    "label": "El Escondido Airport",
+    "description": "airport in Bolivia",
+    "type": "MISC"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q771",
+    "span": "MA",
+    "label": "Massachusetts",
+    "description": "state of the United States of America",
+    "type": "ORG"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q37105",
+    "span": "line",
+    "label": "line",
+    "description": "one-dimensional infinite geometric object",
+    "type": "PER"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q7118672",
+    "span": "pcu",
+    "label": "PCU",
+    "description": "1994 film by Hart Bochner",
+    "type": "MISC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q5522596",
+    "span": "gehs",
+    "label": "Gardner Edgerton High School",
+    "description": "high school in the Kansas City metropolitan area",
+    "type": "PER"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q867580",
+    "span": "noux",
+    "label": "Nuuksio",
+    "description": "city district in Espoo, Finland",
+    "type": "LOC"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q7004293",
+    "span": "al-",
+    "label": "Al-",
+    "description": "definite article in Arabic",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q266066",
+    "span": "A1",
+    "label": "Skyraider",
+    "description": "attack aircraft family by Douglas",
+    "type": "LOC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q18039626",
+    "span": "t13",
+    "label": "ANKRD11",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "MISC"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q5962411",
+    "span": "CONSCRIPTION",
+    "label": "Conscription in Iran",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q2539",
+    "span": "Ml",
+    "label": "machine learning",
+    "description": "branch of statistics and computer science, which studies algorithms and architectures that learn from observed facts",
+    "type": "MISC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q1145140",
+    "span": "corbeau",
+    "label": "Le Corbeau",
+    "description": "1943 film by Henri-Georges Clouzot",
+    "type": "PER"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q467925",
+    "span": "Desiree",
+    "label": "Desire\u00e9 Cousteau",
+    "description": "American pornographic actress",
+    "type": "PER"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "ILe",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q1426138",
+    "span": "promise",
+    "label": "future",
+    "description": "in concurrent programming, a construct describing an object that acts as a proxy for a result that is initially unknown, usually because the computation of its value is yet incomplete",
+    "type": "LOC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q1003503",
+    "span": "courtils",
+    "label": "Courtils",
+    "description": "commune in Manche, France",
+    "type": "LOC"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q266066",
+    "span": "A1",
+    "label": "Skyraider",
+    "description": "attack aircraft family by Douglas",
+    "type": "LOC"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q37479922",
+    "span": "Bahl",
+    "label": "Bahl",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q1344443",
+    "span": "Houx",
+    "label": "Houx",
+    "description": "commune in Eure-et-Loir, France",
+    "type": "PER"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q27477490",
+    "span": "NOCES",
+    "label": "A Wedding",
+    "description": "2016 film by Stephan Streker",
+    "type": "MISC"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q4830755",
+    "span": "IY",
+    "label": "Aya",
+    "description": "ancient Egyptian queen consort",
+    "type": "LOC"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q27062",
+    "span": "rades",
+    "label": "Rad\u00e8s",
+    "description": "Tunisian town",
+    "type": "LOC"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q7118672",
+    "span": "pcu",
+    "label": "PCU",
+    "description": "1994 film by Hart Bochner",
+    "type": "MISC"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q1573906",
+    "span": "tour",
+    "label": "concert tour",
+    "description": "series of concerts by a single artist in different venues",
+    "type": "LOC"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "PER"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q814025",
+    "span": "t6",
+    "label": "T-6 Texan II",
+    "description": "military training aircraft family",
+    "type": "ORG"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q468474",
+    "span": "pte",
+    "label": "Portuguese escudo",
+    "description": "currency",
+    "type": "LOC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q1433272",
+    "span": "yON",
+    "label": "Yongphulla Airport",
+    "description": "airport",
+    "type": "LOC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q133087",
+    "span": "gout",
+    "label": "gout",
+    "description": "condition characterized by painful swelling of the joints, which is caused by deposition of urate crystals",
+    "type": "MISC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q37479922",
+    "span": "bahl",
+    "label": "Bahl",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q6812125",
+    "span": "mele",
+    "label": "Mele",
+    "description": "",
+    "type": "PER"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q212420",
+    "span": "Sens",
+    "label": "Sens",
+    "description": "commune in Yonne, France",
+    "type": "LOC"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q117934",
+    "span": "Tour",
+    "label": "The Tour",
+    "description": "2008 film by Goran Markovi\u0107",
+    "type": "LOC"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "ILe",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q2356936",
+    "span": "cld",
+    "label": "constant-current diode",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q56508",
+    "span": "sou",
+    "label": "Southern Thai",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "ORG"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q1204",
+    "span": "IL",
+    "label": "Illinois",
+    "description": "state of the United States of America",
+    "type": "ORG"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q1275702",
+    "span": "snos",
+    "label": "Snos",
+    "description": "human settlement",
+    "type": "PER"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q111",
+    "span": "mars",
+    "label": "Mars",
+    "description": "fourth planet from the Sun",
+    "type": "PER"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q7192558",
+    "span": "Pierrette",
+    "label": "Pierrette",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "ORG"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q1716401",
+    "span": "LLL",
+    "label": "La Leche League International",
+    "description": "non-profit organisation in the USA",
+    "type": "MISC"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q5181875",
+    "span": "Cran",
+    "label": "Cran",
+    "description": "unit of measure",
+    "type": "MISC"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q92764",
+    "span": "brin",
+    "label": "Sergey Brin",
+    "description": "Russian-American computer scientist and Internet entrepreneur",
+    "type": "LOC"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q1345758",
+    "span": "ily",
+    "label": "Islay Airport",
+    "description": "airport on the Isle of Islay, Scotland",
+    "type": "ORG"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q633132",
+    "span": "Bah",
+    "label": "Bah",
+    "description": "city in Agra district of Uttar Pradesh in India",
+    "type": "LOC"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q1234920",
+    "span": "colonne",
+    "label": "Colonne",
+    "description": "commune in Jura, France",
+    "type": "LOC"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "LOC"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q2102344",
+    "span": "Royal",
+    "label": "Koninklijk",
+    "description": "honorary title for companies and organizations in Belgium and the Netherlands",
+    "type": "PER"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q2102344",
+    "span": "Royal",
+    "label": "Koninklijk",
+    "description": "honorary title for companies and organizations in Belgium and the Netherlands",
+    "type": "PER"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q22661961",
+    "span": "Alerte",
+    "label": "HMS Alert",
+    "description": "",
+    "type": "PER"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q742227",
+    "span": "Assis",
+    "label": "Assis",
+    "description": "municipality in the state of S\u00e3o Paulo in Brazil",
+    "type": "PER"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q6587194",
+    "span": "centre",
+    "label": "centrism",
+    "description": "describes a political outlook or specific position",
+    "type": "LOC"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q132744",
+    "span": "fax",
+    "label": "fax",
+    "description": "method of transmitting images, often of documents",
+    "type": "ORG"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q43448",
+    "span": "io",
+    "label": "British Indian Ocean Territory",
+    "description": "country in South Asia",
+    "type": "LOC"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q25362",
+    "span": "bl",
+    "label": "Saint Barth\u00e9lemy",
+    "description": "overseas collectivity of France, island of the Little Antillas",
+    "type": "ORG"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q484940",
+    "span": "ILe",
+    "label": "L-Isoleucine",
+    "description": "chemical compound",
+    "type": "ORG"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q61668028",
+    "span": "Cadet",
+    "label": "Blaine Johnson",
+    "description": "British rapper",
+    "type": "PER"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q11660",
+    "span": "MI",
+    "label": "artificial intelligence",
+    "description": "branch of computer science that develops machines and software with human-like intelligence",
+    "type": "MISC"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q5181875",
+    "span": "Cran",
+    "label": "Cran",
+    "description": "unit of measure",
+    "type": "MISC"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q22906900",
+    "span": "brave",
+    "label": "Brave",
+    "description": "open source web browser",
+    "type": "MISC"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q917814",
+    "span": "ras",
+    "label": "Stari Ras",
+    "description": "archaeological site in Serbia",
+    "type": "ORG"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q133087",
+    "span": "gout",
+    "label": "gout",
+    "description": "condition characterized by painful swelling of the joints, which is caused by deposition of urate crystals",
+    "type": "MISC"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q4696777",
+    "span": "aides",
+    "label": "Aides",
+    "description": "genus of insects",
+    "type": "PER"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q5455379",
+    "span": "Fit",
+    "label": "Fit",
+    "description": "2010 film by Rikki Beadle-Blair",
+    "type": "PER"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q511777",
+    "span": "renie",
+    "label": "Reni\u00e9",
+    "description": "Hollywood costume designer",
+    "type": "PER"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q313",
+    "span": "Venus",
+    "label": "Venus",
+    "description": "telluric planet, second closest from the Sun",
+    "type": "PER"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q196653",
+    "span": "Berenice",
+    "label": "Saint Veronica",
+    "description": "Christian saint",
+    "type": "LOC"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q388242",
+    "span": "tete",
+    "label": "Tete",
+    "description": "city in Mozambique",
+    "type": "PER"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "ORG"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q28064451",
+    "span": "PETITION",
+    "label": "Petition",
+    "description": "2009 film by Zhao Liang",
+    "type": "ORG"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q37141",
+    "span": "xIII",
+    "label": "13",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q6587194",
+    "span": "centre",
+    "label": "centrism",
+    "description": "describes a political outlook or specific position",
+    "type": "LOC"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q219320",
+    "span": "IO",
+    "label": "input/output",
+    "description": "communication between an information processing system and the outside world",
+    "type": "LOC"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q7835862",
+    "span": "TRAVAIL",
+    "label": "Travail",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "MION",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "ORG"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q1896571",
+    "span": "Tal",
+    "label": "tala",
+    "description": "meter, time cycle measure in Indian music",
+    "type": "PER"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID785": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "ca",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID786": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID787": {
+    "url": "https://www.wikidata.org/wiki/Q3387750",
+    "span": "ION",
+    "label": "Ion",
+    "description": "mass rapid transit network in Waterloo, Canada",
+    "type": "ORG"
+  },
+  "ID788": {
+    "url": "https://www.wikidata.org/wiki/Q3184003",
+    "span": "pays",
+    "label": "Pays",
+    "description": "",
+    "type": "LOC"
+  }
+}

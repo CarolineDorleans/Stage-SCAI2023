@@ -1,0 +1,5490 @@
+{
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q21450529",
+    "span": "Duclos",
+    "label": "Duclos",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q7081181",
+    "span": "oi",
+    "label": "oi",
+    "description": "interjection",
+    "type": "ORG"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q688493",
+    "span": "couvet",
+    "label": "Couvet",
+    "description": "former municipality of Switzerland in Neuch\u00e2tel",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q467925",
+    "span": "Desiree",
+    "label": "Desire\u00e9 Cousteau",
+    "description": "American pornographic actress",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q1179064",
+    "span": "Monte",
+    "label": "Monte",
+    "description": "civil parish in Funchal",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q10521894",
+    "span": "hen",
+    "label": "hen",
+    "description": "Swedish gender-neutral pronoun (3rd person singular)",
+    "type": "MISC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q7234232",
+    "span": "pres",
+    "label": "Posterior reversible encephalopathy syndrome",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q101935",
+    "span": "huguenot",
+    "label": "Huguenot",
+    "description": "ethnoreligious group, French Calvinists",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q4868070",
+    "span": "Basset",
+    "label": "Basset",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q15444128",
+    "span": "Hardi",
+    "label": "French destroyer Le Hardi",
+    "description": "Le Hardi-class destroyer",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q3595624",
+    "span": "MAM",
+    "label": "Mata Amritanandamayi Math",
+    "description": "organization",
+    "type": "ORG"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q7234232",
+    "span": "pres",
+    "label": "Posterior reversible encephalopathy syndrome",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q7234232",
+    "span": "pres",
+    "label": "Posterior reversible encephalopathy syndrome",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q18136409",
+    "span": "ello",
+    "label": "Ello",
+    "description": "social networking website",
+    "type": "MISC"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q6493244",
+    "span": "Lasi",
+    "label": "Lasi",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q841355",
+    "span": "blay",
+    "label": "Blay",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q5213007",
+    "span": "Dams",
+    "label": "Dam\u00ebs",
+    "description": "village in Fier County, Albania",
+    "type": "LOC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q1509726",
+    "span": "ger",
+    "label": "Ger",
+    "description": "Hassidic dynasty.",
+    "type": "LOC"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q6747683",
+    "span": "mand",
+    "label": "Mand",
+    "description": "",
+    "type": "PER"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "PER"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q142237",
+    "span": "Ch",
+    "label": "Ch",
+    "description": "latin-script digraph",
+    "type": "LOC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q142237",
+    "span": "Ch",
+    "label": "Ch",
+    "description": "latin-script digraph",
+    "type": "LOC"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q1390088",
+    "span": "ch\u00e9",
+    "label": "Ch\u00e9",
+    "description": "band",
+    "type": "MISC"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q56540250",
+    "span": "Pierre-Louis",
+    "label": "Pierre-Louis",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q182744",
+    "span": "Saint-Quentin",
+    "label": "Saint-Quentin",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q294453",
+    "span": "All",
+    "label": "All",
+    "description": "American band",
+    "type": "MISC"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q370258",
+    "span": "jc",
+    "label": "junior college",
+    "description": "type of educational institution",
+    "type": "PER"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q5046378",
+    "span": "Carriere",
+    "label": "Carriere",
+    "description": "unincoporated community in Pearl River County, Mississippi",
+    "type": "PER"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q4032897",
+    "span": "Adone",
+    "label": "ADONE",
+    "description": "",
+    "type": "PER"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q1042",
+    "span": "sc",
+    "label": "Seychelles",
+    "description": "island country to the East of Africa",
+    "type": "ORG"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q4739090",
+    "span": "amadou",
+    "label": "Amadou",
+    "description": "Spongy material derived from fungi",
+    "type": "PER"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q2027997",
+    "span": "nard",
+    "label": "Nard",
+    "description": "tables-style board game for two players",
+    "type": "PER"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q191107",
+    "span": "Clair",
+    "label": "Clare of Assisi",
+    "description": "Italian saint",
+    "type": "LOC"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q7312293",
+    "span": "ren",
+    "label": "ren",
+    "description": "",
+    "type": "PER"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q5046378",
+    "span": "carriere",
+    "label": "Carriere",
+    "description": "unincoporated community in Pearl River County, Mississippi",
+    "type": "PER"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q21684354",
+    "span": "r3",
+    "label": "R3",
+    "description": "blockchain technology company",
+    "type": "PER"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q101935",
+    "span": "huguenot",
+    "label": "Huguenot",
+    "description": "ethnoreligious group, French Calvinists",
+    "type": "PER"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q959051",
+    "span": "w.",
+    "label": "W.",
+    "description": "2008 film by Oliver Stone",
+    "type": "PER"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q25352307",
+    "span": "nots",
+    "label": "Nots",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q829407",
+    "span": "gaillard",
+    "label": "Gaillard",
+    "description": "commune in Haute-Savoie, France",
+    "type": "PER"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q536551",
+    "span": "hemme",
+    "label": "Hemme",
+    "description": "municipality of Germany",
+    "type": "PER"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q6526597",
+    "span": "Leonie",
+    "label": "Leonie",
+    "description": "2010 film",
+    "type": "PER"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q13199",
+    "span": "rm",
+    "label": "Romansh",
+    "description": "Romance language spoken predominantly in the southeastern Swiss canton of Grisons (Graub\u00fcnden)",
+    "type": "ORG"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q790063",
+    "span": "avail",
+    "label": "Avail",
+    "description": "band",
+    "type": "PER"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q846590",
+    "span": "2L",
+    "label": "Leyland Atlantean",
+    "description": "Rear engined double decker bus",
+    "type": "ORG"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q7277413",
+    "span": "ROSE",
+    "label": "ROSE",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q15724934",
+    "span": "BOSE",
+    "label": "Bhubanananda orissa school of engineering cuttack",
+    "description": "engineering school",
+    "type": "ORG"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q19654399",
+    "span": "scs",
+    "label": "ScS",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q3646180",
+    "span": "bre",
+    "label": "Br\u00e8",
+    "description": "mountain village within the boundaries of the city of Lugano in the Swiss canton of Ticino",
+    "type": "MISC"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q216125",
+    "span": "rer",
+    "label": "RER",
+    "description": "\u00cele-de-France regional express network",
+    "type": "PER"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q1244595",
+    "span": "ille",
+    "label": "Ille",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q191107",
+    "span": "Clair",
+    "label": "Clare of Assisi",
+    "description": "Italian saint",
+    "type": "LOC"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q930827",
+    "span": "regal",
+    "label": "regals",
+    "description": "small portable organ",
+    "type": "LOC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q3667197",
+    "span": "cherie",
+    "label": "Cherie",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q201",
+    "span": "III",
+    "label": "3",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q1084",
+    "span": "noun",
+    "label": "noun",
+    "description": "part of speech in grammar denoting a figurative or real thing or person",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q5587649",
+    "span": "got",
+    "label": "Got",
+    "description": "bull",
+    "type": "ORG"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q1020895",
+    "span": "lade",
+    "label": "Lade",
+    "description": "neighborhood in Trondheim, Norway",
+    "type": "PER"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q3434138",
+    "span": "Iil",
+    "label": "Ilam Airport",
+    "description": "Airport in Ilam , Iran",
+    "type": "LOC"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q512003",
+    "span": "creatures",
+    "label": "Creatures",
+    "description": "Japanese video game developer",
+    "type": "MISC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q2086913",
+    "span": "cst",
+    "label": "Central Time Zone",
+    "description": "time zone in North America",
+    "type": "MISC"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q125232",
+    "span": "nippes",
+    "label": "Nippes",
+    "description": "department of Haiti",
+    "type": "MISC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q125232",
+    "span": "nippes",
+    "label": "Nippes",
+    "description": "department of Haiti",
+    "type": "MISC"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q1073512",
+    "span": "CSSC",
+    "label": "China State Shipbuilding Corporation",
+    "description": "company",
+    "type": "ORG"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q448184",
+    "span": "cOte",
+    "label": "cotte",
+    "description": "medieval garment for men and women",
+    "type": "MISC"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q18136409",
+    "span": "ello",
+    "label": "Ello",
+    "description": "social networking website",
+    "type": "MISC"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q21168545",
+    "span": "pal",
+    "label": "airliner with piston engines",
+    "description": "class of aircraft for commercial air transport powered by piston engines",
+    "type": "MISC"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q1005",
+    "span": "gm",
+    "label": "Gambia",
+    "description": "country in West Africa",
+    "type": "ORG"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q6972961",
+    "span": "ngl",
+    "label": "National Guardian Life",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q6555108",
+    "span": "linval",
+    "label": "Linval",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q42395",
+    "span": "leu",
+    "label": "white blood cell",
+    "description": "type of cells of the immunological system",
+    "type": "PER"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q451580",
+    "span": "ine",
+    "label": "Ine",
+    "description": "King of Wessex",
+    "type": "ORG"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q204854",
+    "span": "premiere",
+    "label": "premi\u00e8re",
+    "description": "first public performance of a work",
+    "type": "PER"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q5184077",
+    "span": "creme",
+    "label": "Creme",
+    "description": "New Zealand magazine for girls",
+    "type": "MISC"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "MONSIEUR",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "ORG"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q1144476",
+    "span": "CURE",
+    "label": "Cure",
+    "description": "1997 film by Kiyoshi Kurosawa",
+    "type": "MISC"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q1138185",
+    "span": "L7",
+    "label": "L7",
+    "description": "band",
+    "type": "ORG"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q202",
+    "span": "IV",
+    "label": "4",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "MONSIEUR",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "ORG"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q1144476",
+    "span": "CURE",
+    "label": "Cure",
+    "description": "1997 film by Kiyoshi Kurosawa",
+    "type": "MISC"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q265665",
+    "span": "Cot",
+    "label": "Pierre Auguste Cot",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q17056725",
+    "span": "ii",
+    "label": "Interactive Investor",
+    "description": "British trading platform for retail investors",
+    "type": "MISC"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q7336628",
+    "span": "ritam",
+    "label": "Ritam",
+    "description": "",
+    "type": "PER"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q1406501",
+    "span": "labia",
+    "label": "labia",
+    "description": "part of the female genitalia",
+    "type": "MISC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q25352307",
+    "span": "nots",
+    "label": "Nots",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q34138",
+    "span": "tum",
+    "label": "Tumbuka",
+    "description": "Niger-Congo language originating in parts of Malawi, Zambia, and Tanzania",
+    "type": "ORG"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q457002",
+    "span": "Riez",
+    "label": "Riez",
+    "description": "commune in Alpes-de-Haute-Provence, France",
+    "type": "LOC"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q38355",
+    "span": "cur",
+    "label": "Cur",
+    "description": "dog type",
+    "type": "LOC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q101935",
+    "span": "huguenot",
+    "label": "Huguenot",
+    "description": "ethnoreligious group, French Calvinists",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q3171072",
+    "span": "baudet",
+    "label": "Jean C. Baudet",
+    "description": "Belgian philosopher",
+    "type": "PER"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q385720",
+    "span": "PIGNON",
+    "label": "Pignon",
+    "description": "human settlement",
+    "type": "MISC"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q7234232",
+    "span": "pres",
+    "label": "Posterior reversible encephalopathy syndrome",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q2328727",
+    "span": "sez",
+    "label": "Special Economic Zone",
+    "description": "special economic zone in China",
+    "type": "ORG"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q36903933",
+    "span": "nute",
+    "label": "Nute",
+    "description": "family name",
+    "type": "ORG"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q3500846",
+    "span": "Im",
+    "label": "Im",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q1803025",
+    "span": "gator",
+    "label": "Landing Vehicle Tracked",
+    "description": "class of amphibious warfare vehicle",
+    "type": "PER"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q30",
+    "span": "US",
+    "label": "United States of America",
+    "description": "federal republic in North America",
+    "type": "LOC"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q1133636",
+    "span": "terai",
+    "label": "Terai",
+    "description": "plain",
+    "type": "PER"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q487391",
+    "span": "lee",
+    "label": "Ailee",
+    "description": "Korean-American singer",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q4914077",
+    "span": "bine",
+    "label": "Bine",
+    "description": "language",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q696",
+    "span": "Ar",
+    "label": "argon",
+    "description": "element with the atomic number of 18",
+    "type": "MISC"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q3488828",
+    "span": "Ap",
+    "label": "The Apple",
+    "description": "episode of Star Trek: The Original Series (S2 E5)",
+    "type": "MISC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q2086913",
+    "span": "cst",
+    "label": "Central Time Zone",
+    "description": "time zone in North America",
+    "type": "MISC"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q1661655",
+    "span": "Tache",
+    "label": "Tach\u00e9",
+    "description": "rural municipality in Manitoba, Canada",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q980534",
+    "span": "Clarissa",
+    "label": "Clarissa",
+    "description": "epistolary novel by Samuel Richardson",
+    "type": "MISC"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q20463713",
+    "span": "c3",
+    "label": "S3",
+    "description": "2016 Indian Tamil action film directed by Hari",
+    "type": "ORG"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q4925706",
+    "span": "ble",
+    "label": "Ble",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q1509726",
+    "span": "ger",
+    "label": "Ger",
+    "description": "Hassidic dynasty.",
+    "type": "LOC"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q58373",
+    "span": "Amen",
+    "label": "Amun",
+    "description": "Egyptian and Berber deity",
+    "type": "MISC"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q5213007",
+    "span": "dams",
+    "label": "Dam\u00ebs",
+    "description": "village in Fier County, Albania",
+    "type": "LOC"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q56539707",
+    "span": "MAIRESSE",
+    "label": "Mairesse",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q1849",
+    "span": "Er",
+    "label": "erbium",
+    "description": "chemical element with atomic number 68",
+    "type": "LOC"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "Ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "PER"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q39",
+    "span": "SUI",
+    "label": "Switzerland",
+    "description": "federal republic in Central Europe",
+    "type": "MISC"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q11209",
+    "span": "DOD",
+    "label": "United States Department of Defense",
+    "description": "United States federal executive department",
+    "type": "MISC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q16893828",
+    "span": "SllI",
+    "label": "La India Airport",
+    "description": "airport in Bolivia",
+    "type": "MISC"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q14864152",
+    "span": "k7",
+    "label": "KRT7",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "MISC"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q846590",
+    "span": "2L",
+    "label": "Leyland Atlantean",
+    "description": "Rear engined double decker bus",
+    "type": "ORG"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q215408",
+    "span": "presence",
+    "label": "Presence",
+    "description": "1976 studio album by Led Zeppelin",
+    "type": "PER"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q867580",
+    "span": "noux",
+    "label": "Nuuksio",
+    "description": "city district in Espoo, Finland",
+    "type": "PER"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "BOse",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q18034086",
+    "span": "dine",
+    "label": "ECEL1",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "PER"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q197615",
+    "span": "sen",
+    "label": "Koxinga",
+    "description": "Chinese military leader",
+    "type": "PER"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q1827715",
+    "span": "ler",
+    "label": "Ler",
+    "description": "sea god in Irish mythology, also known as Lir",
+    "type": "LOC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q7997416",
+    "span": "ww",
+    "label": "Who Watches the Watchers",
+    "description": "episode of Star Trek: The Next Generation (S3 E4)",
+    "type": "MISC"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q294453",
+    "span": "All",
+    "label": "All",
+    "description": "American band",
+    "type": "MISC"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q23350",
+    "span": "VII",
+    "label": "7",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q5962411",
+    "span": "CONSCRIPTION",
+    "label": "Conscription in Iran",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q57410",
+    "span": "peres",
+    "label": "Shimon Peres",
+    "description": "Israeli politician",
+    "type": "ORG"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q3667197",
+    "span": "cherie",
+    "label": "Cherie",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q6555108",
+    "span": "linval",
+    "label": "Linval",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q581707",
+    "span": "Sainte-Radegonde",
+    "label": "Sainte-Radegonde",
+    "description": "commune in Gironde, France",
+    "type": "LOC"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q44532",
+    "span": "Vulcain",
+    "label": "Vulcain",
+    "description": "family of European first stage rocket engines",
+    "type": "PER"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q1542187",
+    "span": "lcs",
+    "label": "littoral combat ship",
+    "description": "warship meant for the littoral region of water of a coastline",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q2086913",
+    "span": "cst",
+    "label": "Central Time Zone",
+    "description": "time zone in North America",
+    "type": "MISC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q57410",
+    "span": "peres",
+    "label": "Shimon Peres",
+    "description": "Israeli politician",
+    "type": "ORG"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q860263",
+    "span": "pis",
+    "label": "Pis",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q54366261",
+    "span": "Kin",
+    "label": "Kin",
+    "description": "2018 American science-fiction action film by Jonathan and Josh Baker",
+    "type": "LOC"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q7804",
+    "span": "IMF",
+    "label": "International Monetary Fund",
+    "description": "international organisation",
+    "type": "ORG"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q23355",
+    "span": "VIII",
+    "label": "8",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q130192",
+    "span": "EAL",
+    "label": "English as a second language",
+    "description": "use of English by speakers with different native languages",
+    "type": "LOC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q1872",
+    "span": "Am",
+    "label": "americium",
+    "description": "chemical element with the atomic number of 95",
+    "type": "LOC"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q448184",
+    "span": "cOte",
+    "label": "cotte",
+    "description": "medieval garment for men and women",
+    "type": "MISC"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q1003503",
+    "span": "courtils",
+    "label": "Courtils",
+    "description": "commune in Manche, France",
+    "type": "LOC"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q121650",
+    "span": "baton",
+    "label": "baton",
+    "description": "club of less than arm's length",
+    "type": "PER"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q80320",
+    "span": "Ann",
+    "label": "Ki-30",
+    "description": "light bomber aircraft",
+    "type": "MISC"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q3566301",
+    "span": "MOT",
+    "label": "Minot International Airport",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q846590",
+    "span": "2L",
+    "label": "Leyland Atlantean",
+    "description": "Rear engined double decker bus",
+    "type": "ORG"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q16177520",
+    "span": "sos",
+    "label": "Kim Yu-jin",
+    "description": "South Korean pro gamer",
+    "type": "ORG"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q1484457",
+    "span": "Joan",
+    "label": "Joan",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q16479929",
+    "span": "barras",
+    "label": "Barras",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q1355445",
+    "span": "naie",
+    "label": "Naie",
+    "description": "town of Japan",
+    "type": "ORG"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q5478058",
+    "span": "Pere",
+    "label": "Pere Mart\u00ednez Sastre",
+    "description": "Spanish footballer",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q4571239",
+    "span": "ArriVe",
+    "label": "Arrive",
+    "description": "Norwegian transport information company",
+    "type": "PER"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q121650",
+    "span": "baton",
+    "label": "baton",
+    "description": "club of less than arm's length",
+    "type": "PER"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q21492403",
+    "span": "gourdin",
+    "label": "Gourdin",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q2388788",
+    "span": "Tais",
+    "label": "tais",
+    "description": "traditional woven textile of East Timor",
+    "type": "PER"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q191107",
+    "span": "Clair",
+    "label": "Clare of Assisi",
+    "description": "Italian saint",
+    "type": "LOC"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q470273",
+    "span": "ames",
+    "label": "Ames",
+    "description": "city in Iowa, United States",
+    "type": "MISC"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q17100626",
+    "span": "IEL",
+    "label": "intraepithelial lymphocyte",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q1542187",
+    "span": "lcs",
+    "label": "littoral combat ship",
+    "description": "warship meant for the littoral region of water of a coastline",
+    "type": "PER"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q5813530",
+    "span": "sard",
+    "label": "Sard",
+    "description": "village in Iran",
+    "type": "PER"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q27477490",
+    "span": "NOCES",
+    "label": "A Wedding",
+    "description": "2016 film by Stephan Streker",
+    "type": "MISC"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q43592",
+    "span": ".rw",
+    "label": ".rw",
+    "description": "Internet country-code top level domain for Rwanda",
+    "type": "MISC"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q121650",
+    "span": "baton",
+    "label": "baton",
+    "description": "club of less than arm's length",
+    "type": "PER"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bonnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "PER"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q29561",
+    "span": "av",
+    "label": "Avaric",
+    "description": "language belonging to the Avar\u2013Andic group of the Northeast Caucasian language family",
+    "type": "LOC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q668",
+    "span": "IN",
+    "label": "India",
+    "description": "federal republic in South Asia",
+    "type": "LOC"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q767627",
+    "span": "JQ",
+    "label": "Jetstar Airways",
+    "description": "Australian low-cost airline",
+    "type": "LOC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q20715989",
+    "span": "Ellie",
+    "label": "Ellie",
+    "description": "fictional character from the video game series The Last of Us",
+    "type": "MISC"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q18034086",
+    "span": "dine",
+    "label": "ECEL1",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "PER"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q1561433",
+    "span": "Vivc",
+    "label": "Vitis International Variety Catalogue",
+    "description": "catalogue of grapevine genetic resources",
+    "type": "ORG"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q14773",
+    "span": "mo",
+    "label": "Macau",
+    "description": "Special Administrative Region of China",
+    "type": "MISC"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q1679968",
+    "span": "LIV",
+    "label": "Lexikon der indogermanischen Verben",
+    "description": "book by Helmut Rix",
+    "type": "MISC"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q15264912",
+    "span": "Oll",
+    "label": "Oyo Ollombo Airport",
+    "description": "airport in Republic of the Congo",
+    "type": "PER"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q9004934",
+    "span": "HUB",
+    "label": "Hospital de Bellvitge",
+    "description": "Publicly owned hospital Catalan Health Institute located in the town of Hospitalet de Llobregat ( Barcelona ).",
+    "type": "LOC"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q7269379",
+    "span": "QZ",
+    "label": "Quartz",
+    "description": "publication",
+    "type": "LOC"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q55642654",
+    "span": "Wayne",
+    "label": "Wayne",
+    "description": "television series",
+    "type": "PER"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q191107",
+    "span": "Clair",
+    "label": "Clare of Assisi",
+    "description": "Italian saint",
+    "type": "LOC"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q5588473",
+    "span": "gousset",
+    "label": "gousset",
+    "description": "component of medieval armor",
+    "type": "PER"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q741536",
+    "span": "Dizy",
+    "label": "Dizy",
+    "description": "commune in Marne, France",
+    "type": "LOC"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q11703",
+    "span": "vi",
+    "label": "United States Virgin Islands",
+    "description": "group of islands in the Caribbean",
+    "type": "MISC"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q204854",
+    "span": "premiere",
+    "label": "premi\u00e8re",
+    "description": "first public performance of a work",
+    "type": "PER"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q27983379",
+    "span": "2A",
+    "label": "Apostolos Angelis",
+    "description": "Greek composer, engineer and producer of \u0395lectronic, Classical and Orchestral music",
+    "type": "LOC"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q7081181",
+    "span": "oi",
+    "label": "oi",
+    "description": "interjection",
+    "type": "ORG"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q65088791",
+    "span": "ar-",
+    "label": "Ar-",
+    "description": "",
+    "type": "PER"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q804970",
+    "span": "Yu",
+    "label": "Liu",
+    "description": "Chinese surname \u5218",
+    "type": "PER"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q2086913",
+    "span": "cst",
+    "label": "Central Time Zone",
+    "description": "time zone in North America",
+    "type": "MISC"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q819186",
+    "span": "mande",
+    "label": "Mandinka people",
+    "description": "West African ethnic group",
+    "type": "MISC"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q959051",
+    "span": "w.",
+    "label": "W.",
+    "description": "2008 film by Oliver Stone",
+    "type": "PER"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q212420",
+    "span": "Sens",
+    "label": "Sens",
+    "description": "commune in Yonne, France",
+    "type": "LOC"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q117934",
+    "span": "Tour",
+    "label": "The Tour",
+    "description": "2008 film by Goran Markovi\u0107",
+    "type": "MISC"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q101935",
+    "span": "huguenot",
+    "label": "Huguenot",
+    "description": "ethnoreligious group, French Calvinists",
+    "type": "PER"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q121650",
+    "span": "baton",
+    "label": "baton",
+    "description": "club of less than arm's length",
+    "type": "PER"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q57410",
+    "span": "peres",
+    "label": "Shimon Peres",
+    "description": "Israeli politician",
+    "type": "ORG"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q5280186",
+    "span": "freres",
+    "label": "Dirck Ferreris",
+    "description": "Dutch painter",
+    "type": "PER"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q17911642",
+    "span": "cux",
+    "label": "CUX1",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "ORG"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q314099",
+    "span": "Jo",
+    "label": "J\u00f4",
+    "description": "Brazilian association football player",
+    "type": "PER"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q944",
+    "span": "QM",
+    "label": "quantum mechanics",
+    "description": "branch of physics that acts as an abstract framework formulating all the laws of nature",
+    "type": "ORG"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q3564696",
+    "span": "WIS",
+    "label": "WIS",
+    "description": "NBC television affiliate in Columbia, South Carolina, United States",
+    "type": "MISC"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q18388296",
+    "span": "V",
+    "label": "V",
+    "description": "South Korean singer-songwriter and actor",
+    "type": "PER"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q1824959",
+    "span": "lili",
+    "label": "Lili",
+    "description": "1953 film by Charles Walters",
+    "type": "PER"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q484876",
+    "span": "CE",
+    "label": "chief executive officer",
+    "description": "highest-ranking corporate officer or administrator",
+    "type": "ORG"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q7192558",
+    "span": "Pierrette",
+    "label": "Pierrette",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q861",
+    "span": "Ga",
+    "label": "gallium",
+    "description": "chemical element with atomic number of 31",
+    "type": "LOC"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q1408",
+    "span": "NJ",
+    "label": "New Jersey",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q45926",
+    "span": "annulus",
+    "label": "annulus",
+    "description": "geometric surface defined by two concentric circles",
+    "type": "PER"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q18036660",
+    "span": "not1",
+    "label": "CNOT1",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "LOC"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q696",
+    "span": "Ar",
+    "label": "argon",
+    "description": "element with the atomic number of 18",
+    "type": "MISC"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q6013694",
+    "span": "mier",
+    "label": "Mier",
+    "description": "human settlement in United States of America",
+    "type": "PER"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q121650",
+    "span": "baton",
+    "label": "baton",
+    "description": "club of less than arm's length",
+    "type": "PER"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q3482128",
+    "span": "semei",
+    "label": "Shimei",
+    "description": "persons from the Hebrew Bible",
+    "type": "PER"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q7333047",
+    "span": "rie",
+    "label": "Rie",
+    "description": "Japanese name",
+    "type": "PER"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q41",
+    "span": "gr",
+    "label": "Greece",
+    "description": "republic in Southeast Europe",
+    "type": "LOC"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q1020",
+    "span": "Mw",
+    "label": "Malawi",
+    "description": "country in Africa",
+    "type": "LOC"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q1581",
+    "span": "MO",
+    "label": "Missouri",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q3518248",
+    "span": "lune",
+    "label": "lune",
+    "description": "shape",
+    "type": "LOC"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q36977",
+    "span": "XII",
+    "label": "12",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q17100626",
+    "span": "IEL",
+    "label": "intraepithelial lymphocyte",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q175173",
+    "span": "Mmo",
+    "label": "massively multiplayer online role-playing game",
+    "description": "video game genre",
+    "type": "LOC"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q1092777",
+    "span": "Monsieur",
+    "label": "Monsieur",
+    "description": "style",
+    "type": "PER"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "ORG"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q4856263",
+    "span": "parel",
+    "label": "Parel",
+    "description": "locality in Mumbai",
+    "type": "LOC"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q1222899",
+    "span": "Oar",
+    "label": "Oar",
+    "description": "album",
+    "type": "LOC"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q204",
+    "span": "nil",
+    "label": "zero",
+    "description": "integer number",
+    "type": "LOC"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q133105",
+    "span": "leg",
+    "label": "leg",
+    "description": "weight bearing and locomotive anatomical structure, usually having a columnar shape, function as \"extensible struts\"",
+    "type": "MISC"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q2934",
+    "span": "goat",
+    "label": "goat",
+    "description": "domesticated mammal raised primarily for its milk",
+    "type": "PER"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q1431888",
+    "span": "lil",
+    "label": "Lille Airport",
+    "description": "Lille airport, France",
+    "type": "MISC"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q1504146",
+    "span": "tun",
+    "label": "Tun",
+    "description": "unit of volume",
+    "type": "MISC"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q2086913",
+    "span": "cst",
+    "label": "Central Time Zone",
+    "description": "time zone in North America",
+    "type": "MISC"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q509184",
+    "span": "Fat",
+    "label": "Fat",
+    "description": "single",
+    "type": "MISC"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q36004",
+    "span": "cc",
+    "label": "Cocos (Keeling) Islands",
+    "description": "territory of Australia in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q83376",
+    "span": "rum",
+    "label": "rum",
+    "description": "distilled alcoholic beverage made from sugarcane",
+    "type": "MISC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q19898149",
+    "span": "V\u00e9nus",
+    "label": "Venus",
+    "description": "1929 film by Louis Mercanton",
+    "type": "LOC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q19877407",
+    "span": "B\u00e9r\u00e9nice",
+    "label": "B\u00e9r\u00e9nice",
+    "description": "opera",
+    "type": "LOC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q2742390",
+    "span": "Jaa",
+    "label": "Jalalabad Airport",
+    "description": "airport in Afghanistan",
+    "type": "PER"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q148",
+    "span": "cn",
+    "label": "People's Republic of China",
+    "description": "state in East Asia",
+    "type": "LOC"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q37141",
+    "span": "XIII",
+    "label": "13",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q28064451",
+    "span": "PETITION",
+    "label": "Petition",
+    "description": "2009 film by Zhao Liang",
+    "type": "MISC"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "MISC"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q30600919",
+    "span": "Vince",
+    "label": "Vince",
+    "description": "",
+    "type": "PER"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q3595326",
+    "span": "niser",
+    "label": "National Institute of Science Education and Research",
+    "description": "higher education institution in Bhubaneswar, India",
+    "type": "PER"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q453819",
+    "span": "TRAINS",
+    "label": "Trains",
+    "description": "magazine dedicated to trains and railroads",
+    "type": "LOC"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q1049511",
+    "span": "WA",
+    "label": "WhatsApp",
+    "description": "Facebook-owned mobile instant messenger and social media service",
+    "type": "LOC"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q912",
+    "span": "ml",
+    "label": "Mali",
+    "description": "republic in West Africa",
+    "type": "MISC"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q131454",
+    "span": "LC",
+    "label": "Library of Congress",
+    "description": "(de facto) national library of the United States of America",
+    "type": "MISC"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "ORG"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "LOC"
+  }
+}

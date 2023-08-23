@@ -1,0 +1,6631 @@
+{
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q252",
+    "span": "id",
+    "label": "Indonesia",
+    "description": "republic in Southeast Asia",
+    "type": "ORG"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q6328996",
+    "span": "Kfil",
+    "label": "KFIL",
+    "description": "American radio station",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q175821",
+    "span": "um",
+    "label": "micrometre",
+    "description": "one millionth of a metre",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1179064",
+    "span": "Monte",
+    "label": "Monte",
+    "description": "civil parish in Funchal",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q43141",
+    "span": ".gu",
+    "label": ".gu",
+    "description": "Internet country-code top level domain for Guam",
+    "type": "MISC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q678464",
+    "span": "Bonsoir",
+    "label": "Bonsoir",
+    "description": "1994 film by Jean-Pierre Mocky",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q678464",
+    "span": "Bonsoir",
+    "label": "Bonsoir",
+    "description": "1994 film by Jean-Pierre Mocky",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q865",
+    "span": "Tw",
+    "label": "Taiwan",
+    "description": "democratic republic in East Asia, with limited recognition",
+    "type": "LOC"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q15444128",
+    "span": "Hardi",
+    "label": "French destroyer Le Hardi",
+    "description": "Le Hardi-class destroyer",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q3248636",
+    "span": "Legal",
+    "label": "Legal",
+    "description": "functional constituency in Hong Kong",
+    "type": "ORG"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q948",
+    "span": "tn",
+    "label": "Tunisia",
+    "description": "country in Northern Africa",
+    "type": "PER"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q1135366",
+    "span": "Vans",
+    "label": "Vans",
+    "description": "American manufacturer of shoes",
+    "type": "PER"
+  },
+  "ID43": {
+    "url": "https://www.wikidata.org/wiki/Q2877463",
+    "span": "Kline",
+    "label": "Kline",
+    "description": "town in Barnwell County, South Carolina, United States",
+    "type": "PER"
+  },
+  "ID44": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID45": {
+    "url": "https://www.wikidata.org/wiki/Q224",
+    "span": "hr",
+    "label": "Croatia",
+    "description": "republic in Central Europe",
+    "type": "MISC"
+  },
+  "ID46": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID47": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID48": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID49": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID50": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID51": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID52": {
+    "url": "https://www.wikidata.org/wiki/Q3098686",
+    "span": "Gas",
+    "label": "Gas",
+    "description": "German electronic musician",
+    "type": "ORG"
+  },
+  "ID53": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID54": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID55": {
+    "url": "https://www.wikidata.org/wiki/Q7142558",
+    "span": "Las",
+    "label": "Passavas",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID56": {
+    "url": "https://www.wikidata.org/wiki/Q20155285",
+    "span": "Last",
+    "label": "Last",
+    "description": "South Korean television series",
+    "type": "MISC"
+  },
+  "ID57": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID58": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID59": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID60": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID61": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID62": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID63": {
+    "url": "https://www.wikidata.org/wiki/Q6493244",
+    "span": "Lasi",
+    "label": "Lasi",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID64": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID65": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID66": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID67": {
+    "url": "https://www.wikidata.org/wiki/Q1509726",
+    "span": "ger",
+    "label": "Ger",
+    "description": "Hassidic dynasty.",
+    "type": "LOC"
+  },
+  "ID68": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID69": {
+    "url": "https://www.wikidata.org/wiki/Q994711",
+    "span": "Vermand",
+    "label": "Vermand",
+    "description": "commune in Aisne, France",
+    "type": "PER"
+  },
+  "ID70": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID71": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID72": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID73": {
+    "url": "https://www.wikidata.org/wiki/Q678464",
+    "span": "Bonsoir",
+    "label": "Bonsoir",
+    "description": "1994 film by Jean-Pierre Mocky",
+    "type": "LOC"
+  },
+  "ID74": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID75": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID76": {
+    "url": "https://www.wikidata.org/wiki/Q7559068",
+    "span": "sol\u00e9",
+    "label": "Sol\u00e9",
+    "description": "American rapper",
+    "type": "LOC"
+  },
+  "ID77": {
+    "url": "https://www.wikidata.org/wiki/Q56540250",
+    "span": "Pierre-Louis",
+    "label": "Pierre-Louis",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID78": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID79": {
+    "url": "https://www.wikidata.org/wiki/Q1648135",
+    "span": "Mung",
+    "label": "mung",
+    "description": "computer jargon",
+    "type": "PER"
+  },
+  "ID80": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID81": {
+    "url": "https://www.wikidata.org/wiki/Q182744",
+    "span": "Saint-Quentin",
+    "label": "Saint-Quentin",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID82": {
+    "url": "https://www.wikidata.org/wiki/Q678464",
+    "span": "Bonsoir",
+    "label": "Bonsoir",
+    "description": "1994 film by Jean-Pierre Mocky",
+    "type": "LOC"
+  },
+  "ID83": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID84": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID85": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID86": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID87": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID88": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID89": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID90": {
+    "url": "https://www.wikidata.org/wiki/Q53351",
+    "span": "tre",
+    "label": "Accel World",
+    "description": "Japanese light novel series",
+    "type": "LOC"
+  },
+  "ID91": {
+    "url": "https://www.wikidata.org/wiki/Q6035",
+    "span": "ut",
+    "label": "\u00b5Torrent",
+    "description": "proprietary adware BitTorrent client",
+    "type": "ORG"
+  },
+  "ID92": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID93": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID94": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID95": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID96": {
+    "url": "https://www.wikidata.org/wiki/Q190531",
+    "span": "Fondue",
+    "label": "fondue",
+    "description": "dish of melted cheese",
+    "type": "ORG"
+  },
+  "ID97": {
+    "url": "https://www.wikidata.org/wiki/Q2294",
+    "span": "p",
+    "label": "proton",
+    "description": "nucleon (constituent of the nucleus of the atom) that has positive electric charge; symbol p",
+    "type": "LOC"
+  },
+  "ID98": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID99": {
+    "url": "https://www.wikidata.org/wiki/Q4032897",
+    "span": "Adone",
+    "label": "ADONE",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID100": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID101": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID102": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID103": {
+    "url": "https://www.wikidata.org/wiki/Q28790073",
+    "span": "taut",
+    "label": "Taut",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID104": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID105": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID106": {
+    "url": "https://www.wikidata.org/wiki/Q4739090",
+    "span": "amadou",
+    "label": "Amadou",
+    "description": "Spongy material derived from fungi",
+    "type": "PER"
+  },
+  "ID107": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID108": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID109": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID110": {
+    "url": "https://www.wikidata.org/wiki/Q16043593",
+    "span": "Mion",
+    "label": "Luigi Mion",
+    "description": "Italian painter (1843-1920)",
+    "type": "MISC"
+  },
+  "ID111": {
+    "url": "https://www.wikidata.org/wiki/Q2027997",
+    "span": "nard",
+    "label": "Nard",
+    "description": "tables-style board game for two players",
+    "type": "PER"
+  },
+  "ID112": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID113": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID114": {
+    "url": "https://www.wikidata.org/wiki/Q1132051",
+    "span": "pipe",
+    "label": "vertical bar",
+    "description": "character",
+    "type": "PER"
+  },
+  "ID115": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID116": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID117": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID118": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID119": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID120": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID121": {
+    "url": "https://www.wikidata.org/wiki/Q4957947",
+    "span": "Jim",
+    "label": "Jim",
+    "description": "character in Adventures of Huckleberry Finn",
+    "type": "PER"
+  },
+  "ID122": {
+    "url": "https://www.wikidata.org/wiki/Q23809",
+    "span": "Z",
+    "label": "atomic number",
+    "description": "number of protons found in the nucleus of an atom",
+    "type": "MISC"
+  },
+  "ID123": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID124": {
+    "url": "https://www.wikidata.org/wiki/Q55229798",
+    "span": "Volt",
+    "label": "Volt Europa",
+    "description": "Pan-European Political Party",
+    "type": "MISC"
+  },
+  "ID125": {
+    "url": "https://www.wikidata.org/wiki/Q547711",
+    "span": "J1",
+    "label": "J-1 visa",
+    "description": "non-immigrant visa issued by the United States to research scholars, professors and exchange visitors participating in programs that promote cultural exchange, especially to obtain medical or business training within the U.S.",
+    "type": "MISC"
+  },
+  "ID126": {
+    "url": "https://www.wikidata.org/wiki/Q1431176",
+    "span": "VIL",
+    "label": "Dakhla Airport",
+    "description": "airport in Morocco",
+    "type": "LOC"
+  },
+  "ID127": {
+    "url": "https://www.wikidata.org/wiki/Q14953",
+    "span": "LAGE",
+    "label": "Lage",
+    "description": "town in North Rhine-Westphalia, Germany",
+    "type": "LOC"
+  },
+  "ID128": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID129": {
+    "url": "https://www.wikidata.org/wiki/Q367208",
+    "span": "Remy",
+    "label": "Saint Remigius",
+    "description": "French bishop and saint",
+    "type": "PER"
+  },
+  "ID130": {
+    "url": "https://www.wikidata.org/wiki/Q367208",
+    "span": "Remy",
+    "label": "Saint Remigius",
+    "description": "French bishop and saint",
+    "type": "PER"
+  },
+  "ID131": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID132": {
+    "url": "https://www.wikidata.org/wiki/Q7710078",
+    "span": "than",
+    "label": "than",
+    "description": "English function word",
+    "type": "LOC"
+  },
+  "ID133": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID134": {
+    "url": "https://www.wikidata.org/wiki/Q1151190",
+    "span": "cw",
+    "label": "C\u03c9",
+    "description": "strongly typed, data oriented extension to the C# programming language",
+    "type": "MISC"
+  },
+  "ID135": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID136": {
+    "url": "https://www.wikidata.org/wiki/Q1013514",
+    "span": "Vieux",
+    "label": "Vieux",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID137": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID138": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID139": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID140": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID141": {
+    "url": "https://www.wikidata.org/wiki/Q173941",
+    "span": "ea",
+    "label": "Electronic Arts",
+    "description": "American interactive entertainment company",
+    "type": "PER"
+  },
+  "ID142": {
+    "url": "https://www.wikidata.org/wiki/Q33657",
+    "span": "glk",
+    "label": "Gilaki",
+    "description": "Caspian language, and a member of the northwestern Iranian language branch, spoken in Iran's G\u012bl\u0101n Province",
+    "type": "ORG"
+  },
+  "ID143": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID144": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID145": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID146": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID147": {
+    "url": "https://www.wikidata.org/wiki/Q27955792",
+    "span": "El",
+    "label": "Eleven",
+    "description": "fictional character from the Netflix series Stranger Things",
+    "type": "PER"
+  },
+  "ID148": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID149": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID150": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID151": {
+    "url": "https://www.wikidata.org/wiki/Q673959",
+    "span": "leil",
+    "label": "Leil",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID152": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID153": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID154": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID155": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID156": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID157": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID158": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID159": {
+    "url": "https://www.wikidata.org/wiki/Q13353",
+    "span": "ms",
+    "label": "Montserrat",
+    "description": "British Overseas Territory in the Caribbean",
+    "type": "MISC"
+  },
+  "ID160": {
+    "url": "https://www.wikidata.org/wiki/Q9957",
+    "span": "Wu",
+    "label": "Hongwu Emperor",
+    "description": "founding emperor of the Ming Dynasty",
+    "type": "PER"
+  },
+  "ID161": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID162": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID163": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID164": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID165": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID166": {
+    "url": "https://www.wikidata.org/wiki/Q183755",
+    "span": "AM",
+    "label": "amplitude modulation",
+    "description": "in amplitude modulation, the amplitude (signal strength) of the carrier wave is varied in proportion to the waveform being transmitted",
+    "type": "ORG"
+  },
+  "ID167": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID168": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID169": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID170": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID171": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID172": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID173": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID174": {
+    "url": "https://www.wikidata.org/wiki/Q9957",
+    "span": "Wu",
+    "label": "Hongwu Emperor",
+    "description": "founding emperor of the Ming Dynasty",
+    "type": "PER"
+  },
+  "ID175": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID176": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID177": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID178": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID179": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID180": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID181": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID182": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID183": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID184": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID185": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID186": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID187": {
+    "url": "https://www.wikidata.org/wiki/Q6075306",
+    "span": "Is",
+    "label": "Is",
+    "description": "album by Chick Corea",
+    "type": "LOC"
+  },
+  "ID188": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID189": {
+    "url": "https://www.wikidata.org/wiki/Q216125",
+    "span": "rer",
+    "label": "RER",
+    "description": "\u00cele-de-France regional express network",
+    "type": "PER"
+  },
+  "ID190": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID191": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID192": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID193": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID194": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID195": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID196": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID197": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID198": {
+    "url": "https://www.wikidata.org/wiki/Q1095545",
+    "span": "Ia",
+    "label": "Ia",
+    "description": "genus of mammals",
+    "type": "PER"
+  },
+  "ID199": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID200": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID201": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID202": {
+    "url": "https://www.wikidata.org/wiki/Q934533",
+    "span": "L0",
+    "label": "Haplogroup L0",
+    "description": "Human mitochondrial DNA haplogroup",
+    "type": "PER"
+  },
+  "ID203": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID204": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID205": {
+    "url": "https://www.wikidata.org/wiki/Q261247",
+    "span": "ct",
+    "label": "carat",
+    "description": "unit of mass",
+    "type": "ORG"
+  },
+  "ID206": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID207": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID208": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID209": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID210": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID211": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID212": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID213": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID214": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID215": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID216": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID217": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID218": {
+    "url": "https://www.wikidata.org/wiki/Q1000",
+    "span": "ga",
+    "label": "Gabon",
+    "description": "country in Africa",
+    "type": "PER"
+  },
+  "ID219": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID220": {
+    "url": "https://www.wikidata.org/wiki/Q23809",
+    "span": "Z",
+    "label": "atomic number",
+    "description": "number of protons found in the nucleus of an atom",
+    "type": "MISC"
+  },
+  "ID221": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID222": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID223": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID224": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID225": {
+    "url": "https://www.wikidata.org/wiki/Q1095545",
+    "span": "Ia",
+    "label": "Ia",
+    "description": "genus of mammals",
+    "type": "PER"
+  },
+  "ID226": {
+    "url": "https://www.wikidata.org/wiki/Q3755540",
+    "span": "g.",
+    "label": "G.",
+    "description": "book by John Berger",
+    "type": "PER"
+  },
+  "ID227": {
+    "url": "https://www.wikidata.org/wiki/Q601940",
+    "span": "AW",
+    "label": "Agencja Wywiadu",
+    "description": "Polish intelligence agency",
+    "type": "MISC"
+  },
+  "ID228": {
+    "url": "https://www.wikidata.org/wiki/Q13427002",
+    "span": "fad",
+    "label": "fad",
+    "description": "thing or behavior that achieves intense short-lived popularity and then fades away",
+    "type": "ORG"
+  },
+  "ID229": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID230": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID231": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID232": {
+    "url": "https://www.wikidata.org/wiki/Q263713",
+    "span": "Nev",
+    "label": "nevirapine",
+    "description": "chemical compound",
+    "type": "PER"
+  },
+  "ID233": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID234": {
+    "url": "https://www.wikidata.org/wiki/Q3487403",
+    "span": "WM",
+    "label": "Who Mourns for Adonais?",
+    "description": "episode of Star Trek: The Original Series (S2 E2)",
+    "type": "MISC"
+  },
+  "ID235": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID236": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID237": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID238": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID239": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID240": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID241": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID242": {
+    "url": "https://www.wikidata.org/wiki/Q6171926",
+    "span": "Jeang",
+    "label": "Jeang",
+    "description": "human settlement in Myanmar",
+    "type": "PER"
+  },
+  "ID243": {
+    "url": "https://www.wikidata.org/wiki/Q5627870",
+    "span": "H.",
+    "label": "H.",
+    "description": "1997 single by Tool",
+    "type": "PER"
+  },
+  "ID244": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID245": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID246": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID247": {
+    "url": "https://www.wikidata.org/wiki/Q5587649",
+    "span": "got",
+    "label": "Got",
+    "description": "bull",
+    "type": "LOC"
+  },
+  "ID248": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID249": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID250": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID251": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID252": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID253": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID254": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID255": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID256": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID257": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "fr",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID258": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID259": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID260": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID261": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID262": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID263": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID264": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID265": {
+    "url": "https://www.wikidata.org/wiki/Q1341345",
+    "span": "lor\u00e9",
+    "label": "Lor\u00e9",
+    "description": "former commune in Orne, France",
+    "type": "PER"
+  },
+  "ID266": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID267": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID268": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID269": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID270": {
+    "url": "https://www.wikidata.org/wiki/Q7942276",
+    "span": "VOUS",
+    "label": "Vous",
+    "description": "2011 single by Merwan Rim",
+    "type": "MISC"
+  },
+  "ID271": {
+    "url": "https://www.wikidata.org/wiki/Q185638",
+    "span": "Ci",
+    "label": "cirrus",
+    "description": "genus of atmospheric cloud",
+    "type": "LOC"
+  },
+  "ID272": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID273": {
+    "url": "https://www.wikidata.org/wiki/Q200",
+    "span": "II",
+    "label": "2",
+    "description": "natural number",
+    "type": "LOC"
+  },
+  "ID274": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID275": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID276": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID277": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID278": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID279": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID280": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID281": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID282": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID283": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID284": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID285": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID286": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID287": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID288": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID289": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID290": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID291": {
+    "url": "https://www.wikidata.org/wiki/Q261247",
+    "span": "ct",
+    "label": "carat",
+    "description": "unit of mass",
+    "type": "ORG"
+  },
+  "ID292": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID293": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID294": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID295": {
+    "url": "https://www.wikidata.org/wiki/Q672",
+    "span": "Tv",
+    "label": "Tuvalu",
+    "description": "country in Oceania",
+    "type": "ORG"
+  },
+  "ID296": {
+    "url": "https://www.wikidata.org/wiki/Q13199",
+    "span": "rm",
+    "label": "Romansh",
+    "description": "Romance language spoken predominantly in the southeastern Swiss canton of Grisons (Graub\u00fcnden)",
+    "type": "LOC"
+  },
+  "ID297": {
+    "url": "https://www.wikidata.org/wiki/Q1027",
+    "span": "mu",
+    "label": "Mauritius",
+    "description": "country in the Indian Ocean",
+    "type": "ORG"
+  },
+  "ID298": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID299": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID300": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID301": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID302": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID303": {
+    "url": "https://www.wikidata.org/wiki/Q9325",
+    "span": "lh",
+    "label": "Lufthansa",
+    "description": "German flag-carrier Airline",
+    "type": "MISC"
+  },
+  "ID304": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID305": {
+    "url": "https://www.wikidata.org/wiki/Q6555108",
+    "span": "linval",
+    "label": "Linval",
+    "description": "given name",
+    "type": "LOC"
+  },
+  "ID306": {
+    "url": "https://www.wikidata.org/wiki/Q627003",
+    "span": "terroir",
+    "label": "Terroir",
+    "description": "environmental factors that affect a crop's phenotype",
+    "type": "LOC"
+  },
+  "ID307": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID308": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID309": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID310": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID311": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID312": {
+    "url": "https://www.wikidata.org/wiki/Q2097883",
+    "span": "Ole",
+    "label": "Ole",
+    "description": "male given name",
+    "type": "MISC"
+  },
+  "ID313": {
+    "url": "https://www.wikidata.org/wiki/Q180932",
+    "span": "boucher",
+    "label": "Fran\u00e7ois Boucher",
+    "description": "French painter",
+    "type": "LOC"
+  },
+  "ID314": {
+    "url": "https://www.wikidata.org/wiki/Q10860385",
+    "span": "qny",
+    "label": "New York Skyports Inc. Seaplane Base",
+    "description": "airport in New York, United States of America",
+    "type": "MISC"
+  },
+  "ID315": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID316": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID317": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID318": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID319": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID320": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID321": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID322": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID323": {
+    "url": "https://www.wikidata.org/wiki/Q202",
+    "span": "IV",
+    "label": "4",
+    "description": "natural number",
+    "type": "LOC"
+  },
+  "ID324": {
+    "url": "https://www.wikidata.org/wiki/Q327496",
+    "span": "do",
+    "label": "hairstyle",
+    "description": "style of hair, usually on the human scalp",
+    "type": "LOC"
+  },
+  "ID325": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID326": {
+    "url": "https://www.wikidata.org/wiki/Q854",
+    "span": "lk",
+    "label": "Sri Lanka",
+    "description": "island republic in South Asia",
+    "type": "MISC"
+  },
+  "ID327": {
+    "url": "https://www.wikidata.org/wiki/Q140631",
+    "span": "Tainan",
+    "label": "Tainan",
+    "description": "city in southern Taiwan",
+    "type": "LOC"
+  },
+  "ID328": {
+    "url": "https://www.wikidata.org/wiki/Q17514",
+    "span": "tag",
+    "label": "graffiti",
+    "description": "writing or drawing etched, scratched, scribbled, or sprayed illicitly on a wall or other surface in a public place",
+    "type": "MISC"
+  },
+  "ID329": {
+    "url": "https://www.wikidata.org/wiki/Q34617",
+    "span": "pm",
+    "label": "Saint Pierre and Miquelon",
+    "description": "self-governing territorial overseas collectivity of France",
+    "type": "LOC"
+  },
+  "ID330": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID331": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID332": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID333": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID334": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID335": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID336": {
+    "url": "https://www.wikidata.org/wiki/Q1095545",
+    "span": "Ia",
+    "label": "Ia",
+    "description": "genus of mammals",
+    "type": "PER"
+  },
+  "ID337": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID338": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID339": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID340": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID341": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID342": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID343": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID344": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID345": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID346": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID347": {
+    "url": "https://www.wikidata.org/wiki/Q1406501",
+    "span": "labia",
+    "label": "labia",
+    "description": "part of the female genitalia",
+    "type": "LOC"
+  },
+  "ID348": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID349": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID350": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID351": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID352": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID353": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID354": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID355": {
+    "url": "https://www.wikidata.org/wiki/Q457002",
+    "span": "Riez",
+    "label": "Riez",
+    "description": "commune in Alpes-de-Haute-Provence, France",
+    "type": "LOC"
+  },
+  "ID356": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID357": {
+    "url": "https://www.wikidata.org/wiki/Q514050",
+    "span": "fen",
+    "label": "fen",
+    "description": "type of wetland",
+    "type": "ORG"
+  },
+  "ID358": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID359": {
+    "url": "https://www.wikidata.org/wiki/Q477916",
+    "span": "DBZ",
+    "label": "Dragon Ball Z",
+    "description": "1989-1996 Japanese anime television series based on the Dragon Ball manga series",
+    "type": "MISC"
+  },
+  "ID360": {
+    "url": "https://www.wikidata.org/wiki/Q514050",
+    "span": "fen",
+    "label": "fen",
+    "description": "type of wetland",
+    "type": "ORG"
+  },
+  "ID361": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID362": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID363": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID364": {
+    "url": "https://www.wikidata.org/wiki/Q64995853",
+    "span": "mert",
+    "label": "Mert",
+    "description": "male given name",
+    "type": "LOC"
+  },
+  "ID365": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID366": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID367": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID368": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID369": {
+    "url": "https://www.wikidata.org/wiki/Q1138185",
+    "span": "L7",
+    "label": "L7",
+    "description": "band",
+    "type": "LOC"
+  },
+  "ID370": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID371": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID372": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID373": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID374": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID375": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID376": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID377": {
+    "url": "https://www.wikidata.org/wiki/Q7245853",
+    "span": "prisons",
+    "label": "Prisons",
+    "description": "album by Eyes of Fire",
+    "type": "LOC"
+  },
+  "ID378": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID379": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID380": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID381": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID382": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID383": {
+    "url": "https://www.wikidata.org/wiki/Q183061",
+    "span": "facade",
+    "label": "facade",
+    "description": "exterior side of a building, usually the front but not always",
+    "type": "MISC"
+  },
+  "ID384": {
+    "url": "https://www.wikidata.org/wiki/Q36903933",
+    "span": "nute",
+    "label": "Nute",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID385": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID386": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID387": {
+    "url": "https://www.wikidata.org/wiki/Q1881062",
+    "span": "m6",
+    "label": "M6",
+    "description": "French TV channel",
+    "type": "ORG"
+  },
+  "ID388": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID389": {
+    "url": "https://www.wikidata.org/wiki/Q1133636",
+    "span": "terai",
+    "label": "Terai",
+    "description": "plain",
+    "type": "PER"
+  },
+  "ID390": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID391": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID392": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID393": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID394": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID395": {
+    "url": "https://www.wikidata.org/wiki/Q14786561",
+    "span": "Fury",
+    "label": "Fury",
+    "description": "2014 American-British war film directed by David Ayer",
+    "type": "MISC"
+  },
+  "ID396": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID397": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID398": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID399": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID400": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID401": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID402": {
+    "url": "https://www.wikidata.org/wiki/Q54099",
+    "span": "lecompte",
+    "label": "Lecompte",
+    "description": "town in Louisiana, United States",
+    "type": "PER"
+  },
+  "ID403": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID404": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID405": {
+    "url": "https://www.wikidata.org/wiki/Q1661655",
+    "span": "Tache",
+    "label": "Tach\u00e9",
+    "description": "rural municipality in Manitoba, Canada",
+    "type": "LOC"
+  },
+  "ID406": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID407": {
+    "url": "https://www.wikidata.org/wiki/Q21405456",
+    "span": "Jain",
+    "label": "Jain",
+    "description": "French recording artist, singer",
+    "type": "PER"
+  },
+  "ID408": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID409": {
+    "url": "https://www.wikidata.org/wiki/Q3527389",
+    "span": "r\u00e9Volution",
+    "label": "Th\u00e9s\u00e9e",
+    "description": "French warship of 1790",
+    "type": "MISC"
+  },
+  "ID410": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID411": {
+    "url": "https://www.wikidata.org/wiki/Q3755540",
+    "span": "g.",
+    "label": "G.",
+    "description": "book by John Berger",
+    "type": "PER"
+  },
+  "ID412": {
+    "url": "https://www.wikidata.org/wiki/Q3487403",
+    "span": "WM",
+    "label": "Who Mourns for Adonais?",
+    "description": "episode of Star Trek: The Original Series (S2 E2)",
+    "type": "MISC"
+  },
+  "ID413": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID414": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID415": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID416": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID417": {
+    "url": "https://www.wikidata.org/wiki/Q6040253",
+    "span": "ies",
+    "label": "Institute of Education Sciences",
+    "description": "United States Department of Education research branch",
+    "type": "LOC"
+  },
+  "ID418": {
+    "url": "https://www.wikidata.org/wiki/Q843229",
+    "span": "bbu",
+    "label": "Aurel Vlaicu International Airport",
+    "description": "airport",
+    "type": "ORG"
+  },
+  "ID419": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID420": {
+    "url": "https://www.wikidata.org/wiki/Q3387750",
+    "span": "ION",
+    "label": "Ion",
+    "description": "mass rapid transit network in Waterloo, Canada",
+    "type": "MISC"
+  },
+  "ID421": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID422": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID423": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID424": {
+    "url": "https://www.wikidata.org/wiki/Q980534",
+    "span": "Clarissa",
+    "label": "Clarissa",
+    "description": "epistolary novel by Samuel Richardson",
+    "type": "MISC"
+  },
+  "ID425": {
+    "url": "https://www.wikidata.org/wiki/Q45842",
+    "span": "ant",
+    "label": "web crawler",
+    "description": "internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering)",
+    "type": "ORG"
+  },
+  "ID426": {
+    "url": "https://www.wikidata.org/wiki/Q414232",
+    "span": "Mme",
+    "label": "Membrane metalloendopeptidase",
+    "description": "mammalian protein found in Homo sapiens",
+    "type": "PER"
+  },
+  "ID427": {
+    "url": "https://www.wikidata.org/wiki/Q9957",
+    "span": "Wu",
+    "label": "Hongwu Emperor",
+    "description": "founding emperor of the Ming Dynasty",
+    "type": "PER"
+  },
+  "ID428": {
+    "url": "https://www.wikidata.org/wiki/Q1020",
+    "span": "mw",
+    "label": "Malawi",
+    "description": "country in Africa",
+    "type": "MISC"
+  },
+  "ID429": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID430": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID431": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID432": {
+    "url": "https://www.wikidata.org/wiki/Q861",
+    "span": "Ga",
+    "label": "gallium",
+    "description": "chemical element with atomic number of 31",
+    "type": "PER"
+  },
+  "ID433": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID434": {
+    "url": "https://www.wikidata.org/wiki/Q3441800",
+    "span": "if",
+    "label": "The Icarus Factor",
+    "description": "episode of Star Trek: The Next Generation (S2 E14)",
+    "type": "MISC"
+  },
+  "ID435": {
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "span": "Alger",
+    "label": "Algiers",
+    "description": "capital city of Algeria",
+    "type": "LOC"
+  },
+  "ID436": {
+    "url": "https://www.wikidata.org/wiki/Q7975736",
+    "span": "waxy",
+    "label": "Waxy",
+    "description": "horse",
+    "type": "MISC"
+  },
+  "ID437": {
+    "url": "https://www.wikidata.org/wiki/Q19571648",
+    "span": "NF",
+    "label": "NF",
+    "description": "American rapper from Michigan",
+    "type": "ORG"
+  },
+  "ID438": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID439": {
+    "url": "https://www.wikidata.org/wiki/Q292990",
+    "span": "TWM",
+    "label": "twm",
+    "description": "window manager",
+    "type": "ORG"
+  },
+  "ID440": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID441": {
+    "url": "https://www.wikidata.org/wiki/Q4925706",
+    "span": "ble",
+    "label": "Ble",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID442": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID443": {
+    "url": "https://www.wikidata.org/wiki/Q370258",
+    "span": "Jc",
+    "label": "junior college",
+    "description": "type of educational institution",
+    "type": "MISC"
+  },
+  "ID444": {
+    "url": "https://www.wikidata.org/wiki/Q1509726",
+    "span": "ger",
+    "label": "Ger",
+    "description": "Hassidic dynasty.",
+    "type": "LOC"
+  },
+  "ID445": {
+    "url": "https://www.wikidata.org/wiki/Q16281827",
+    "span": "Sylvain",
+    "label": "Sylvain",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID446": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID447": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID448": {
+    "url": "https://www.wikidata.org/wiki/Q224",
+    "span": "Hr",
+    "label": "Croatia",
+    "description": "republic in Central Europe",
+    "type": "LOC"
+  },
+  "ID449": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID450": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID451": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID452": {
+    "url": "https://www.wikidata.org/wiki/Q40599",
+    "span": "Manet",
+    "label": "\u00c9douard Manet",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID453": {
+    "url": "https://www.wikidata.org/wiki/Q15618594",
+    "span": "s5",
+    "label": "Samsung Galaxy S5",
+    "description": "Android-based smartphone released by Samsung in 2014",
+    "type": "MISC"
+  },
+  "ID454": {
+    "url": "https://www.wikidata.org/wiki/Q174240",
+    "span": "TI",
+    "label": "Transparency International",
+    "description": "Non-governmental organization",
+    "type": "MISC"
+  },
+  "ID455": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID456": {
+    "url": "https://www.wikidata.org/wiki/Q1144202",
+    "span": "VI",
+    "label": "VI",
+    "description": "album by Circle Jerks",
+    "type": "PER"
+  },
+  "ID457": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "MADAME",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "MISC"
+  },
+  "ID458": {
+    "url": "https://www.wikidata.org/wiki/Q1000",
+    "span": "ga",
+    "label": "Gabon",
+    "description": "country in Africa",
+    "type": "PER"
+  },
+  "ID459": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID460": {
+    "url": "https://www.wikidata.org/wiki/Q1037",
+    "span": "rw",
+    "label": "Rwanda",
+    "description": "country in Africa",
+    "type": "MISC"
+  },
+  "ID461": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID462": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID463": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID464": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID465": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID466": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID467": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID468": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID469": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID470": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID471": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID472": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID473": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID474": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID475": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "LOC"
+  },
+  "ID476": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID477": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID478": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID479": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID480": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID481": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID482": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID483": {
+    "url": "https://www.wikidata.org/wiki/Q3387750",
+    "span": "ION",
+    "label": "Ion",
+    "description": "mass rapid transit network in Waterloo, Canada",
+    "type": "MISC"
+  },
+  "ID484": {
+    "url": "https://www.wikidata.org/wiki/Q8441",
+    "span": "m.",
+    "label": "man",
+    "description": "male adult human",
+    "type": "PER"
+  },
+  "ID485": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID486": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID487": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID488": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID489": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID490": {
+    "url": "https://www.wikidata.org/wiki/Q902860",
+    "span": "Ohl",
+    "label": "Ontario Hockey League",
+    "description": "sports league",
+    "type": "PER"
+  },
+  "ID491": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID492": {
+    "url": "https://www.wikidata.org/wiki/Q1041",
+    "span": "sn",
+    "label": "Senegal",
+    "description": "country in Western Africa",
+    "type": "LOC"
+  },
+  "ID493": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID494": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID495": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID496": {
+    "url": "https://www.wikidata.org/wiki/Q867580",
+    "span": "noux",
+    "label": "Nuuksio",
+    "description": "city district in Espoo, Finland",
+    "type": "PER"
+  },
+  "ID497": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID498": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID499": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID500": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID501": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID502": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "LOC"
+  },
+  "ID503": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID504": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID505": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID506": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID507": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID508": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID509": {
+    "url": "https://www.wikidata.org/wiki/Q17070",
+    "span": "r\u00e9union",
+    "label": "R\u00e9union",
+    "description": "island in the Indian Ocean, overseas region of France",
+    "type": "PER"
+  },
+  "ID510": {
+    "url": "https://www.wikidata.org/wiki/Q201904",
+    "span": "Qt",
+    "label": "Qt",
+    "description": "object-oriented framework for GUI creation",
+    "type": "MISC"
+  },
+  "ID511": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID512": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID513": {
+    "url": "https://www.wikidata.org/wiki/Q23350",
+    "span": "M3",
+    "label": "7",
+    "description": "natural number",
+    "type": "ORG"
+  },
+  "ID514": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID515": {
+    "url": "https://www.wikidata.org/wiki/Q2294",
+    "span": "p",
+    "label": "proton",
+    "description": "nucleon (constituent of the nucleus of the atom) that has positive electric charge; symbol p",
+    "type": "LOC"
+  },
+  "ID516": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID517": {
+    "url": "https://www.wikidata.org/wiki/Q111444",
+    "span": "Mull",
+    "label": "Isle of Mull",
+    "description": "island of the Inner Hebrides, in Argyll and Bute, Scotland",
+    "type": "PER"
+  },
+  "ID518": {
+    "url": "https://www.wikidata.org/wiki/Q3528550",
+    "span": "TIlt",
+    "label": "Tilt",
+    "description": "Scott Walker album",
+    "type": "LOC"
+  },
+  "ID519": {
+    "url": "https://www.wikidata.org/wiki/Q23350",
+    "span": "VII",
+    "label": "7",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID520": {
+    "url": "https://www.wikidata.org/wiki/Q5962411",
+    "span": "CONSCRIPTION",
+    "label": "Conscription in Iran",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID521": {
+    "url": "https://www.wikidata.org/wiki/Q28790073",
+    "span": "taut",
+    "label": "Taut",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID522": {
+    "url": "https://www.wikidata.org/wiki/Q1617",
+    "span": "ur",
+    "label": "Urdu",
+    "description": "language in Pakistan (as national and official) and India (as offcial and co-official).",
+    "type": "MISC"
+  },
+  "ID523": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID524": {
+    "url": "https://www.wikidata.org/wiki/Q815628",
+    "span": "bOn",
+    "label": "bon",
+    "description": "tibetan religion",
+    "type": "PER"
+  },
+  "ID525": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID526": {
+    "url": "https://www.wikidata.org/wiki/Q17345",
+    "span": "dormer",
+    "label": "dormer",
+    "description": "structural element of a building",
+    "type": "PER"
+  },
+  "ID527": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID528": {
+    "url": "https://www.wikidata.org/wiki/Q6555108",
+    "span": "linval",
+    "label": "Linval",
+    "description": "given name",
+    "type": "LOC"
+  },
+  "ID529": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID530": {
+    "url": "https://www.wikidata.org/wiki/Q783",
+    "span": "HON",
+    "label": "Honduras",
+    "description": "republic in Central America",
+    "type": "ORG"
+  },
+  "ID531": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID532": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID533": {
+    "url": "https://www.wikidata.org/wiki/Q61694",
+    "span": "uri",
+    "label": "Uniform Resource Identifier",
+    "description": "string of characters used to identify a name of a web resource",
+    "type": "LOC"
+  },
+  "ID534": {
+    "url": "https://www.wikidata.org/wiki/Q2845",
+    "span": "Maria",
+    "label": "cannabis",
+    "description": "a psychoactive drug from the Cannabis plant used for medical or recreational purposes",
+    "type": "PER"
+  },
+  "ID535": {
+    "url": "https://www.wikidata.org/wiki/Q1145140",
+    "span": "corbeau",
+    "label": "Le Corbeau",
+    "description": "1943 film by Henri-Georges Clouzot",
+    "type": "PER"
+  },
+  "ID536": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID537": {
+    "url": "https://www.wikidata.org/wiki/Q44532",
+    "span": "Vulcain",
+    "label": "Vulcain",
+    "description": "family of European first stage rocket engines",
+    "type": "PER"
+  },
+  "ID538": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID539": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID540": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID541": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID542": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID543": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID544": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID545": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID546": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID547": {
+    "url": "https://www.wikidata.org/wiki/Q261247",
+    "span": "ct",
+    "label": "carat",
+    "description": "unit of mass",
+    "type": "ORG"
+  },
+  "ID548": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID549": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID550": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID551": {
+    "url": "https://www.wikidata.org/wiki/Q57410",
+    "span": "peres",
+    "label": "Shimon Peres",
+    "description": "Israeli politician",
+    "type": "PER"
+  },
+  "ID552": {
+    "url": "https://www.wikidata.org/wiki/Q618",
+    "span": "B",
+    "label": "boron",
+    "description": "chemical element with the atomic number of 5",
+    "type": "LOC"
+  },
+  "ID553": {
+    "url": "https://www.wikidata.org/wiki/Q185638",
+    "span": "Ci",
+    "label": "cirrus",
+    "description": "genus of atmospheric cloud",
+    "type": "LOC"
+  },
+  "ID554": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID555": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID556": {
+    "url": "https://www.wikidata.org/wiki/Q845104",
+    "span": "Wee",
+    "label": "Huang",
+    "description": "East Asian surname with the character \u9ec3 or \u9ec4",
+    "type": "ORG"
+  },
+  "ID557": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID558": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID559": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID560": {
+    "url": "https://www.wikidata.org/wiki/Q1247758",
+    "span": "s\u00e9e",
+    "label": "S\u00e9e",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID561": {
+    "url": "https://www.wikidata.org/wiki/Q23355",
+    "span": "VIII",
+    "label": "8",
+    "description": "natural number",
+    "type": "MISC"
+  },
+  "ID562": {
+    "url": "https://www.wikidata.org/wiki/Q1671978",
+    "span": "REV",
+    "label": "REV",
+    "description": "hard disk storage system",
+    "type": "MISC"
+  },
+  "ID563": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID564": {
+    "url": "https://www.wikidata.org/wiki/Q38130",
+    "span": "Ln",
+    "label": "League of Nations",
+    "description": "intergovernmental organization, predecessor to the United Nations",
+    "type": "LOC"
+  },
+  "ID565": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "ORG"
+  },
+  "ID566": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID567": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID568": {
+    "url": "https://www.wikidata.org/wiki/Q6040253",
+    "span": "ies",
+    "label": "Institute of Education Sciences",
+    "description": "United States Department of Education research branch",
+    "type": "LOC"
+  },
+  "ID569": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID570": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID571": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID572": {
+    "url": "https://www.wikidata.org/wiki/Q204040",
+    "span": "mur",
+    "label": "Mur",
+    "description": "river in Central Europe",
+    "type": "MISC"
+  },
+  "ID573": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID574": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID575": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID576": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID577": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID578": {
+    "url": "https://www.wikidata.org/wiki/Q1213581",
+    "span": "enfer",
+    "label": "L'Enfer",
+    "description": "1994 film by Claude Chabrol",
+    "type": "MISC"
+  },
+  "ID579": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID580": {
+    "url": "https://www.wikidata.org/wiki/Q2006082",
+    "span": "sun",
+    "label": "sun",
+    "description": "heraldic figure",
+    "type": "ORG"
+  },
+  "ID581": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID582": {
+    "url": "https://www.wikidata.org/wiki/Q17345",
+    "span": "dormer",
+    "label": "dormer",
+    "description": "structural element of a building",
+    "type": "PER"
+  },
+  "ID583": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID584": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID585": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID586": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID587": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID588": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID589": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID590": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID591": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID592": {
+    "url": "https://www.wikidata.org/wiki/Q5478058",
+    "span": "Pere",
+    "label": "Pere Mart\u00ednez Sastre",
+    "description": "Spanish footballer",
+    "type": "PER"
+  },
+  "ID593": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID594": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID595": {
+    "url": "https://www.wikidata.org/wiki/Q6040253",
+    "span": "Ies",
+    "label": "Institute of Education Sciences",
+    "description": "United States Department of Education research branch",
+    "type": "PER"
+  },
+  "ID596": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID597": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID598": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID599": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID600": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID601": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID602": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID603": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID604": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID605": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID606": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID607": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID608": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID609": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID610": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID611": {
+    "url": "https://www.wikidata.org/wiki/Q4978987",
+    "span": "Brunelle",
+    "label": "Brunelle",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID612": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID613": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID614": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID615": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID616": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID617": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID618": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID619": {
+    "url": "https://www.wikidata.org/wiki/Q5813530",
+    "span": "sard",
+    "label": "Sard",
+    "description": "village in Iran",
+    "type": "MISC"
+  },
+  "ID620": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "LOC"
+  },
+  "ID621": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID622": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID623": {
+    "url": "https://www.wikidata.org/wiki/Q1013",
+    "span": "LES",
+    "label": "Lesotho",
+    "description": "kingdom in southern Africa",
+    "type": "LOC"
+  },
+  "ID624": {
+    "url": "https://www.wikidata.org/wiki/Q19108",
+    "span": "IX",
+    "label": "9",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID625": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID626": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID627": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID628": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID629": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID630": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID631": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID632": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID633": {
+    "url": "https://www.wikidata.org/wiki/Q1149531",
+    "span": "bOnnet",
+    "label": "bonnet",
+    "description": "headwear usually tied under the chin and having a front brim",
+    "type": "MISC"
+  },
+  "ID634": {
+    "url": "https://www.wikidata.org/wiki/Q1045105",
+    "span": "met-",
+    "label": "meta-",
+    "description": "Greek prefix: prefix of abstraction",
+    "type": "LOC"
+  },
+  "ID635": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID636": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID637": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID638": {
+    "url": "https://www.wikidata.org/wiki/Q230",
+    "span": "GE",
+    "label": "Georgia",
+    "description": "republic in the Caucasus region",
+    "type": "ORG"
+  },
+  "ID639": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID640": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID641": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID642": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID643": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID644": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID645": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID646": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "MISC"
+  },
+  "ID647": {
+    "url": "https://www.wikidata.org/wiki/Q26504",
+    "span": "MQN",
+    "label": "Mo i Rana Airport",
+    "description": "airport in Norway",
+    "type": "ORG"
+  },
+  "ID648": {
+    "url": "https://www.wikidata.org/wiki/Q23350",
+    "span": "VII",
+    "label": "7",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID649": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID650": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID651": {
+    "url": "https://www.wikidata.org/wiki/Q30113",
+    "span": "Jeep",
+    "label": "Jeep",
+    "description": "brand of American Cars",
+    "type": "MISC"
+  },
+  "ID652": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID653": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID654": {
+    "url": "https://www.wikidata.org/wiki/Q7366",
+    "span": "piece",
+    "label": "song",
+    "description": "composition for voice(s)",
+    "type": "LOC"
+  },
+  "ID655": {
+    "url": "https://www.wikidata.org/wiki/Q8864",
+    "span": "peg",
+    "label": "Pegasus",
+    "description": "constellation in the northern celestial hemisphere",
+    "type": "ORG"
+  },
+  "ID656": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID657": {
+    "url": "https://www.wikidata.org/wiki/Q10538",
+    "span": "cma",
+    "label": "Canis Major",
+    "description": "constellation in the southern celestial hemisphere",
+    "type": "ORG"
+  },
+  "ID658": {
+    "url": "https://www.wikidata.org/wiki/Q7366",
+    "span": "piece",
+    "label": "song",
+    "description": "composition for voice(s)",
+    "type": "LOC"
+  },
+  "ID659": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID660": {
+    "url": "https://www.wikidata.org/wiki/Q200",
+    "span": "II",
+    "label": "2",
+    "description": "natural number",
+    "type": "LOC"
+  },
+  "ID661": {
+    "url": "https://www.wikidata.org/wiki/Q7366",
+    "span": "piece",
+    "label": "song",
+    "description": "composition for voice(s)",
+    "type": "LOC"
+  },
+  "ID662": {
+    "url": "https://www.wikidata.org/wiki/Q926323",
+    "span": "Mi",
+    "label": "Miri",
+    "description": "episode of Star Trek: The Original Series (S1 E8)",
+    "type": "MISC"
+  },
+  "ID663": {
+    "url": "https://www.wikidata.org/wiki/Q7981444",
+    "span": "egt",
+    "label": "Wellington Municipal Airport",
+    "description": "airport in Kansas, United States of America",
+    "type": "ORG"
+  },
+  "ID664": {
+    "url": "https://www.wikidata.org/wiki/Q188808",
+    "span": "Vita",
+    "label": "PlayStation Vita",
+    "description": "handheld game console manufactured and marketed by Sony Computer Entertainment",
+    "type": "MISC"
+  },
+  "ID665": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID666": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID667": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID668": {
+    "url": "https://www.wikidata.org/wiki/Q5588473",
+    "span": "gousset",
+    "label": "gousset",
+    "description": "component of medieval armor",
+    "type": "LOC"
+  },
+  "ID669": {
+    "url": "https://www.wikidata.org/wiki/Q11703",
+    "span": "vi",
+    "label": "United States Virgin Islands",
+    "description": "group of islands in the Caribbean",
+    "type": "MISC"
+  },
+  "ID670": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID671": {
+    "url": "https://www.wikidata.org/wiki/Q263800",
+    "span": "IH",
+    "label": "International Harvester",
+    "description": "company",
+    "type": "MISC"
+  },
+  "ID672": {
+    "url": "https://www.wikidata.org/wiki/Q26504",
+    "span": "MQN",
+    "label": "Mo i Rana Airport",
+    "description": "airport in Norway",
+    "type": "ORG"
+  },
+  "ID673": {
+    "url": "https://www.wikidata.org/wiki/Q11197",
+    "span": "Lg",
+    "label": "logarithm",
+    "description": "inverse function to exponentiation",
+    "type": "MISC"
+  },
+  "ID674": {
+    "url": "https://www.wikidata.org/wiki/Q796297",
+    "span": "B3",
+    "label": "B3",
+    "description": "Stock exchange located in S\u00e3o Paulo, Brazil",
+    "type": "LOC"
+  },
+  "ID675": {
+    "url": "https://www.wikidata.org/wiki/Q1528995",
+    "span": "mjt",
+    "label": "Mytilene International Airport",
+    "description": "airport",
+    "type": "MISC"
+  },
+  "ID676": {
+    "url": "https://www.wikidata.org/wiki/Q261247",
+    "span": "ct",
+    "label": "carat",
+    "description": "unit of mass",
+    "type": "ORG"
+  },
+  "ID677": {
+    "url": "https://www.wikidata.org/wiki/Q980534",
+    "span": "Clarissa",
+    "label": "Clarissa",
+    "description": "epistolary novel by Samuel Richardson",
+    "type": "MISC"
+  },
+  "ID678": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID679": {
+    "url": "https://www.wikidata.org/wiki/Q804970",
+    "span": "Yu",
+    "label": "Liu",
+    "description": "Chinese surname \u5218",
+    "type": "PER"
+  },
+  "ID680": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID681": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID682": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID683": {
+    "url": "https://www.wikidata.org/wiki/Q460173",
+    "span": "epa",
+    "label": "United States Environmental Protection Agency",
+    "description": "Agency of the U.S. Federal Government",
+    "type": "ORG"
+  },
+  "ID684": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID685": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID686": {
+    "url": "https://www.wikidata.org/wiki/Q212420",
+    "span": "Sens",
+    "label": "Sens",
+    "description": "commune in Yonne, France",
+    "type": "LOC"
+  },
+  "ID687": {
+    "url": "https://www.wikidata.org/wiki/Q948",
+    "span": "tn",
+    "label": "Tunisia",
+    "description": "country in Northern Africa",
+    "type": "PER"
+  },
+  "ID688": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID689": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID690": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID691": {
+    "url": "https://www.wikidata.org/wiki/Q185638",
+    "span": "Ci",
+    "label": "cirrus",
+    "description": "genus of atmospheric cloud",
+    "type": "LOC"
+  },
+  "ID692": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID693": {
+    "url": "https://www.wikidata.org/wiki/Q2539",
+    "span": "ML",
+    "label": "machine learning",
+    "description": "branch of statistics and computer science, which studies algorithms and architectures that learn from observed facts",
+    "type": "MISC"
+  },
+  "ID694": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID695": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID696": {
+    "url": "https://www.wikidata.org/wiki/Q63538437",
+    "span": "Baptiste",
+    "label": "Baptiste",
+    "description": "UK television series",
+    "type": "PER"
+  },
+  "ID697": {
+    "url": "https://www.wikidata.org/wiki/Q674",
+    "span": "P",
+    "label": "phosphorus",
+    "description": "chemical element with the atomic number of 15",
+    "type": "LOC"
+  },
+  "ID698": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID699": {
+    "url": "https://www.wikidata.org/wiki/Q117934",
+    "span": "Tour",
+    "label": "The Tour",
+    "description": "2008 film by Goran Markovi\u0107",
+    "type": "MISC"
+  },
+  "ID700": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID701": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID702": {
+    "url": "https://www.wikidata.org/wiki/Q8354594",
+    "span": "grace",
+    "label": "gray asexuality",
+    "description": "spectrum between asexuality and sexuality",
+    "type": "MISC"
+  },
+  "ID703": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID704": {
+    "url": "https://www.wikidata.org/wiki/Q4881057",
+    "span": "Beige",
+    "label": "Beige",
+    "description": "album",
+    "type": "MISC"
+  },
+  "ID705": {
+    "url": "https://www.wikidata.org/wiki/Q805",
+    "span": "Yemen",
+    "label": "Yemen",
+    "description": "republic in Western Asia",
+    "type": "LOC"
+  },
+  "ID706": {
+    "url": "https://www.wikidata.org/wiki/Q126114",
+    "span": "uhe",
+    "label": "Uhe",
+    "description": "village in Alutaguse Rural Municipality, Ida-Viru County, Estonia",
+    "type": "ORG"
+  },
+  "ID707": {
+    "url": "https://www.wikidata.org/wiki/Q1396",
+    "span": "Eu",
+    "label": "europium",
+    "description": "chemical element with atomic number of 63",
+    "type": "LOC"
+  },
+  "ID708": {
+    "url": "https://www.wikidata.org/wiki/Q28912455",
+    "span": "Pam",
+    "label": "Pamela Rendi-Wagner",
+    "description": "Austrian politician",
+    "type": "LOC"
+  },
+  "ID709": {
+    "url": "https://www.wikidata.org/wiki/Q5366250",
+    "span": "Elm",
+    "label": "Elm",
+    "description": "Functional reactive programming language",
+    "type": "LOC"
+  },
+  "ID710": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID711": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID712": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID713": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID714": {
+    "url": "https://www.wikidata.org/wiki/Q5627870",
+    "span": "h.",
+    "label": "H.",
+    "description": "1997 single by Tool",
+    "type": "PER"
+  },
+  "ID715": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID716": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID717": {
+    "url": "https://www.wikidata.org/wiki/Q8354594",
+    "span": "grace",
+    "label": "gray asexuality",
+    "description": "spectrum between asexuality and sexuality",
+    "type": "MISC"
+  },
+  "ID718": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID719": {
+    "url": "https://www.wikidata.org/wiki/Q21501975",
+    "span": "Cellier",
+    "label": "Cellier",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID720": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID721": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID722": {
+    "url": "https://www.wikidata.org/wiki/Q57410",
+    "span": "peres",
+    "label": "Shimon Peres",
+    "description": "Israeli politician",
+    "type": "PER"
+  },
+  "ID723": {
+    "url": "https://www.wikidata.org/wiki/Q5280186",
+    "span": "freres",
+    "label": "Dirck Ferreris",
+    "description": "Dutch painter",
+    "type": "PER"
+  },
+  "ID724": {
+    "url": "https://www.wikidata.org/wiki/Q20874570",
+    "span": "souls",
+    "label": "Souls",
+    "description": "action role-playing video game series",
+    "type": "PER"
+  },
+  "ID725": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID726": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID727": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID728": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "MISC"
+  },
+  "ID729": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID730": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID731": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID732": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID733": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID734": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID735": {
+    "url": "https://www.wikidata.org/wiki/Q3441800",
+    "span": "if",
+    "label": "The Icarus Factor",
+    "description": "episode of Star Trek: The Next Generation (S2 E14)",
+    "type": "MISC"
+  },
+  "ID736": {
+    "url": "https://www.wikidata.org/wiki/Q16890578",
+    "span": "Hi",
+    "label": "Germ\u00e1n Garmendia",
+    "description": "Chilean singer and YouTube comedian",
+    "type": "PER"
+  },
+  "ID737": {
+    "url": "https://www.wikidata.org/wiki/Q25136484",
+    "span": "It",
+    "label": "It",
+    "description": "2017 film by Andr\u00e9s Muschietti",
+    "type": "MISC"
+  },
+  "ID738": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID739": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID740": {
+    "url": "https://www.wikidata.org/wiki/Q556",
+    "span": "H",
+    "label": "hydrogen",
+    "description": "chemical element with symbol H and atomic number 1",
+    "type": "PER"
+  },
+  "ID741": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID742": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID743": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID744": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID745": {
+    "url": "https://www.wikidata.org/wiki/Q28561969",
+    "span": "X",
+    "label": "XXXTentacion",
+    "description": "American rapper and singer-songwriter",
+    "type": "MISC"
+  },
+  "ID746": {
+    "url": "https://www.wikidata.org/wiki/Q230",
+    "span": "GE",
+    "label": "Georgia",
+    "description": "republic in the Caucasus region",
+    "type": "ORG"
+  },
+  "ID747": {
+    "url": "https://www.wikidata.org/wiki/Q488026",
+    "span": "nes",
+    "label": "Nes",
+    "description": "municipality in Akershus, Norway",
+    "type": "ORG"
+  },
+  "ID748": {
+    "url": "https://www.wikidata.org/wiki/Q37136",
+    "span": "xi",
+    "label": "11",
+    "description": "natural number",
+    "type": "LOC"
+  },
+  "ID749": {
+    "url": "https://www.wikidata.org/wiki/Q2354177",
+    "span": "Tam",
+    "label": "Tan",
+    "description": "Chinese surname \u8b5a",
+    "type": "PER"
+  },
+  "ID750": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID751": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID752": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID753": {
+    "url": "https://www.wikidata.org/wiki/Q7192558",
+    "span": "Pierrette",
+    "label": "Pierrette",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID754": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID755": {
+    "url": "https://www.wikidata.org/wiki/Q1144202",
+    "span": "VI",
+    "label": "VI",
+    "description": "album by Circle Jerks",
+    "type": "PER"
+  },
+  "ID756": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID757": {
+    "url": "https://www.wikidata.org/wiki/Q7521081",
+    "span": "Jean",
+    "label": "Jean",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID758": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID759": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID760": {
+    "url": "https://www.wikidata.org/wiki/Q53351",
+    "span": "tre",
+    "label": "Accel World",
+    "description": "Japanese light novel series",
+    "type": "LOC"
+  },
+  "ID761": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID762": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID763": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID764": {
+    "url": "https://www.wikidata.org/wiki/Q1968",
+    "span": "f1",
+    "label": "Formula One",
+    "description": "auto racing championship held worldwide",
+    "type": "ORG"
+  },
+  "ID765": {
+    "url": "https://www.wikidata.org/wiki/Q625228",
+    "span": "queline",
+    "label": "Erasmus Quellinus II",
+    "description": "Flemish painter",
+    "type": "PER"
+  },
+  "ID766": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID767": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID768": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID769": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID770": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID771": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID772": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID773": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID774": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID775": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID776": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID777": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID778": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID779": {
+    "url": "https://www.wikidata.org/wiki/Q214575",
+    "span": "Vendome",
+    "label": "Vend\u00f4me",
+    "description": "commune in Loir-et-Cher, France",
+    "type": "MISC"
+  },
+  "ID780": {
+    "url": "https://www.wikidata.org/wiki/Q2777738",
+    "span": "Manot",
+    "label": "Manot",
+    "description": "human settlement in Israel",
+    "type": "LOC"
+  },
+  "ID781": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID782": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID783": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID784": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID785": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID786": {
+    "url": "https://www.wikidata.org/wiki/Q733658",
+    "span": "Clarisse",
+    "label": "Poor Clares",
+    "description": "Catholic order of convent nuns",
+    "type": "PER"
+  },
+  "ID787": {
+    "url": "https://www.wikidata.org/wiki/Q2102344",
+    "span": "Royal",
+    "label": "Koninklijk",
+    "description": "honorary title for companies and organizations in Belgium and the Netherlands",
+    "type": "PER"
+  },
+  "ID788": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID789": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID790": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID791": {
+    "url": "https://www.wikidata.org/wiki/Q16982051",
+    "span": "git",
+    "label": "git",
+    "description": "mildly pejorative British English slang term",
+    "type": "MISC"
+  },
+  "ID792": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID793": {
+    "url": "https://www.wikidata.org/wiki/Q5427533",
+    "span": "Fa",
+    "label": "Fa",
+    "description": "brand of personal care products owned by Henkel",
+    "type": "PER"
+  },
+  "ID794": {
+    "url": "https://www.wikidata.org/wiki/Q44338",
+    "span": "vb",
+    "label": "vBulletin",
+    "description": "Internet forum software",
+    "type": "MISC"
+  },
+  "ID795": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID796": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID797": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID798": {
+    "url": "https://www.wikidata.org/wiki/Q12698777",
+    "span": "ndu",
+    "label": "Ndu",
+    "description": "commune of Cameroon",
+    "type": "ORG"
+  },
+  "ID799": {
+    "url": "https://www.wikidata.org/wiki/Q3072544",
+    "span": "Parisiens",
+    "label": "Les parisiens",
+    "description": "2004 film by Claude Lelouch",
+    "type": "LOC"
+  },
+  "ID800": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID801": {
+    "url": "https://www.wikidata.org/wiki/Q16281987",
+    "span": "Tatum",
+    "label": "Tatum",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID802": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID803": {
+    "url": "https://www.wikidata.org/wiki/Q9747",
+    "span": "u",
+    "label": "U",
+    "description": "letter of the Latin alphabet",
+    "type": "MISC"
+  },
+  "ID804": {
+    "url": "https://www.wikidata.org/wiki/Q156776",
+    "span": "LX",
+    "label": "Swiss International Air Lines",
+    "description": "flag-carrier airline of Switzerland",
+    "type": "MISC"
+  },
+  "ID805": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID806": {
+    "url": "https://www.wikidata.org/wiki/Q240591",
+    "span": "Alene",
+    "label": "Al\u00e8ne",
+    "description": "river",
+    "type": "LOC"
+  },
+  "ID807": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID808": {
+    "url": "https://www.wikidata.org/wiki/Q1798019",
+    "span": "LEON",
+    "label": "LEON",
+    "description": "32-bit CPU microprocessor core originally designed by the European Space Agency",
+    "type": "MISC"
+  },
+  "ID809": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID810": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID811": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID812": {
+    "url": "https://www.wikidata.org/wiki/Q741511",
+    "span": "cloche",
+    "label": "cloche",
+    "description": "close-fitting hats with a bell-shaped crown",
+    "type": "LOC"
+  },
+  "ID813": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID814": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID815": {
+    "url": "https://www.wikidata.org/wiki/Q741511",
+    "span": "cloche",
+    "label": "cloche",
+    "description": "close-fitting hats with a bell-shaped crown",
+    "type": "LOC"
+  },
+  "ID816": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID817": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID818": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID819": {
+    "url": "https://www.wikidata.org/wiki/Q1653985",
+    "span": "AH",
+    "label": "Albert Heijn",
+    "description": "Dutch supermarket chain founded in 1887",
+    "type": "MISC"
+  },
+  "ID820": {
+    "url": "https://www.wikidata.org/wiki/Q155",
+    "span": "br",
+    "label": "Brazil",
+    "description": "federal republic in South America",
+    "type": "PER"
+  },
+  "ID821": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID822": {
+    "url": "https://www.wikidata.org/wiki/Q7333047",
+    "span": "rie",
+    "label": "Rie",
+    "description": "Japanese name",
+    "type": "ORG"
+  },
+  "ID823": {
+    "url": "https://www.wikidata.org/wiki/Q5607460",
+    "span": "grene",
+    "label": "Grene",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID824": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID825": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID826": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID827": {
+    "url": "https://www.wikidata.org/wiki/Q2566198",
+    "span": "Lon",
+    "label": "Leon Wood",
+    "description": "American basketball player and referee",
+    "type": "PER"
+  },
+  "ID828": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID829": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID830": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID831": {
+    "url": "https://www.wikidata.org/wiki/Q758729",
+    "span": "A4",
+    "label": "Audi A4",
+    "description": "car model",
+    "type": "LOC"
+  },
+  "ID832": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "f",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID833": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID834": {
+    "url": "https://www.wikidata.org/wiki/Q509184",
+    "span": "Fat",
+    "label": "Fat",
+    "description": "single",
+    "type": "ORG"
+  },
+  "ID835": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID836": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID837": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID838": {
+    "url": "https://www.wikidata.org/wiki/Q61668028",
+    "span": "Cadet",
+    "label": "Blaine Johnson",
+    "description": "British rapper",
+    "type": "PER"
+  },
+  "ID839": {
+    "url": "https://www.wikidata.org/wiki/Q56244845",
+    "span": "Lambin",
+    "label": "Lambin",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID840": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID841": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID842": {
+    "url": "https://www.wikidata.org/wiki/Q9289",
+    "span": "Men",
+    "label": "Mensa",
+    "description": "constellation in the southern celestial hemisphere",
+    "type": "ORG"
+  },
+  "ID843": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID844": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID845": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID846": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID847": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID848": {
+    "url": "https://www.wikidata.org/wiki/Q8441",
+    "span": "m.",
+    "label": "man",
+    "description": "male adult human",
+    "type": "PER"
+  },
+  "ID849": {
+    "url": "https://www.wikidata.org/wiki/Q36977",
+    "span": "XII",
+    "label": "12",
+    "description": "natural number",
+    "type": "PER"
+  },
+  "ID850": {
+    "url": "https://www.wikidata.org/wiki/Q9325",
+    "span": "lh",
+    "label": "Lufthansa",
+    "description": "German flag-carrier Airline",
+    "type": "MISC"
+  },
+  "ID851": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID852": {
+    "url": "https://www.wikidata.org/wiki/Q1336814",
+    "span": "Morlincourt",
+    "label": "Morlincourt",
+    "description": "commune in Oise, France",
+    "type": "LOC"
+  },
+  "ID853": {
+    "url": "https://www.wikidata.org/wiki/Q10200",
+    "span": "porte",
+    "label": "Porte",
+    "description": "comune (municipality) in the Province of Turin in the Italian region Piedmont",
+    "type": "LOC"
+  },
+  "ID854": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID855": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID856": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID857": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID858": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID859": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID860": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00e9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID861": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID862": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID863": {
+    "url": "https://www.wikidata.org/wiki/Q21430",
+    "span": "seltz",
+    "label": "Seltz",
+    "description": "commune in Bas-Rhin, France",
+    "type": "PER"
+  },
+  "ID864": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID865": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID866": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID867": {
+    "url": "https://www.wikidata.org/wiki/Q344670",
+    "span": "dc",
+    "label": "dc",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID868": {
+    "url": "https://www.wikidata.org/wiki/Q3755540",
+    "span": "g.",
+    "label": "G.",
+    "description": "book by John Berger",
+    "type": "PER"
+  },
+  "ID869": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID870": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID871": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID872": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID873": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID874": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID875": {
+    "url": "https://www.wikidata.org/wiki/Q8067100",
+    "span": "fairs",
+    "label": "street vendor",
+    "description": "vendor of merchandise that can be easily transported",
+    "type": "PER"
+  },
+  "ID876": {
+    "url": "https://www.wikidata.org/wiki/Q10521987",
+    "span": "henna",
+    "label": "henna",
+    "description": "vegetable dye",
+    "type": "PER"
+  },
+  "ID877": {
+    "url": "https://www.wikidata.org/wiki/Q16982051",
+    "span": "git",
+    "label": "git",
+    "description": "mildly pejorative British English slang term",
+    "type": "MISC"
+  },
+  "ID878": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID879": {
+    "url": "https://www.wikidata.org/wiki/Q536986",
+    "span": "maisons",
+    "label": "Maisons",
+    "description": "commune in Calvados, France",
+    "type": "LOC"
+  },
+  "ID880": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID881": {
+    "url": "https://www.wikidata.org/wiki/Q11197",
+    "span": "lg",
+    "label": "logarithm",
+    "description": "inverse function to exponentiation",
+    "type": "ORG"
+  },
+  "ID882": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID883": {
+    "url": "https://www.wikidata.org/wiki/Q4645515",
+    "span": "iit",
+    "label": "8x8",
+    "description": "",
+    "type": "PER"
+  },
+  "ID884": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID885": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID886": {
+    "url": "https://www.wikidata.org/wiki/Q859610",
+    "span": "C\u00e9ran",
+    "label": "C\u00e9ran",
+    "description": "commune in Gers, France",
+    "type": "PER"
+  },
+  "ID887": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID888": {
+    "url": "https://www.wikidata.org/wiki/Q1095545",
+    "span": "Ia",
+    "label": "Ia",
+    "description": "genus of mammals",
+    "type": "PER"
+  },
+  "ID889": {
+    "url": "https://www.wikidata.org/wiki/Q9765",
+    "span": "ef",
+    "label": "F",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID890": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID891": {
+    "url": "https://www.wikidata.org/wiki/Q1149315",
+    "span": "Ie",
+    "label": "Ie",
+    "description": "Japanese family system",
+    "type": "PER"
+  },
+  "ID892": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID893": {
+    "url": "https://www.wikidata.org/wiki/Q200",
+    "span": "II",
+    "label": "2",
+    "description": "natural number",
+    "type": "LOC"
+  },
+  "ID894": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID895": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID896": {
+    "url": "https://www.wikidata.org/wiki/Q2941296",
+    "span": "Cassiop\u00e9e",
+    "label": "Cassiop\u00e9e",
+    "description": "Canadian singer",
+    "type": "LOC"
+  },
+  "ID897": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID898": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID899": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID900": {
+    "url": "https://www.wikidata.org/wiki/Q5614761",
+    "span": "guella",
+    "label": "Guella",
+    "description": "village in Tenkodogo Department, Boulgou Province, Burkina Faso",
+    "type": "PER"
+  },
+  "ID901": {
+    "url": "https://www.wikidata.org/wiki/Q7700742",
+    "span": "Tent",
+    "label": "Tent",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID902": {
+    "url": "https://www.wikidata.org/wiki/Q28790073",
+    "span": "taut",
+    "label": "Taut",
+    "description": "family name",
+    "type": "LOC"
+  },
+  "ID903": {
+    "url": "https://www.wikidata.org/wiki/Q1936151",
+    "span": "vidn",
+    "label": "Jolly Grant Airport",
+    "description": "airport serving Dehradun, Uttarakhand, India",
+    "type": "MISC"
+  },
+  "ID904": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID905": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID906": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID907": {
+    "url": "https://www.wikidata.org/wiki/Q650",
+    "span": "F",
+    "label": "fluorine",
+    "description": "chemical element with the atomic number of 9",
+    "type": "LOC"
+  },
+  "ID908": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID909": {
+    "url": "https://www.wikidata.org/wiki/Q28064451",
+    "span": "PETITION",
+    "label": "Petition",
+    "description": "2009 film by Zhao Liang",
+    "type": "MISC"
+  },
+  "ID910": {
+    "url": "https://www.wikidata.org/wiki/Q80042",
+    "span": "Cheque",
+    "label": "cheque",
+    "description": "method of payment",
+    "type": "LOC"
+  },
+  "ID911": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID912": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID913": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID914": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID915": {
+    "url": "https://www.wikidata.org/wiki/Q519034",
+    "span": "ROse",
+    "label": "Aurora",
+    "description": "title character from Disney's 1959 animated film Sleeping Beauty",
+    "type": "MISC"
+  },
+  "ID916": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID917": {
+    "url": "https://www.wikidata.org/wiki/Q2351943",
+    "span": "Voila",
+    "label": "Voila",
+    "description": "album by Belinda Carlisle",
+    "type": "PER"
+  },
+  "ID918": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID919": {
+    "url": "https://www.wikidata.org/wiki/Q30600919",
+    "span": "vince",
+    "label": "Vince",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID920": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID921": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID922": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID923": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID924": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID925": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID926": {
+    "url": "https://www.wikidata.org/wiki/Q1931128",
+    "span": "AUX",
+    "label": "Aragua\u00edna Airport",
+    "description": "airport in Brazil",
+    "type": "LOC"
+  },
+  "ID927": {
+    "url": "https://www.wikidata.org/wiki/Q453819",
+    "span": "TRAINS",
+    "label": "Trains",
+    "description": "magazine dedicated to trains and railroads",
+    "type": "LOC"
+  },
+  "ID928": {
+    "url": "https://www.wikidata.org/wiki/Q1595911",
+    "span": "Hein",
+    "label": "Hein",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID929": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID930": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID931": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID932": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID933": {
+    "url": "https://www.wikidata.org/wiki/Q630369",
+    "span": "var",
+    "label": "volt-ampere reactive",
+    "description": "unit of power",
+    "type": "PER"
+  },
+  "ID934": {
+    "url": "https://www.wikidata.org/wiki/Q4947194",
+    "span": "Bose",
+    "label": "Bose",
+    "description": "2004 film by Senthil Kumar",
+    "type": "PER"
+  },
+  "ID935": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID936": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID937": {
+    "url": "https://www.wikidata.org/wiki/Q1333551",
+    "span": "fagon",
+    "label": "Guy-Crescent Fagon",
+    "description": "French botanist",
+    "type": "PER"
+  },
+  "ID938": {
+    "url": "https://www.wikidata.org/wiki/Q17345",
+    "span": "dormer",
+    "label": "dormer",
+    "description": "structural element of a building",
+    "type": "PER"
+  },
+  "ID939": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID940": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID941": {
+    "url": "https://www.wikidata.org/wiki/Q6040253",
+    "span": "Ies",
+    "label": "Institute of Education Sciences",
+    "description": "United States Department of Education research branch",
+    "type": "PER"
+  },
+  "ID942": {
+    "url": "https://www.wikidata.org/wiki/Q1095545",
+    "span": "Ia",
+    "label": "Ia",
+    "description": "genus of mammals",
+    "type": "PER"
+  },
+  "ID943": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID944": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID945": {
+    "url": "https://www.wikidata.org/wiki/Q465227",
+    "span": "VILLAGE",
+    "label": "The Village",
+    "description": "2004 American psychological horror film directed by M. Night Shyamalan",
+    "type": "ORG"
+  },
+  "ID946": {
+    "url": "https://www.wikidata.org/wiki/Q53165589",
+    "span": "e1",
+    "label": "2019\u201320 UEFA Europa League",
+    "description": "The 49th season of Europe's secondary club football tournament organised by UEFA",
+    "type": "LOC"
+  },
+  "ID947": {
+    "url": "https://www.wikidata.org/wiki/Q41097",
+    "span": "dew",
+    "label": "dew",
+    "description": "water in the form of droplets that appears on thin, exposed objects in the morning or evening",
+    "type": "LOC"
+  }
+}
